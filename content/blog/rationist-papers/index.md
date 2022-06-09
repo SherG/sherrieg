@@ -12,7 +12,7 @@ You can <a href="https://the-blindspot.com/the-anacyclosis-blind-spot/" target="
 
 Also see Izabella Kaminska's overview: "<a href="https://the-blindspot.com/how-about-a-vitruvian-capitalist-reset/" target="blank">How about a Vitruvian capitalist reset?</a>"
 
-Kaminska is the founder of The Blind Spot. She's a veteran of the <em>Financial</em> Times, Platts, and several other markets- and commodities-focused publications. 
+Kaminska is the founder of The Blind Spot. She's a veteran of the <em>Financial Times</em>, S&P Global Platts, and several other markets- and commodities-focused publications. 
 
 * Timothy Ferguson is author of the Rationist Papers and the founder of the Anacyclosis Institute.
 * Kaminska is a board member at the Anacyclosis Institute. 
