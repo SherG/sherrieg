@@ -88,7 +88,7 @@
 
   const enableSearchEl = () => {
     getSearchEl().disabled = false;
-    getSearchEl().placeholder = 'Search by title';
+    getSearchEl().placeholder = 'Search by title keyword';
   };
 
   const main = () => {
