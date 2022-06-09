@@ -12,7 +12,7 @@ Many ancient Greek thinkers contributed to this theory, but perhaps none more so
 
 In short, empirical observation shows that governments usually devolve before they enter a new stage, and the stages -- or cycles -- repeat themselves across history, in circular fashion. 
 
-Each phase, such as kingship or aristocracy, winds up becoming corrupt and tyrannical. When that happens, the leaders are overthrown, and the next phase of governance appears. 
+Each phase, such as kingship or aristocracy, winds up becoming corrupt and tyrannical. Eventually, its leaders are overthrown, and a new phase of governance appears. 
 
 Here's my truncated version of the cycle:
 
