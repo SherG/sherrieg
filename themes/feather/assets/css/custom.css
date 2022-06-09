@@ -30,6 +30,7 @@ body {
   background-color: var(--custom-body-background-color);
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  background-color:#e6e3db;
 }
 
 /* container */
@@ -137,8 +138,8 @@ figcaption {
   flex-wrap: wrap;
   justify-content: center;
   gap: 1rem;
-  padding: 1rem;
-  background-color: #212529;
+  padding: .5rem;
+  background-color: #00481a;
   border-radius: var(--custom-border-radius);
 }
 
@@ -170,6 +171,7 @@ figcaption {
   margin-bottom: 1rem;
   padding: 1rem;
   padding-bottom: 0;
+  border-width:.05rem !important;
   border-width: var(--custom-border-width);
   border-style: var(--custom-border-style);
 }
@@ -185,4 +187,21 @@ figcaption {
 .custom-icon-text {
   display: inline-block;
   vertical-align: middle;
+}
+
+/* added details styling and changed link color to green except for navlinks */
+
+details > summary {
+  background-color: #f1efe8;
+  border: none;
+}
+
+a {
+  color: #004919;
+}
+
+
+a:hover {
+  background-color: #f0efe9;
+  color: #653300;
 }
