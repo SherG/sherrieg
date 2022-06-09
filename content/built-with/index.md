@@ -5,12 +5,10 @@ toc: false
 draft: false
 ---
 
-Things used in the making of this site.
 
-<!--more-->
-
-- Made with [Hugo](https://gohugo.io/)
-- Styled with [Bootstrap](https://getbootstrap.com/)
-- Content in [GitHub](https://github.com/zwbetz-gh/zwbetz)
-- Deployed by [Netlify](https://www.netlify.com/)
-- Analytics by [GoatCounter](https://zwbetz.goatcounter.com/)
+- Theme by [zwbetz](https://github.com/zwbetz-gh/zwbetz) (<a href="https://github.com/zwbetz-gh/zwbetz/blob/master/LICENSE" target="blank">MIT license</a>) with style edits
+- [Hugo](https://gohugo.io/)
+- [Bootstrap](https://getbootstrap.com/)
+- GitHub
+- [Netlify](https://www.netlify.com/)
+- [GoatCounter](https://www.goatcounter.com/) analytics
