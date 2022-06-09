@@ -1,46 +1,33 @@
 ---
-title: "Home"
-date: 2019-02-13T15:51:29-06:00
+title: "Welcome"
+date: 2022-02-13T15:51:29-06:00
 toc: false
 aliases:
   - /about/
   - /contact/
 ---
 
-Welcome to my corner of the internet. Come on in and make yourself at home. `zwbetz` is short for my full name, Zachary Wade Betz. I'm a husband, father, and generally curious person.
+Welcome to my internet notebook. `sherrieg` is short for my full name, Sherrie Gossett.
 
-My [Blog]({{< relref "blog" >}}) is a loose collection of thoughts, things learned, and who-knows-whats. Here's the [RSS feed](/blog/index.xml).
+My [Blog]({{< relref "blog" >}}) is a loose collection of observations, questions, interests, and projects. Here's the [RSS feed](/blog/index.xml).
 
 <!--more-->
 
 ## Work
 
-I'm a Software Engineer at Sev1Tech (formerly Geocent). I have a B.S. in Information Systems and Decision Sciences from Louisiana State University. Here's my [Resume](/resume/resume.html).
+I work with a brilliant team that buys, grows, and sells valuable digital assets in some of the world's most competitive sectors.
+
+I have a Bachelors in Applied Music and studied music history and theology at the grad level. I also believe that degrees indicate little. 
 
 ## Contact
 
-Wanna get in touch? Email me at `endiZXR6QGdtYWlsLmNvbQ==` (Decode that Base64 string [here]({{< relref "base64-tool" >}})).
+Want to get in touch? Email me at `c2hlcnJpZS5nNUBnbWFpbC5jb20=` (Decode that Base64 string [here]({{< relref "base64-tool" >}})).
 
 ## Elsewhere
 
-Find me on [GitHub](https://github.com/zwbetz-gh).
+I'm also on [SignalFox](https://signalfox.org).
 
-## Various
 
-A blog oldie: [Simple Pleasures]({{< relref "simple-pleasures" >}}).
+### Disclaimer
 
-A quote by one of my favorite thinkers:
-
-{{< blockquote author="Carl Jung" >}}
-Even a happy life cannot be without a measure of darkness, and the word happy would lose its meaning if it were not balanced by sadness. It is far better to take things as they come along with patience and equanimity.
-{{< /blockquote >}}
-
-{{< figure
-img="headshot.jpg"
-caption="Headshot"
-command="Resize"
-options="600x" >}}
-
-## Disclaimer
-
-Opinions expressed here are my own and not those of my employer or any past employer.
+Opinions expressed here are my own and not those of any current or former clients or colleagues.
