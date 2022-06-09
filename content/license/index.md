@@ -5,4 +5,7 @@ toc: false
 draft: false
 ---
 
-Unless otherwise specified, prose is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), code is licensed under [MIT](https://github.com/zwbetz-gh/zwbetz/blob/master/LICENSE).
+Code is licensed under [MIT](https://github.com/zwbetz-gh/zwbetz/blob/master/LICENSE)
+
+Unless otherwise noted, prose and diagrams are (c) Sherrie Gossett. Contact me for permission to use. 
+
