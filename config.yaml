@@ -1,7 +1,7 @@
 baseURL: https://sherrieg.com
 languageCode: en-us
 defaultContentLanguage: en
-title: zwbetz
+title: Sherrie G's blog
 theme: feather
 enableRobotsTXT: true
 timeout: 45000
@@ -53,7 +53,7 @@ menu:
 params:
   show_search: true
   show_debug_table: false
-  goat_counter_code: zwbetz
+  goat_counter_code: sherrieg
   date_format: Jan 2, 2006
 
 markup:
