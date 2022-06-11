@@ -47,7 +47,7 @@ menu:
       url: /license/
       weight: 2
     - name: See an Issue?
-      url: https://github.com/zwbetz-gh/zwbetz/issues
+      url: https://github.com/SherG/sherrieg/issues
       weight: 3
 
 params:
