@@ -2,12 +2,12 @@
 title: "How to beat inflation"
 date: 2022-06-15T01:28:14-05:00
 publishdate: 2022-06-15
-draft: true
+draft: false
 toc: false
 
 ---
 
-Years ago I came across an interesting inflation-beating tip called "The Poor Man's Strategy." The name came from the fact that it was essentially something anyone could do. 
+Years ago I came across an interesting inflation-beating tip called "The Poor Man's Strategy." The name is based on the fact that anyone can do this.
 
 The idea is to stock up on non-perishables that you know for sure you'll need in the future. Of course, you'll stay within your budget to do this.
 
@@ -40,3 +40,5 @@ Tier 2 is likely where most people will spend their money. Here are some example
 It's kind of a fun exercise. Once you figure out what your non-perishables are, you can prioritize them. 
 
 Also: think about getting some silica gel tins to keep tools and metal items free of moisture.
+
+I hope this is helpful!
