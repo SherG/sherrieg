@@ -15,6 +15,7 @@ Here are a few examples:
 * Hiking boots
 * Notebook paper and pens
 * Batteries
+* Windshield washer fluid
 * Bandages, gauze (Note: first aid liquids and ointments are perishable: they have an expiration date)
 * Hand tools you don't have, that you think you'll need
 
