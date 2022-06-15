@@ -66,7 +66,7 @@ Tier 2 is likely where most people will spend their money. Here are some example
     <td class="tg-0pky">bleach</td>
   </tr>
   <tr>
-    <td class="tg-0pky">cabin filter</td>
+    <td class="tg-0pky">cabin air filter</td>
     <td class="tg-0pky">saline solution</td>
     <td class="tg-0pky">tees</td>
     <td class="tg-0pky">light bulbs</td>
