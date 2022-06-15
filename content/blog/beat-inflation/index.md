@@ -1,5 +1,5 @@
 ---
-title: "How to beat inflation"
+title: "How to beat inflation - non-perishables"
 date: 2022-06-15T01:28:14-05:00
 publishdate: 2022-06-15
 draft: false
