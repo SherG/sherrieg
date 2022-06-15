@@ -40,10 +40,10 @@ Tier 2 is likely where most people will spend their money. Here are some example
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0pky">Car</th>
-    <th class="tg-0pky">Personal care</th>
-    <th class="tg-0pky">Clothing</th>
-    <th class="tg-0pky">Household</th>
+    <th class="tg-0pky"><strong>Car</strong></th>
+    <th class="tg-0pky"><strong>Personal care</strong></th>
+    <th class="tg-0pky"><strong>Clothing</strong></th>
+    <th class="tg-0pky"><strong>Household</strong></th>
   </tr>
 </thead>
 <tbody>
