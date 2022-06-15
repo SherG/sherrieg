@@ -57,13 +57,13 @@ Tier 2 is likely where most people will spend their money. Here are some example
     <td class="tg-0pky">oil + lubricants</td>
     <td class="tg-0pky">razor blades</td>
     <td class="tg-0pky">socks</td>
-    <td class="tg-0pky">dishwashing soap</td>
+    <td class="tg-0pky">cleaning fluids</td>
   </tr>
   <tr>
     <td class="tg-0pky">windshield wipers</td>
     <td class="tg-0pky">toothpaste</td>
     <td class="tg-0pky">underwear</td>
-    <td class="tg-0pky">bleach</td>
+    <td class="tg-0pky">trash bags</td>
   </tr>
   <tr>
     <td class="tg-0pky">cabin air filter</td>
