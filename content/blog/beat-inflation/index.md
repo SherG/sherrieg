@@ -29,13 +29,56 @@ An example of Tier 1 might be: you have the materials to build an extra firewood
 
 Tier 2 is likely where most people will spend their money. Here are some examples to get your creative thinking going: 
 
-| Car               	| Personal care   	| Clothing  	| Household                                           	|
-|-------------------	|-----------------	|-----------	|-----------------------------------------------------	|
-| bulbs             	| soap, shampoo   	| shoes     	| laundry detergent                                   	|
-| oil + lubricants  	| razor blades    	| socks     	| dishwashing soap                                    	|
-| windshield wipers 	| toothpaste      	| underwear 	| bleach                                              	|
-| cabin filter      	| saline solution 	| tees      	| light bulbs                                         	|
-| tires             	| make-up         	| jeans     	| fix-it items: duct tape, glue, nails, caulking, etc 	|
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky">Car</th>
+    <th class="tg-0pky">Personal care</th>
+    <th class="tg-0pky">Clothing</th>
+    <th class="tg-0pky">Household</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">bulbs</td>
+    <td class="tg-0pky">soap, shampoo</td>
+    <td class="tg-0pky">shoes</td>
+    <td class="tg-0pky">laundry detergent</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">oil + lubricants</td>
+    <td class="tg-0pky">razor blades</td>
+    <td class="tg-0pky">socks</td>
+    <td class="tg-0pky">dishwashing soap</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">windshield wipers</td>
+    <td class="tg-0pky">toothpaste</td>
+    <td class="tg-0pky">underwear</td>
+    <td class="tg-0pky">bleach</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">cabin filter</td>
+    <td class="tg-0pky">saline solution</td>
+    <td class="tg-0pky">tees</td>
+    <td class="tg-0pky">light bulbs</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">tires</td>
+    <td class="tg-0pky">make-up</td>
+    <td class="tg-0pky">jeans</td>
+    <td class="tg-0pky">fix-it items: duct tape, glue, nails, caulking, etc</td>
+  </tr>
+</tbody>
+</table>
 
 
 <br/>It's kind of a fun exercise. Once you figure out what your non-perishables are, you can prioritize them. 
