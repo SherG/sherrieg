@@ -37,7 +37,8 @@ Tier 2 is likely where most people will spend their money. Here are some example
 | cabin filter      | saline solution | tees      | light bulbs                                         |
 | tires             | make-up         | jeans     | fix-it items: duct tape, glue, nails, caulking, etc |
 
-It's kind of a fun exercise. Once you figure out what your non-perishables are, you can prioritize them. 
+
+<br/>It's kind of a fun exercise. Once you figure out what your non-perishables are, you can prioritize them. 
 
 Also: think about getting some silica gel tins to keep tools and metal items free of moisture.
 
