@@ -75,7 +75,7 @@ Tier 2 is likely where most people will spend their money. Here are some example
     <td class="tg-0pky">tires</td>
     <td class="tg-0pky">make-up</td>
     <td class="tg-0pky">jeans</td>
-    <td class="tg-0pky">fix-it items: duct tape, glue, nails, caulking, etc</td>
+    <td class="tg-0pky">fix-it items: duct tape, glue, <br>nails, caulking, etc</td>
   </tr>
 </tbody>
 </table>
