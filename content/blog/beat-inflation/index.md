@@ -1,6 +1,6 @@
 ---
 title: "How to beat inflation"
-date: 2022-06-15T21:28:14-05:00
+date: 2022-06-15T01:28:14-05:00
 publishdate: 2022-06-15
 draft: true
 toc: false
