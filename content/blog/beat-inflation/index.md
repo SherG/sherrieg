@@ -19,7 +19,7 @@ Here are a few examples:
 Once you start thinking of ideas all sorts of things will come to mind. You could categorize these by use (e.g., automotive) and/or by cost. 
 
 One popular idea is to create 3 cost tiers, and to work on one exclusively before moving to another: 
-* Tier 1: free things you can do
+* Tier 1: free or cheap things you can do
 * Tier 2: low-to-moderate cost items
 * Tier 3: pricey items 
 
