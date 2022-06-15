@@ -29,13 +29,13 @@ An example of Tier 1 might be: you have the materials to build an extra firewood
 
 Tier 2 is likely where most people will spend their money. Here are some examples to get your creative thinking going: 
 
-| Car               | Personal care   | Clothing  | Household                                           |
-|-------------------|-----------------|-----------|-----------------------------------------------------|
-| bulbs             | soap, shampoo   | shoes     | laundry detergent                                   |
-| oil + lubricants  | razor blades    | socks     | dishwashing soap                                    |
-| windshield wipers | toothpaste      | underwear | bleach                                              |
-| cabin filter      | saline solution | tees      | light bulbs                                         |
-| tires             | make-up         | jeans     | fix-it items: duct tape, glue, nails, caulking, etc |
+| Car               	| Personal care   	| Clothing  	| Household                                           	|
+|-------------------	|-----------------	|-----------	|-----------------------------------------------------	|
+| bulbs             	| soap, shampoo   	| shoes     	| laundry detergent                                   	|
+| oil + lubricants  	| razor blades    	| socks     	| dishwashing soap                                    	|
+| windshield wipers 	| toothpaste      	| underwear 	| bleach                                              	|
+| cabin filter      	| saline solution 	| tees      	| light bulbs                                         	|
+| tires             	| make-up         	| jeans     	| fix-it items: duct tape, glue, nails, caulking, etc 	|
 
 
 <br/>It's kind of a fun exercise. Once you figure out what your non-perishables are, you can prioritize them. 
