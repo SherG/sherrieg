@@ -81,6 +81,6 @@ Tier 2 is likely where most people will spend their money. Here are some example
 
 <br/>It's kind of a fun exercise. Once you figure out what your non-perishables are, you can prioritize them. 
 
-Also: think about getting some silica gel tins to keep tools and metal items free of moisture.
+Also: think about getting some silica gel tins to keep tools and other stored items free of moisture.
 
 I hope this is helpful!
