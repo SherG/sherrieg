@@ -9,21 +9,20 @@ toc: false
 
 Years ago I came across an interesting inflation-beating tip called "The Poor Man's Strategy." The name is based on the fact that anyone can do this.
 
-The idea is to stock up on non-perishables that you know for sure you'll need in the future. Of course, you'll stay within your budget to do this.
+## Buying ahead
+
+The idea is to buy non-perishables now that you know for sure you'll need in the future. Of course, you'll stay within your budget to do this.
 
 Here are a few examples: 
 * Hiking boots
 * Notebook paper and pens
 * Batteries
 
-Once you start thinking of ideas all sorts of things will come to mind. You could categorize these by use (e.g., automotive) and/or by cost. 
+Once you out your mind to it, all sorts of things will come to mind. You could categorize these by use (e.g., automotive) and/or by cost. 
 
-One popular idea is to create 3 cost tiers, and to work on one exclusively before moving to another: 
-* Tier 1: free or cheap things you can do
-* Tier 2: low-to-moderate cost items
-* Tier 3: pricey items 
-
-An example of Tier 1 might be: you have the materials to build an extra firewood shed. Because you want to buy extra firewood soon (Tier 3) you go ahead and build the shed, expending only your time. 
+One popular idea is to create cost tiers, and to work on one exclusively before moving to another. For example: 
+* Tier 1: low-to-moderate cost items
+* Tier 2: pricier items (e.g., automobile tires)
 
 Tier 2 is likely where most people will spend their money. Here are some examples to get your creative thinking going: 
 
@@ -52,7 +51,7 @@ Tier 2 is likely where most people will spend their money. Here are some example
     <td class="tg-0pky">laundry detergent</td>
   </tr>
   <tr>
-    <td class="tg-0pky">oil + lubricants</td>
+    <td class="tg-0pky">fluids + lubricants</td>
     <td class="tg-0pky">razor blades</td>
     <td class="tg-0pky">socks</td>
     <td class="tg-0pky">cleaning fluids</td>
@@ -70,7 +69,7 @@ Tier 2 is likely where most people will spend their money. Here are some example
     <td class="tg-0pky">light bulbs</td>
   </tr>
   <tr>
-    <td class="tg-0pky">tires</td>
+    <td class="tg-0pky">battery</td>
     <td class="tg-0pky">make-up</td>
     <td class="tg-0pky">jeans</td>
     <td class="tg-0pky">fix-it items: duct tape, glue, <br>nails, caulking, etc</td>
@@ -80,6 +79,8 @@ Tier 2 is likely where most people will spend their money. Here are some example
 
 
 <br/>It's kind of a fun exercise. Once you figure out what your non-perishables are, you can prioritize them. 
+
+Buying ahead can be as simple as: you need trash bags, found a great sale price, and buy 2-3 instead of 1.
 
 Also: think about getting some silica gel tins to keep tools and other stored items free of moisture.
 
