@@ -18,7 +18,7 @@ Here are a few examples:
 * Notebook paper and pens
 * Batteries
 
-Once you out your mind to it, all sorts of things will come to mind. You could categorize these by use (e.g., automotive) and/or by cost. 
+Once you put your mind to it, all sorts of things will come to mind. You could categorize these by use (e.g., automotive) and/or by cost. 
 
 One popular idea is to create cost tiers, and to work on one exclusively before moving to another. For example: 
 * Tier 1: low-to-moderate cost items
