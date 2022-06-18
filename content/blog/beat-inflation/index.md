@@ -20,6 +20,8 @@ Here are a few examples:
 
 Once you put your mind to it, all sorts of things will come to mind. You could categorize these by use (e.g., automotive) and/or by cost. 
 
+## Sorting + prioritizing 
+
 One popular idea is to create cost tiers, and to work on one exclusively before moving to another. For example: 
 * Tier 1: low-to-moderate cost items
 * Tier 2: pricier items (e.g., automobile tires)
