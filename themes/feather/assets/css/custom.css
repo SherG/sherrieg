@@ -127,6 +127,7 @@ figure {
 
 figcaption {
   padding: 1rem;
+  border-top-width: .03rem !important;
   border-top-width: var(--custom-border-width);
   border-top-style: var(--custom-border-style);
 }
