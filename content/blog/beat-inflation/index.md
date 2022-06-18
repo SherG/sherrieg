@@ -20,7 +20,7 @@ Here are a few examples:
 
 Once you put your mind to it, all sorts of things will come to mind. You could categorize these by use (e.g., automotive) and/or by cost.
 
-<img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto/v1655572796/sherrieg/9003-headlamp-sale_lu7mbj.png" />
+<img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto/v1655573296/sherrieg/hella-9003-bulb_leurct.png" />
 
 ### Sorting + prioritizing 
 
