@@ -78,7 +78,7 @@ Tier 2 is likely where most people will spend their money. Here are some example
 </table>
 
 
-<br/>It's kind of a fun exercise. Once you figure out what your non-perishables are, you can prioritize them. 
+<br/>It's kind of a fun exercise. Once you list your "must-have" non-perishables, you can sort the items by priority.
 
 Buying ahead can be as simple as: you need trash bags, found a great sale price, and buy 2-3 instead of 1.
 
