@@ -9,6 +9,6 @@ draft: false
 - Theme by [zwbetz](https://github.com/zwbetz-gh/zwbetz) (<a href="https://github.com/zwbetz-gh/zwbetz/blob/master/LICENSE" target="blank">MIT license</a>) with style edits
 - [Hugo](https://gohugo.io/)
 - [Bootstrap](https://getbootstrap.com/)
-- GitHub
+- [GitHub](https://github.com/SherG/sherrieg)
 - [Netlify](https://www.netlify.com/)
-- [GoatCounter](https://www.goatcounter.com/) analytics
+- [GoatCounter](https://www.goatcounter.com/)
