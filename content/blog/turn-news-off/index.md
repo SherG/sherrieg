@@ -12,7 +12,7 @@ Some of the issues highlighted are:
 
 * News stories based entirely on anonymous sources -- something which a couple of decades ago was rightly considered unethical in journalism. 
 * Visual media has a different impact on people than reading text.
-* The fabricated sense of urgency which corrodes trust and amplifies negative emotions can also prevent you from making sound decisions about your security.
+* The fabricated sense of urgency which corrodes trust and amplifies negative emotions can also prevent you from making sound decisions.
 
 ## False alarms and the drawbridge of perception
 
