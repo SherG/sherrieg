@@ -18,5 +18,8 @@ I'm writing an in-depth article about this for my SignalFox.org site. But I'll c
 * The authors of a study that Republican senators cited as proving Gmail bias, have said their findings are being misinterpreted.
 * Political campaign marketers are known to engage in <a href="http://ahoy-assets.twilio.com/docs/Twilio_2019_Presidential_Campaign_Email_Study.pdf?_ga=2.88913947.1452877676.1655763021-1551870462.1654233161" target="blank">poor email marketing practices</a>: the very practices that cause email to be marked as spam. 
 * In the business world, a professional marketing team, when faced with spam problems, will say "Let's put our Sherlock Holmes hats on and figure out what we're doing wrong." Why don't political campaign teams do the same?
-* While no observer knows the details of the Rubio team's email marketing program, it's reasonable to view claims of sabotage by Google with skepticism and to avoid amplifying them. Given the propensity of political campaigns to handle email poorly, and given the complexity of email marketing, it's incumbent on the Rubio team to prove they haven't caused their own failures.
+* While no observer knows the details of the Rubio team's email marketing practices, it's reasonable to view claims of sabotage by Google with skepticism and to avoid amplifying them. 
+
+Spam problems call for objective diagnostics and testing rather than speculation.
+
 
