@@ -7,13 +7,13 @@ toc: true
 
 ---
 
-This is a nutrient-dense summer dish that's mildly spicy. Easy to make, it's a meal in itself and pairs well with grilled chicken. Plus you can serve it up as a burrito.
+This is a nutrient-dense summer dish that's mildly spicy. Easy to make, it's a meal in itself and pairs well with grilled chicken. (Add some fire to that chicken with Weber's Kick'n Chicken seasoning.) Plus you can serve it up as a burrito.
 
 Tips:
 
 * Experiment to taste with the amount of vinegar and lime juice. 
 * I like the adobo sauce that comes in Goya's canned chipotle peppers. Adding the thick sauce from 1-2 cans really adds a lot of flavor. 
-* Add fresh corn if you like
+* Add fresh corn if you like or red and yellow peppers
 
 Cook the beans first, then chill a bit before adding the vegetables, spices and liquids. 
 
@@ -34,7 +34,7 @@ Cook the beans first, then chill a bit before adding the vegetables, spices and 
 * Cayenne pepper
 
 ## Optional garnishes: 
-* Low-fat sour cream, chopped cilantro, a sprinking of toasted cashews, crushed.
+* Low-fat sour cream, chopped cilantro, a sprinking of toasted nuts, crushed.
 
 ## Cook the beans
 
