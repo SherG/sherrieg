@@ -1,7 +1,7 @@
 ---
 title: "Did Google Eat Marco Rubio's Campaign Emails?"
-date: 2022-05-31T21:28:14-05:00
-publishdate: 2022-05-31
+date: 2022-06-20T21:28:14-05:00
+publishdate: 2022-06-20
 draft: false
 toc: false
 ---
