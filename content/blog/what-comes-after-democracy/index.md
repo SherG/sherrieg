@@ -61,7 +61,7 @@ Here are some questions that I see arising from the theory:
 
 * If the theory of anacyclosis is relevant to what is happening in America, what are the required restorative actions? Are those happening or being discussed in any political party or branch of government? Are they being discussed in media? 
 * Or are politicians on both sides of the aisle committed to dealing with symptoms rather than causes? 
-* Throughout history the concept of a strongman was limited to a single, charismatic individual. (See Charles Lindholm's book <em><a href="https://www.academia.edu/12414671/Charisma" target="blank">Charisma</a></em> for a fascinating analysis.) But what’s to say that a 21st-century “strongman” won’t emerge as a borg-like group, instead of as a single individual?
+* Throughout history the concept of a strongman was limited to a single, charismatic individual. (See Charles Lindholm's book <em><a href="https://www.academia.edu/12414671/Charisma" target="blank">Charisma</a></em> for a fascinating analysis.) But what’s to say that a 21st-century “strongman” won’t emerge as decentralized, borg-like group, instead of as a single individual? Or perhaps both types might emerge at the same time.
 
 ## Exploring Rationist.org
 
