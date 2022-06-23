@@ -12,7 +12,7 @@ Many ancient Greek thinkers contributed to this theory, but perhaps none more so
 
 In short, empirical observation shows that governments usually devolve before they enter a new stage, and the stages -- or cycles -- repeat themselves across history, in circular fashion. 
 
-Each phase, such as kingship or aristocracy, winds up becoming corrupt and tyrannical. Eventually, its leaders are overthrown, and a new phase of governance appears. 
+Each phase, such as kingship or aristocracy, winds up becoming corrupt and tyrannical. Eventually its leaders are overthrown and a new phase of governance appears. 
 
 Here's my truncated version of the cycle:
 
@@ -31,7 +31,7 @@ The rise of an <em>independent</em> middle class, which can speak truth to power
 
 Middling virtues practiced by the middle class are requisite and provide social cohesion.
 
-But when the middle class declines its members either successfully transit into the upper class or descend into poverty. There is a diminishing base which can hold government in check.
+When the middle class declines its members either successfully transit into the upper class or descend into poverty. There is a diminishing base which can hold government in check.
 
 As Timothy Ferguson <a href="https://anacyclosis.org/2020/04/29/do-we-even-have-a-middle-class-anymore/" target="blank">notes</a>: 
 
