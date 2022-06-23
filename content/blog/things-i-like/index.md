@@ -216,6 +216,11 @@ After getting the Strat and getting some custom work done on it (had the neck sh
   </ul>
   <li><a href="https://www.thempi.org/" target="blank">MPI films</a></li>
 </ul>
+
+## Sports I enjoy doing
+
+* <a href="https://www.surfertoday.com/bodyboarding/what-is-airboarding" target="blank">Airboarding</a>
+Fastest slope run? 70mph - by accident (took the wrong ski lift up!)
   
 ## Non-profits
 
