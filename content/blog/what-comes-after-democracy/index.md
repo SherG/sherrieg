@@ -49,7 +49,7 @@ Outbreaks of violence and mob rule. Also: the rise of competing demogogues (note
 
 In this view, the rise of demagogues or violent skirmishes are not a cause: they're a symptom of something that's <em>already happened</em>. 
 
-Demagogues see an opportunity to acquire power by taking advantage of the situation.
+Demagogues, sensing an opportunity, stir the pot of grievances in order to acquire power by leading a disgruntled faction.
 
 The resolution of the "contest of demagogues" heralds the death of democracy and the imminent return to a primitive monarchy: rule by a Caesar-like figure. 
 
