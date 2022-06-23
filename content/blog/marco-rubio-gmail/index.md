@@ -12,7 +12,7 @@ On May 21 Rubio tweeted:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Marco Rubio for Senate is in <a href="https://twitter.com/Google?ref_src=twsrc%5Etfw">@Google</a> purgatory<br><br>Since a Pelosi puppet announced she was running against me they have sent 66% of my emails to REGISTERED SUPPORTERS with <a href="https://twitter.com/gmail?ref_src=twsrc%5Etfw">@gmail</a> to spam<br><br>And during the final weeks of finance quarters it climbs to over 90%</p>&mdash; Marco Rubio (@marcorubio) <a href="https://twitter.com/marcorubio/status/1528015121573941251?ref_src=twsrc%5Etfw">May 21, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-I'm writing an in-depth article about this for my SignalFox.org site. But I'll cut to the chase here.
+I'm writing an in-depth article about this for my <a href="https://www.signalfox.org/" target="blank">SignalFox.org</a> site. But I'll cut to the chase here.
 
 * There are always 3 groups involved in email marketing: the marketers, the end user, and the third parties in between. Those third-parties include internet service providers (ISPs), email marketing platforms, multi-channel marketing automation platforms, add-on spam filters, and countless apps that help you sort, filter, and schedule your emails. <em>Any of these can impact whether or not an email is marked as "spam."</em>
 * The authors of a study that Republican senators cited as proving Gmail bias, have said their findings are being <a href="https://www.washingtonpost.com/politics/2022/05/25/republicans-seized-study-proof-googles-bias-its-authors-say-it-being-misrepresented/" target="blank">misinterpreted</a>.
