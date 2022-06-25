@@ -59,12 +59,13 @@ Here's a good description from the Anacyclosis Institute:
 
 ## Questions
 
-Here are some questions that I see arising from the theory:
+Here are some things this theory has prompted me to think about:
 
 * If the theory of anacyclosis is relevant to what is happening in America, what are the required restorative actions? Are those happening or being discussed in any political party or branch of government? Are they being discussed in media? 
 * Or are politicians on both sides of the aisle committed to dealing with symptoms rather than causes? 
 * Throughout history the concept of a strongman was limited to a single, charismatic individual. (See Charles Lindholm's book <em><a href="https://www.academia.edu/12414671/Charisma" target="blank">Charisma</a></em> for a fascinating analysis.) But what’s to say that a 21st-century “strongman” won’t emerge as decentralized, borg-like group, instead of as a single individual? Or perhaps both types might emerge at the same time.
 * What are the social consequences of blurring (intentionally or otherwise) the distinction between a demagogue (or a demagogue network) and the faction(s) they seek to lead? 
+* Do some critics of demagogues -- or decentralized demagogue-like networks -- including news media, adopt (consciously or not) the same tactics, such as focusing on "problem people" rather than foundational issues? Are there financial incentives to do so? Are there social esteem incentives to do so? Does this (ironically) advance the effects of demagoguery, further inflaming faction, throughout society? 
 * Did the coronavirus lockdowns accelerate the anacyclosis process by hollowing out the middle class further and increasing dependency on government?
 
 ## Exploring Rationist.org
