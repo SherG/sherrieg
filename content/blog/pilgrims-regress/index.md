@@ -29,7 +29,9 @@ It's worth noting the book was first published in 1933; I believe this editorial
 
 <div style="padding-left: 2.5em;"><p>The things I have symbolized by North and South, which are to me equal and opposite evils, each continually strengthened and made plausible by its critique of the other, enter our experience on many different levels. </p>
 
-<p>In agriculture we have to fear both the barren soil and the soil which is irresistibly fertile. In the animal kingdom, the crustacean and the jellyfish represent two low solutions of the problem of existence.</p>
+<p>In agriculture we have to fear both the barren soil and the soil which is irresistibly fertile.</p>
+
+<p>In the animal kingdom, the crustacean and the jellyfish represent two low solutions of the problem of existence.</p>
 
 <p>In our eating, the palate revolts both from excessive bitter and excessive sweet. </p>
 
