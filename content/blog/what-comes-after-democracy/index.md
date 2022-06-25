@@ -103,7 +103,7 @@ Excerpts: <br/>
 * "Democracy is only a phase in the cycle of revolution."
 * "Abstract thinking and a wide field of vision are required to perceive anacyclosis."
 * "From the ruin of the middle class arises the tournament of demagogues."
-* "Social stratification is expanding, dependency is intensifying,subsidies are increasing, and demagogues are ascendant. If an independent middle class is not soon restored, next, and once again, comes demagarchy."
+* "Social stratification is expanding, dependency is intensifying, subsidies are increasing, and demagogues are ascendant. If an independent middle class is not soon restored, next, and once again, comes demagarchy."
 
 
 
