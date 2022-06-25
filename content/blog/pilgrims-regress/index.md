@@ -1,6 +1,6 @@
 ---
 title: "C.S. Lewis and Sticking to the Main Road"
-date: 2022-03-28T00:00:00-06:00
+date: 2022-06-25T00:00:00-06:00
 draft: true
 ---
 
