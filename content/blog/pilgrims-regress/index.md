@@ -1,11 +1,13 @@
 ---
-title: "Sticking to the Main Road - excerpts from <em>Pilgrim's Regress</em>"
+title: "Sticking to the Main Road - excerpts from Pilgrim's Regress"
 date: 2022-06-25T00:00:00-06:00
 draft: false
 toc: false
 ---
 
-C.S. Lewis's allegory <em>Pilgrim's Regress</em> features among its characters, fictional occupants of "North" and "South" regions. Although not intended as a commentary on politics, when I first read the book years ago, these regions reminded me of the extremes that can manifest in conservative and liberal social groups. I found the comparison somewhat humorous and enlightening. 
+C.S. Lewis's allegory <em>Pilgrim's Regress</em> features among its characters, fictional occupants of "North" and "South" regions. 
+
+Although not intended as a commentary on politics, when I first read the book years ago, these regions reminded me of the extremes that can manifest in conservative and liberal social groups. I found the comparison somewhat humorous and enlightening:
 
 <div style="padding-left: 2.5em;"><p>The Northerners are the men of rigid systems whether skeptical or dogmatic, Aristocrats, Stoics, Pharisees, Rigorists, signed and sealed members of highly organised "Parties".</p>
 
@@ -15,7 +17,7 @@ C.S. Lewis's allegory <em>Pilgrim's Regress</em> features among its characters, 
 
 <p>Every feeling is justified by the mere fact that it is felt: for a Northerner, every feeling on the same ground is suspect.</p>
 
-<p>An arrogant and hasty selectiveness on some narrow a priori basis cuts him off from the sources of life.</p>
+<p>An arrogant and hasty selectiveness on some narrow a priori basis cuts him off from the sources of life.</p></div>
   
   
 And here's the larger context of that passage: 
