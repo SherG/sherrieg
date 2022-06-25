@@ -66,7 +66,7 @@ Here are some things this theory has prompted me to think about:
 * Throughout history the concept of a strongman was limited to a single, charismatic individual. (See Charles Lindholm's book <em><a href="https://www.academia.edu/12414671/Charisma" target="blank">Charisma</a></em> for a fascinating analysis.) But what’s to say that a 21st-century “strongman” won’t emerge as decentralized, borg-like group, instead of as a single individual? Or perhaps both types might emerge at the same time.
 * What are the social consequences of blurring (intentionally or otherwise) the distinction between a demagogue (or a decentralized demagogue-like network) and the faction(s) they seek/purport to lead? 
 * Do some critics of demagogues -- or decentralized demagogue-like networks -- including elected officials and news media, adopt (consciously or not) the same tactics, such as focusing on "problem people" rather than foundational issues? Are there financial or 'power' incentives to do so? Are there social esteem incentives to do so? Does this (ironically) advance the effects of demagoguery, further inflaming faction, throughout society? Does this undermine the restoring of a stable foundation for the republic?
-* Did the coronavirus lockdowns accelerate the anacyclosis process by hollowing out the middle class further and increasing dependency, by all but the wealthy, on government?
+* Did the coronavirus lockdowns accelerate the anacyclosis process by hollowing out the middle class further and increasing dependency, of all classes but the wealthy, on government?
 
 ## Exploring Rationist.org
 
