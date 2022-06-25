@@ -20,7 +20,7 @@ Although not intended as a commentary on politics, when I first read the book ye
 <p>An arrogant and hasty selectiveness on some narrow a priori basis cuts him off from the sources of life.</p></div>
   
   
-And here's the larger context of that passage. (I've broken up the long paragraphs to make the text more 'readable' via screen reading.) It's worth noting the book was first published in 1933; I believe this editorial note was added to the third edition. It references Nazis and war on the Don so I'm thinking it was published in or around 1941.
+And here's the larger context of that passage. (I've broken up the long paragraphs and added a few sub-heads to make the text more 'readable' via screen reading.) It's worth noting the book was first published in 1933; I believe this editorial note was added to the third edition. It references Nazis and war on the Don so I'm thinking it was published in or around 1941.
 
 ## The symbols of North and South
 
