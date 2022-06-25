@@ -1,5 +1,5 @@
 ---
-title: "Sticking to the Main Road - excerpts from Pilgrim's Regress"
+title: "Sticking to the Main Road - excerpts from <em>Pilgrim's Regress</em>"
 date: 2022-06-25T00:00:00-06:00
 draft: false
 toc: false
