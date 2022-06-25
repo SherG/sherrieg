@@ -57,4 +57,6 @@ And here's the larger context of that passage. (I've broken up the long paragrap
 
 ## "hold the Main Road"
 
- <p>With both the 'North' and the 'South' a man has, I take it, only one concern - to avoid them and hold the Main Road. We must not 'hearken to the over-wise  or to the over-foolish giant'. We were made to be neither cerebral men nor visceral men, but Men. Not beasts nor angels but Men - things at once rational and animal. </p>
+ <p>With both the 'North' and the 'South' a man has, I take it, only one concern - to avoid them and hold the Main Road. We must not 'hearken to the over-wise  or to the over-foolish giant'.
+ 
+We were made to be neither cerebral men nor visceral men, but Men. Not beasts nor angels but Men - things at once rational and animal. </p>
