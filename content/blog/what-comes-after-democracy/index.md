@@ -98,7 +98,7 @@ Sample passage:
 By Timothy Ferguson in <em>The Financial Times</em><br/>
 "A declining middle class is consequently the harbinger of revolution, for the diffusion (and concentration) of wealth tends to precede the diffusion (and concentration) of political power."
 
-<a href="https://www.startribune.com/the-disappearing-middle-class-and-a-nation-on-the-brink/381173031/" target="blank">The Disappearing Middle Class and a Nation on the Brink: Lessons from Rome: Concentration of wealth destroys democracy</a><br/>
+<a href="https://www.startribune.com/the-disappearing-middle-class-and-a-nation-on-the-brink/381173031/" target="blank">The Disappearing Middle Class and a Nation on the Brink</a><br/>
 By Timothy Ferguson and David C. Gore in the <em>Star Tribune</em><br/>
 "The American middle class is declining. As our middle class falls, our political temperature rises. Crane Brinton’s likening of political revolution to a fever in his classic work “The Anatomy of Revolution” seems particularly apt. Middle-class decline is a preliminary symptom."
 
