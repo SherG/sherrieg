@@ -65,6 +65,7 @@ Here are some questions that I see arising from the theory:
 * Or are politicians on both sides of the aisle committed to dealing with symptoms rather than causes? 
 * Throughout history the concept of a strongman was limited to a single, charismatic individual. (See Charles Lindholm's book <em><a href="https://www.academia.edu/12414671/Charisma" target="blank">Charisma</a></em> for a fascinating analysis.) But what’s to say that a 21st-century “strongman” won’t emerge as decentralized, borg-like group, instead of as a single individual? Or perhaps both types might emerge at the same time.
 * What are the social consequences of blurring (intentionally or otherwise) the distinction between a demagogue (or a demagogue network) and the faction(s) they seek to lead? 
+* Did the coronavirus lockdowns accelerate the anacyclosis process by hollowing out the middle class further and increasing dependency on government?
 
 ## Exploring Rationist.org
 
