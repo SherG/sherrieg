@@ -7,7 +7,7 @@ toc: false
 
 C.S. Lewis's allegory <em>Pilgrim's Regress</em> features among its characters, fictional occupants of "North" and "South" regions. 
 
-Although not intended as a commentary on politics, when I first read the book years ago, these regions reminded me of the extremes that can manifest in conservative and liberal social groups. I found the comparison somewhat humorous and enlightening:
+Although not intended as a commentary on politics, when I first read the book years ago, part of the descripton of these regions reminded me of the extremes that can manifest in conservative and liberal social groups. I found the comparison somewhat humorous and enlightening:
 
 <div style="padding-left: 2.5em;"><p>The Northerners are the men of rigid systems whether skeptical or dogmatic, Aristocrats, Stoics, Pharisees, Rigorists, signed and sealed members of highly organised "Parties".</p>
 
