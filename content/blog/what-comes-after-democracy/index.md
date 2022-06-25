@@ -23,13 +23,13 @@ Here's my truncated version of the cycle:
 
 Please note that the phases are often described with differing terms. <a href="https://anacyclosis.org/wp-content/uploads/2019/11/Anacyclosis-Flyer-November-2019.pdf" target="blank">Here is a more robust list</a> from the <a href="https://anacyclosis.org/" target="blank">Anacyclosis Institute</a> whose work I discovered during the pandemic.
 
-The institute has further developed the theory, taking into account centuries of history after Polybius and focusing on the unique role played by the middle class, whose decline is preceded by a plutocratic siphoning off of wealth.
+The institute has further developed the theory, taking into account centuries of history after Polybius and focusing on the unique role played by the middle class.
 
 ## The role of an independent middle class
 
 The rise of an <em>independent</em> middle class, which can speak truth to power, is rare in history and made democracy possible. 
 
-Middling virtues practiced by the middle class are requisite and provide social cohesion.
+Middling virtues practiced by the middle class are requisite and provide social cohesion. 
 
 When the middle class declines its members either successfully transit into the upper class or descend into poverty. There is a diminishing base which can hold government in check.
 
@@ -90,11 +90,11 @@ Sample passage:
 
 ### Related
 
-<a href="https://www.ft.com/content/e3821f59-cc50-311a-8ba7-5841f32962d3" target="blank">The Mob Awakens</a>
+<a href="https://www.ft.com/content/e3821f59-cc50-311a-8ba7-5841f32962d3" target="blank">The Mob Awakens</a><br/>
 By Timothy Ferguson in <em>The Financial Times</em><br/>
 "A declining middle class is consequently the harbinger of revolution, for the diffusion (and concentration) of wealth tends to precede the diffusion (and concentration) of political power."
 
-<a href="https://www.startribune.com/the-disappearing-middle-class-and-a-nation-on-the-brink/381173031/" target="blank">The Disappearing Middle Class and a Nation on the Brink: Lessons from Rome: Concentration of wealth destroys democracy</a>
+<a href="https://www.startribune.com/the-disappearing-middle-class-and-a-nation-on-the-brink/381173031/" target="blank">The Disappearing Middle Class and a Nation on the Brink: Lessons from Rome: Concentration of wealth destroys democracy</a><br/>
 By Timothy Ferguson and David C. Gore in the <em>Star Tribune</em><br/>
 "The American middle class is declining. As our middle class falls, our political temperature rises. Crane Brinton’s likening of political revolution to a fever in his classic work “The Anatomy of Revolution” seems particularly apt. Middle-class decline is a preliminary symptom."
 
