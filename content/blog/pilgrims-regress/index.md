@@ -1,10 +1,11 @@
 ---
-title: "C.S. Lewis and Sticking to the Main Road"
+title: "Sticking to the Main Road - excerpts from Pilgrim's Regress"
 date: 2022-06-25T00:00:00-06:00
-draft: true
+draft: false
+toc: false
 ---
 
-C.S. Lewis's allegory <em>Pilgrim's Regress</em> features among its characters, fictional occupants of "North" and "South" regions. Although not intended as a commentary on politics, when I first read the book years ago, these regions reminded me of the extremes that can manifest in conservative and liberal social groups. I found the comparison somewhat humorous and enlightening. Regarding the latter because the 'Northern' folks tend to hold to rigid boundaries and exaggerate distinctions while 'Southern' folks blur boundaries in excess. Here's the passage:
+C.S. Lewis's allegory <em>Pilgrim's Regress</em> features among its characters, fictional occupants of "North" and "South" regions. Although not intended as a commentary on politics, when I first read the book years ago, these regions reminded me of the extremes that can manifest in conservative and liberal social groups. I found the comparison somewhat humorous and enlightening. 
 
 <div style="padding-left: 2.5em;"><p>The Northerners are the men of rigid systems whether skeptical or dogmatic, Aristocrats, Stoics, Pharisees, Rigorists, signed and sealed members of highly organised "Parties".</p>
 
