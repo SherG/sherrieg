@@ -64,6 +64,7 @@ Here are some questions that I see arising from the theory:
 * If the theory of anacyclosis is relevant to what is happening in America, what are the required restorative actions? Are those happening or being discussed in any political party or branch of government? Are they being discussed in media? 
 * Or are politicians on both sides of the aisle committed to dealing with symptoms rather than causes? 
 * Throughout history the concept of a strongman was limited to a single, charismatic individual. (See Charles Lindholm's book <em><a href="https://www.academia.edu/12414671/Charisma" target="blank">Charisma</a></em> for a fascinating analysis.) But what’s to say that a 21st-century “strongman” won’t emerge as decentralized, borg-like group, instead of as a single individual? Or perhaps both types might emerge at the same time.
+* What are the social consequences of blurring (intentionally or otherwise) the distinction between a demagogue (or a demagogue network) and the faction(s) they seek to lead? 
 
 ## Exploring Rationist.org
 
@@ -89,16 +90,17 @@ Sample passage:
 </details><br/><br/>
 
 ### Related
+<br/>
 
 <a href="https://www.ft.com/content/e3821f59-cc50-311a-8ba7-5841f32962d3" target="blank">The Mob Awakens</a><br/>
-By Timothy Ferguson in <em>The Financial Times</em><br/>
+By Timothy Ferguson in <em>The Financial Times</em><br/><br/>
 "A declining middle class is consequently the harbinger of revolution, for the diffusion (and concentration) of wealth tends to precede the diffusion (and concentration) of political power."
 
 <a href="https://www.startribune.com/the-disappearing-middle-class-and-a-nation-on-the-brink/381173031/" target="blank">The Disappearing Middle Class and a Nation on the Brink: Lessons from Rome: Concentration of wealth destroys democracy</a><br/>
-By Timothy Ferguson and David C. Gore in the <em>Star Tribune</em><br/>
+By Timothy Ferguson and David C. Gore in the <em>Star Tribune</em><br/><br/>
 "The American middle class is declining. As our middle class falls, our political temperature rises. Crane Brinton’s likening of political revolution to a fever in his classic work “The Anatomy of Revolution” seems particularly apt. Middle-class decline is a preliminary symptom."
 
-<a href="https://anacyclosis.org/wp-content/uploads/2019/09/TIFA-What-comes-after-democracy.pdf" target="blank">What comes after democracy?</a> - Pamphlet from the Anacylosis Institute<br/>
+<a href="https://anacyclosis.org/wp-content/uploads/2019/09/TIFA-What-comes-after-democracy.pdf" target="blank">What comes after democracy?</a> - Pamphlet from the Anacylosis Institute<br/><br/>
 Excerpts: <br/>
 * "Democracy is only a phase in the cycle of revolution."
 * "Abstract thinking and a wide field of vision are required to perceive anacyclosis."
