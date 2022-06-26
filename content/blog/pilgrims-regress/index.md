@@ -1,6 +1,6 @@
 ---
 title: "Sticking to the Main Road - excerpts from Pilgrim's Regress"
-date: 2022-06-25T00:00:00-06:00
+date: 2022-06-27T00:00:00-06:00
 drafts: true
 toc: false
 ---
