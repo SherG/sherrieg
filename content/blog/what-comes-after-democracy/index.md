@@ -104,7 +104,6 @@ Excerpts: <br/>
 * "From the ruin of the middle class arises the tournament of demagogues."
 * "Social stratification is expanding, dependency is intensifying, subsidies are increasing, and demagogues are ascendant. If an independent middle class is not soon restored, next, and once again, comes demagarchy."
 * "Democracy is only a phase in the cycle of revolution.”
-* "Abstract thinking and a wide field of vision are required to perceive anacyclosis."
 
 <a href="https://fortune.com/2020/09/28/covid-buisnesses-shut-down-closed/" target="blank">Nearly 100,000 establishments that temporarily shut down due to the pandemic are now out of business</a><br/>
 By Anne Sraders and Lance Lambert in <em>Fortune</em> magazine
