@@ -49,8 +49,6 @@ Outbreaks of violence and mob rule. Also: the rise of competing demogogues (note
 
 In this view, the rise of demagogues or violent skirmishes are not a cause: they're a symptom of something that's <em>already happened</em>. 
 
-Demagogues, sensing opportunity, stir the pot of grievances. They hope to acquire power by being chosen as the leader of one or more disgruntled factions.
-
 The resolution of the "contest of demagogues" heralds the death of democracy and the imminent return to a primitive monarchy: rule by a Caesar-like figure. 
 
 Here's a good description from the Anacyclosis Institute: 
@@ -61,11 +59,10 @@ Here's a good description from the Anacyclosis Institute:
 
 Here are some things this theory has prompted me to think about:
 
+* According to the theory, it would seem that stable conditions for democracy no longer exist in the U.S., the U.K., and some other Western nations.
 * If the theory of anacyclosis is relevant to what is happening in America, what are the required restorative actions? Are those happening or being discussed in any political party or branch of government? Are they being discussed in media? 
 * Or are politicians on both sides of the aisle committed to dealing with symptoms rather than causes? 
 * Throughout history the concept of a strongman was limited to a single, charismatic individual. (See Charles Lindholm's book <em><a href="https://www.academia.edu/12414671/Charisma" target="blank">Charisma</a></em> for a fascinating analysis.) But what’s to say that a 21st-century “strongman” won’t emerge as decentralized, borg-like group, instead of as a single individual? Or perhaps both types might emerge at the same time.
-* What are the social consequences of blurring (intentionally or otherwise) the distinction between a demagogue (or a decentralized demagogue-like network) and the faction(s) they seek/purport to lead? 
-* Do some critics of demagogues -- or decentralized demagogue-like networks -- including elected officials and news media, adopt (consciously or not) the same tactics, such as focusing on "problem people" rather than foundational issues? Are there financial or 'power' incentives to do so? Are there social esteem incentives to do so? Does this (ironically) advance the effects of demagoguery, further inflaming faction, throughout society? Does this undermine the restoring of a stable foundation for democracy?
 * Did the coronavirus lockdowns accelerate the anacyclosis process by hollowing out the middle class further and increasing dependency — of all classes but the wealthy — on government?
 
 ## Exploring Rationist.org
