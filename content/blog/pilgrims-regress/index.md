@@ -1,13 +1,13 @@
 ---
 title: "Sticking to the Main Road - excerpts from Pilgrim's Regress"
 date: 2022-06-27T00:00:00-06:00
-draft: true
 toc: false
+draft: true
 ---
 
 C.S. Lewis's allegory <em>Pilgrim's Regress</em> features among its characters, fictional occupants of "North" and "South" regions. 
 
-Although not intended as a commentary on politics, when I first read the book years ago, part of the descripton of these regions reminded me of the extremes that can manifest in conservative and liberal social groups. I found the comparison somewhat humorous and enlightening:
+Although not intended as a commentary on politics, when I first read the book years ago, part of the descripton of these regions reminded me of the extremes that can manifest in social groups. I found the comparison somewhat humorous and enlightening:
 
 <div style="padding-left: 2.5em;"><p>The Northerners are the men of rigid systems whether skeptical or dogmatic, Aristocrats, Stoics, Pharisees, Rigorists, signed and sealed members of highly organised "Parties".</p>
 
@@ -45,9 +45,9 @@ It's worth noting the book was first published in 1933; I believe this editorial
 
 <p>Every feeling is justified by the mere fact that it is felt: for a Northerner, every feeling on the same ground is suspect. An arrogant and hasty selectiveness on some narrow a priori basis cuts him off from the sources of life.</p> 
 
-<p>In Theology also there is a North and a South. The one cries "Drive out the bondmaid's son," and the other "Quench not the smoking flax." The one exaggerates the distinctiveness between Grace and Nature into a sheer opposition and by vilifying the higher levels of Nature (the real <em>praeparatio evangelica</em> inherent in certain immediately sub-Christian experiences) makes the way hard for those who are at the point of coming in. The other blurs the distinction altogether, flatters mere kindliness into thinking it is charity and vague optimisms or pantheisms into thinking that they are Faith, and makes the way out fatally easy and imperceptible for the budding apostate. The two extremes do not coincide with Romanism (to the North) and Protestantism (to the South).  Barth might well have been placed among my Pale Men, and Erasmus might have found himself at home with Mr. Broad [one of Lewis's characters].</p>
+<p>In Theology also there is a North and a South. The one cries "Drive out the bondmaid's son," and the other "Quench not the smoking flax." The one exaggerates the distinctiveness between Grace and Nature into a sheer opposition and by vilifying the higher levels of Nature (the real <em>praeparatio evangelica</em> inherent in certain immediately sub-Christian experiences) makes the way hard for those who are at the point of coming in. The other blurs the distinction altogether, flatters mere kindliness into thinking it is charity and vague optimisms or pantheisms into thinking that they are Faith, and makes the way out fatally easy and imperceptible for the budding apostate. The two extremes do not coincide with Romanism (to the North) and Protestantism (to the South).  Barth might well have been placed among my Pale Men, and Erasmus might have found himself at home with Mr. Broad references to Lewis's characters].</p>
 
-## "I take our own age to be predominantly Northern . . . "
+## Opposite evils aggravate each other
 
  <p>I take our own age to be predominantly Northern - it is two great 'Northern' powers that are tearing each other to pieces on the Don while I write. </p>
   
@@ -55,7 +55,7 @@ It's worth noting the book was first published in 1933; I believe this editorial
 
 <p>D.H. Lawrence and the Surrealists have perhaps reached a point further 'South' than humanity ever reached before. And this is what one would expect.</p>
   
-<p>Opposite evils, far from balancing, aggravate each other.'The heresies that mean leave are hated most'; widespread drunkenness is the father of Prohibition and Prohibition of widespread drunkenness.</p>
+<p>Opposite evils, far from balancing, aggravate each other.'The heresies that men leave are hated most'; widespread drunkenness is the father of Prohibition and Prohibition of widespread drunkenness.</p>
 
 <p>Nature, outraged by one extreme, avenges herself by flying to the other. One can even meet adult males who are not ashamed to attribute their own philosophy to 'Reaction' and do not think the philosophy thereby discredited.  </p>
 
