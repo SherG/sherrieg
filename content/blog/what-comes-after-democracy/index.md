@@ -115,7 +115,7 @@ Excerpts: <br/>
 By Anne Sraders and Lance Lambert in <em>Fortune</em> magazine
 
 <a href="https://www.bloomberg.com/opinion/articles/2022-06-27/factory-closures-from-aluminum-to-chicken-farming-are-going-to-become-common" target="blank">Many Winters Are Coming</a><br/>
-By Javier Blas for Bloomberg 
+By Javier Blas for Bloomberg<br/>
 "Europe’s energy-intensive industries range from aluminum to chicken farming. All will be under threat of closure."
 
 
