@@ -62,7 +62,7 @@ Here are some things this theory has prompted me to think about:
 * Are politicians on both sides of the aisle committed to dealing with symptoms rather than causes? 
 * Throughout history the concept of a strongman was limited to a single, charismatic individual. (See Charles Lindholm's book <em><a href="https://www.academia.edu/12414671/Charisma" target="blank">Charisma</a></em> for a fascinating analysis.) But what’s to say that a 21st-century “strongman” won’t emerge as decentralized, borg-like group, instead of as a single individual? Or perhaps both types might emerge at the same time.
 * Did the coronavirus lockdowns accelerate the anacyclosis process by hollowing out the middle class further and increasing dependency — of all classes but the wealthy — on government? 
-* Are the ongoing supply chain problems, staffing shortages, and energy crisis playing a role?
+* Are the ongoing supply chain problems, labor shortages, and energy crisis playing a role? 
 
 ## Exploring Rationist.org
 
@@ -113,6 +113,10 @@ Excerpts: <br/>
 
 <a href="https://fortune.com/2020/09/28/covid-buisnesses-shut-down-closed/" target="blank">Nearly 100,000 establishments that temporarily shut down due to the pandemic are now out of business</a><br/>
 By Anne Sraders and Lance Lambert in <em>Fortune</em> magazine
+
+<a href="https://www.bloomberg.com/opinion/articles/2022-06-27/factory-closures-from-aluminum-to-chicken-farming-are-going-to-become-common" target="blank">Many Winters Are Coming</a><br/>
+By Javier Blas for Bloomberg 
+"Europe’s energy-intensive industries range from aluminum to chicken farming. All will be under threat of closure."
 
 
 
