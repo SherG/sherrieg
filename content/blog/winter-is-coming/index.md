@@ -2,9 +2,8 @@
 title: "European Factory Closures May Become Common"
 date: 2022-06-27T21:28:14-05:00
 publishdate: 2022-06-27
-draft: true
+draft: false
 toc: false
-categories:
 ---
 
 Closures of manufacturing businesses such as fertilizer plants in Europe, due to high natural gas costs, are not news. However, high prices on forward contracts stretching out for the next few years are a new negative signal for all energy-intensive industries.
