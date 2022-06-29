@@ -18,7 +18,7 @@ Here are a few examples:
 * Notebook paper and pens
 * Batteries
 
-Once you put your mind to it, all sorts of things will come to mind. You could categorize these by use (e.g., automotive) and/or by cost.<br/>
+Once you put your mind to it, you'll think of all sorts of things. You could categorize these by use (e.g., automotive) and/or by cost.<br/>
 
 <img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto/v1655573296/sherrieg/hella-9003-bulb_leurct.png" /><br/>
  <figcaption><em>Above: these German-made headlamp bulbs are 1/6th the price of the cheapest bulbs available at my local American auto store.</em></figcaption><br/>
