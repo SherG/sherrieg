@@ -16,4 +16,4 @@ As Javier Blas <a href="https://www.bloomberg.com/opinion/articles/2022-06-27/fa
 
 <div style="padding-left: 2.5em;">The affected industries will be those with the most intensive energy use: fertilizer, base metals and steel, chemical, ceramic, glass and paper. But increasingly food production will be, too. Heated greenhouses and chicken farms face astronomical energy bills.</p></div>
 
-<p>Unfortunately, as more small business owners and middle class and poor factory workers lose their livelihoods, the foundations of Western democracies may <a href="/what-comes-after-democracy/" target="blank">erode further</a>.</p>
+Unfortunately, such closures may <a href="/what-comes-after-democracy/" target="blank">further erode the foundations of Western democracies</a>.
