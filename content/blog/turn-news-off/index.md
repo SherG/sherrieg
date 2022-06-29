@@ -36,15 +36,15 @@ The video made me think about the seasons of threat-hypes our nation experiences
   
 On Twitter the alleged threats (often based on a faulty first draft of current events) are digested by individuals and immediately turned into micro-slices of contagious rage, where even the most admirable and delicate of people -- including the well-educated with PhDs -- descend into name-calling, 'screaming', and even calls for political violence.
 
-
-<blockquote>"Fear is the currency of the threatener."</blockquote>
-
 Soon news stories appear -- about the Twitter reactions. The cycle goes on. Eventually, once most the facts are in on a story, the audience has long moved on, and the more reliable reports get comparatively little attention.
 
+### Catastrophizing, Inc.
+
 I think it's worth asking periodically: 
-* Which threats are currently being pushed by politicians and/or media? 
+
+* Which threats are currently being pushed by politicians and media? 
 * Are these threats being hyped? 
-* How much of the news, or political discourse, is devoted to catastrophizing?
+* How much of the news and political discourse is dedicated to catastrophizing?
 * Why? Who benefits?
 
 ## About Gavin de Becker and the Gift of Fear masterclass
