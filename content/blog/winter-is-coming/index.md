@@ -6,7 +6,7 @@ draft: false
 toc: false
 ---
 
-Closures of manufacturing businesses such as fertilizer plants in Europe, due to high natural gas costs, are not news. However, high prices on forward contracts stretching out for the next few years are a new negative signal for all energy-intensive industries.
+Closures of manufacturing businesses such as fertilizer plants in Europe, due to high natural gas costs, are not news. However, high prices on forward contracts stretching out for the next few years are a new negative signal for energy-intensive industries.
 
 As Javier Blas <a href="https://www.bloomberg.com/opinion/articles/2022-06-27/factory-closures-from-aluminum-to-chicken-farming-are-going-to-become-common" target="blank">reports</a> in <em>Bloomberg</em>: 
 
