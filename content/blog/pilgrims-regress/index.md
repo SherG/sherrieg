@@ -24,7 +24,7 @@ Below is the larger context of that passage. I've broken up the long paragraphs 
 
 It's worth noting the book was first published in 1933; I believe this editorial note was added to the third edition. It references Nazis and war on the Don so I'm thinking it was published in or around 1941.
 
-What stands out to me the most in the larger passage is the observation that equal and opposite evils are continually strengthened and appear plausible via critiques of the other.
+What stands out to me the most in the larger passage below is the observation that equal and opposite evils are continually strengthened and made to appear plausible by their critiques of each other.
 
 ## The symbols of North and South
 
@@ -49,7 +49,7 @@ What stands out to me the most in the larger passage is the observation that equ
 
 <p>In Theology also there is a North and a South. The one cries "Drive out the bondmaid's son," and the other "Quench not the smoking flax." The one exaggerates the distinctiveness between Grace and Nature into a sheer opposition and by vilifying the higher levels of Nature (the real <em>praeparatio evangelica</em> inherent in certain immediately sub-Christian experiences) makes the way hard for those who are at the point of coming in. The other blurs the distinction altogether, flatters mere kindliness into thinking it is charity and vague optimisms or pantheisms into thinking that they are Faith, and makes the way out fatally easy and imperceptible for the budding apostate. The two extremes do not coincide with Romanism (to the North) and Protestantism (to the South).  Barth might well have been placed among my Pale Men, and Erasmus might have found himself at home with Mr. Broad. [These are references to Lewis's characters].</p>
 
-## Opposite evils aggravate each other
+## Extremes aggravate each other
 
  <p>I take our own age to be predominantly Northern - it is two great 'Northern' powers that are tearing each other to pieces on the Don while I write. </p>
   
@@ -57,7 +57,7 @@ What stands out to me the most in the larger passage is the observation that equ
 
 <p>D.H. Lawrence and the Surrealists have perhaps reached a point further 'South' than humanity ever reached before. And this is what one would expect.</p>
   
-<p>Opposite evils, far from balancing, aggravate each other.'The heresies that men leave are hated most'; widespread drunkenness is the father of Prohibition and Prohibition of widespread drunkenness.</p>
+<p>Opposite evils, far from balancing, aggravate each other.' The heresies that men leave are hated most'; widespread drunkenness is the father of Prohibition and Prohibition of widespread drunkenness.</p>
 
 <p>Nature, outraged by one extreme, avenges herself by flying to the other. One can even meet adult males who are not ashamed to attribute their own philosophy to 'Reaction' and do not think the philosophy thereby discredited.  </p>
 
