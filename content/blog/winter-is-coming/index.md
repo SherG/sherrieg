@@ -12,7 +12,7 @@ As Javier Blas <a href="https://www.bloomberg.com/opinion/articles/2022-06-27/fa
 
 <div style="padding-left: 2.5em;"><p>The European manufacturing sector is crumbling under the weight of sustained high electricity and natural gas prices. With little prospect of relief, another wave of curtailments and closures looms  . . .</p></div>
 
-<div style="padding-left: 2.5em;"><p>For example, an aluminum smelter would lose about $200 million annually at current forward prices for electricity and carbon dioxide for the next year. And that’s despite elevated prices for the metal in the markets. Aluminum may be an extreme example, but it’s evidence of the pressures faced by industrialists . . .</p></div>
+<div style="padding-left: 2.5em;"><p>For example, an aluminum smelter would lose about $200 million annually at current forward prices for electricity and carbon dioxide for the next year. And that’s despite elevated prices for the metal in the markets . . .</p></div>
 
 <div style="padding-left: 2.5em;">The affected industries will be those with the most intensive energy use: fertilizer, base metals and steel, chemical, ceramic, glass and paper. But increasingly food production will be, too. Heated greenhouses and chicken farms face astronomical energy bills.</p></div>
 
