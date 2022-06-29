@@ -2,7 +2,7 @@
 title: "Sticking to the Main Road - excerpts from Pilgrim's Regress"
 date: 2022-06-29T00:00:00-06:00
 toc: false
-draft: true
+draft: false
 ---
 
 C.S. Lewis's allegory <em>Pilgrim's Regress</em> features among its characters, fictional occupants of "North" and "South" regions. 
