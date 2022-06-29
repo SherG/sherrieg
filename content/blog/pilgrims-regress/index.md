@@ -1,8 +1,8 @@
 ---
 title: "Sticking to the Main Road - excerpts from Pilgrim's Regress"
-date: 2022-06-27T00:00:00-06:00
+date: 2022-06-29T00:00:00-06:00
 toc: false
-draft: true
+draft: false
 ---
 
 C.S. Lewis's allegory <em>Pilgrim's Regress</em> features among its characters, fictional occupants of "North" and "South" regions. 
@@ -45,7 +45,7 @@ It's worth noting the book was first published in 1933; I believe this editorial
 
 <p>Every feeling is justified by the mere fact that it is felt: for a Northerner, every feeling on the same ground is suspect. An arrogant and hasty selectiveness on some narrow a priori basis cuts him off from the sources of life.</p> 
 
-<p>In Theology also there is a North and a South. The one cries "Drive out the bondmaid's son," and the other "Quench not the smoking flax." The one exaggerates the distinctiveness between Grace and Nature into a sheer opposition and by vilifying the higher levels of Nature (the real <em>praeparatio evangelica</em> inherent in certain immediately sub-Christian experiences) makes the way hard for those who are at the point of coming in. The other blurs the distinction altogether, flatters mere kindliness into thinking it is charity and vague optimisms or pantheisms into thinking that they are Faith, and makes the way out fatally easy and imperceptible for the budding apostate. The two extremes do not coincide with Romanism (to the North) and Protestantism (to the South).  Barth might well have been placed among my Pale Men, and Erasmus might have found himself at home with Mr. Broad references to Lewis's characters].</p>
+<p>In Theology also there is a North and a South. The one cries "Drive out the bondmaid's son," and the other "Quench not the smoking flax." The one exaggerates the distinctiveness between Grace and Nature into a sheer opposition and by vilifying the higher levels of Nature (the real <em>praeparatio evangelica</em> inherent in certain immediately sub-Christian experiences) makes the way hard for those who are at the point of coming in. The other blurs the distinction altogether, flatters mere kindliness into thinking it is charity and vague optimisms or pantheisms into thinking that they are Faith, and makes the way out fatally easy and imperceptible for the budding apostate. The two extremes do not coincide with Romanism (to the North) and Protestantism (to the South).  Barth might well have been placed among my Pale Men, and Erasmus might have found himself at home with Mr. Broad. [These are references to Lewis's characters].</p>
 
 ## Opposite evils aggravate each other
 
