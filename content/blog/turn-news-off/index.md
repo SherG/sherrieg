@@ -38,7 +38,7 @@ On Twitter the alleged threats (often based on a faulty first draft of current e
 
 Soon news stories appear -- about the Twitter reactions. The cycle goes on. Eventually, once most the facts are in on a story, the audience has long moved on, and the more reliable reports get comparatively little attention.
 
-### Catastrophizing, Inc.
+### Catastrophizing
 
 I think it's worth asking periodically: 
 
