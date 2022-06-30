@@ -27,8 +27,8 @@ While marketers do not have complete control of this issue, there's much that ca
 
 
 <details><summary>What's "deliverability?"</summary><br/>
-<p>In short, deliverability is anything you do to maximize the total number or percentage of your marketing emails landing in the inbox (rather than spam folder) of the recipients.</p>
-<p>Here's a more formal definition: Email deliverability is a constellation of metrics, industry requirements, conditions, and practices (including experimentation and analysis) that impact the likelihood that a sender’s email will (a) wind up in the recipient’s inbox (b) in a timely fashion. It includes the use of various software tools.</p>
+<p>In short, deliverability includes anything you do to maximize the total number or percentage of your marketing emails landing in the inbox (rather than spam folder) of the recipients.</p>
+<p>Here's a more formal definition: Email deliverability is a measurement and a set of practices. It spans metrics, industry requirements, conditions, and practices (including experimentation and analysis) that impact the likelihood that a sender’s email will (a) wind up in the recipient’s inbox (b) in a timely fashion. It includes the use of various software tools. </p>
 </details><br/><br/>
 
 ### Resource
