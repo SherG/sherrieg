@@ -17,9 +17,19 @@ I launched this site because I wanted to have a place to share interests and exp
 
 ## Style
 
-I wanted something spartan, taking inspiration from the blogs of developers who include nothing unnecessary.
+I wanted something spartan, taking inspiration from the blogs of developers who include nothing unnecessary and engineer according to purpose. 
 
 (<em>Exception example: the hilarious hamburger menu on <a href="https://www.zachleat.com/" target="blank">Zach Leatherman's site</a>. But even that cascading menu has a purpose: it suggests a question: "Is a hamburger menu the best choice for every website?" Zach's navigation solution - simple hyperlinked text - takes one click. </em>)
+
+I previously had a site on this domain (a couple of years ago), with a slick design, but in recent years I've tired of the "glitz glut" -- When everyone can have a visually 'beautiful' website, a beautiful website doesn't mean much. 
+
+Often there's a disconnect between the purpose of the website and what the design "says." Example: someone who is just thinking of having an online store, and has no products, can put up a site that looks like Nordstrom's. Or, someone who just wants a personal blog, has a design that conveys: "Every article is a publishing event!" 
+
+I think there are cases where a bit of visual modesty can better communicate what a site is about. And in some cases (I'm not using my blog as an example), you can stand out <em>more</em>.
+
+<img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto/v1656693295/sherrieg/sherrie-gossett-blog-previous-version_mh9lec.png" />
+
+<caption>Above: a screengrab of a page section from my old website.</caption>
 
 ## Speed: the non-negotiable
 
