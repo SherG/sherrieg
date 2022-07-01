@@ -27,7 +27,7 @@ Often there's a disconnect between the purpose of the website and what the desig
 
 I think there are cases where a bit of visual modesty can better communicate what a site is about. And in some cases (I'm not using my blog as an example), you can stand out <em>more</em>.
 
-<img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto/v1656693295/sherrieg/sherrie-gossett-blog-previous-version_mh9lec.png" />
+<img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto/v1656693295/sherrieg/sherrie-gossett-blog-previous-version_mh9lec.png" >
 
 <caption>Above: a screengrab of a page section from my old website.</caption>
 
