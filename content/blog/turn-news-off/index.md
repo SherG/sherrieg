@@ -42,9 +42,7 @@ Soon news stories appear -- about the Twitter reactions. The cycle goes on. Even
 
 I think it's worth asking periodically: 
 
-* Which threats are currently being pushed by politicians and media? 
-* Are these threats being hyped? 
-* How much of the news and political discourse is dedicated to catastrophizing?
+* How much news and political discourse is engaged in catastrophizing?
 * Why? Who benefits?
 
 ## About Gavin de Becker and the Gift of Fear masterclass
