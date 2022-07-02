@@ -60,9 +60,9 @@ Here are some things this theory has prompted me to think about:
 
 * If the theory of anacyclosis is relevant to what is happening in America, what are the required restorative actions? Are those happening or being discussed in any political party or branch of government? Are they being discussed in media? 
 * Or are politicians on both sides of the aisle committed solely to dealing with symptoms rather than causes? 
-* Throughout history the concept of a strongman was limited to a single, charismatic individual. (See Charles Lindholm's book <em><a href="https://www.academia.edu/12414671/Charisma" target="blank">Charisma</a></em> for a fascinating analysis.) But what’s to say that a 21st-century “strongman” won’t emerge as decentralized, borg-like group, instead of as a single individual? Or perhaps both types might emerge at the same time.
+* Throughout history the concept of a strongman was limited to a single, charismatic individual. (See Charles Lindholm's book <em><a href="https://www.academia.edu/12414671/Charisma" target="blank">Charisma</a></em> for a fascinating analysis.) But what’s to say that a 21st-century “strongman” won’t emerge as a decentralized, borg-like group, instead of as a single individual? Or perhaps both types might emerge at the same time.
 * Did the coronavirus lockdowns accelerate the anacyclosis process by hollowing out the middle class further and increasing dependency — of all classes but the wealthy — on government? 
-* Are the ongoing supply chain problems, labor shortages, and energy crisis playing a role? 
+* Will the ongoing supply chain problems, labor shortages, and energy crisis play a role? 
 
 ## Exploring Rationist.org
 
