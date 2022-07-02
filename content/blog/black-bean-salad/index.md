@@ -7,7 +7,7 @@ toc: true
 
 ---
 
-This is a nutrient-dense summer dish that's mildly spicy. Easy to make, it's a meal in itself and pairs well with grilled chicken. (Add some fire to that chicken with Weber's Kick'n Chicken seasoning.) Plus you can serve it up as a burrito.
+This is a nutrient-dense dish that's mildly spicy. Easy to make, it's a meal in itself and pairs well with grilled chicken. (Add some fire to that chicken with Weber's Kick'n Chicken seasoning.) Plus you can serve it up as a burrito.
 
 Tips:
 
