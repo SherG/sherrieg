@@ -24,7 +24,7 @@
   {{ end }}
 
   <link rel="canonical" href="{{ .Permalink }}">
-  <link rel="stylesheet" href="{{ $bundleCss.RelPermalink }}" integrity="{{ $bundleCss.Data.Integrity }}">
+  <link rel="stylesheet" href="{{ $bundleCss.RelPermalink }}" integrity="{{ $bundleCss.Data.Integrity }}" crossorigin="anonymous">
 
   {{ if eq .RelPermalink "/blog/" }}
     {{ range .AlternativeOutputFormats }}
