@@ -35,7 +35,7 @@ While marketers do not have complete control of this issue, there's much that ca
 
 <a href="https://www.twilio.com/press/releases/twilio-analysis-presidential-campaign-email-effectiveness" target="blank">Twilio Analysis of Presidential Campaign Email Effectiveness Shows only a Small Number Reach Intended Audience</a>
 
-This interesting study by Twilio/SendGrid used Gmail accounts to analyze the email campaigns of 2020 Democratic candidates for U.S. President. Only 3.8% of emails wound up in the inbox and 21% went to spam, harming their fundraising efforts. About half failed to use proper email authentication, putting their suscribers at risk of security breaches.
+This interesting study by Twilio/SendGrid used Gmail accounts to analyze the email campaigns of 2020 Democratic candidates for U.S. President. Only 3.8% of emails wound up in the inbox and 21% went to spam, harming their fundraising efforts. About half failed to use proper email authentication.
 
 The answer? Use better email marketing practices.
 
