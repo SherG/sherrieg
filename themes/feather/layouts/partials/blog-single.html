@@ -1,7 +1,6 @@
 <div class="container">
   <h1>{{ .Title }}</h1>
-  {{ partial "datestamp.html" . }}
+  {{ partial "datestamp.html" "tags.html" . }}
   {{ partial "toc.html" . }}
-  {{ partial "tags.html" . }}
   {{ .Content }}
 </div>
