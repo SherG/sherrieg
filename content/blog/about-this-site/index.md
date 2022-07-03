@@ -4,8 +4,6 @@ date: 2022-03-29T21:28:14-05:00
 publishdate: 2022-03-29
 draft: false
 toc: false
-categories:
-- Websites
 tags:
 - Hugo
 - GoatCounter
