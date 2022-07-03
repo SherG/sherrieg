@@ -6,7 +6,7 @@ draft: false
 aliases:
   - /2018/03/things-i-like/
 toc: true
-tags: ["music","tools"]
+
 ---
 
 A list of things that I like, in no particular order. This is in draft stage, and intended to be a living document, inspired by Zachary Betz's list. 
