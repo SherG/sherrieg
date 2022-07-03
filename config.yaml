@@ -20,10 +20,6 @@ outputs:
     - RSS
     - JSON
 
-disableKinds:
-  - taxonomy
-  - term
-
 permalinks:
   blog: /:filename/
 
