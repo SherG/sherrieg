@@ -22,3 +22,5 @@ She concluded: "The crisis could lead to social and labor unrest."
 On this blog: <a href="/winter-is-coming/">European Factory Closures May Become Common</a>
 
 Bloomberg: <a href="https://www.bloomberg.com/news/articles/2022-07-02/germany-risks-a-cascade-of-utility-failures-economy-chief-says" target="blank">Germany Risks a Cascade of Utility Failures, Economy Chief Says</a>
+
+<em>The Guardian</em>: <a href="https://www.theguardian.com/world/2022/jun/02/germany-dependence-russian-energy-gas-oil-nord-stream" target="blank">‘We were all wrong’</a> how Germany made itself dependent on Russian energy
