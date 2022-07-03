@@ -1,5 +1,5 @@
 ---
-title: "NatGas Bottlenecks Threaten German Industry"
+title: "NatGas Bottlenecks Threaten Entire Industries in Germany"
 date: 2022-07-03T21:28:14-05:00
 publishdate: 2022-07-03
 drafts: true
