@@ -10,7 +10,7 @@ More daunting news from Germany. Today the head of the German Federation of Trad
 
 <div style="padding-left: 2.5em;"><p>Because of the gas bottlenecks, entire industries are in danger of permanently collapsing: aluminum, glass, the chemical industry. Such a collapse would have massive consequences for the entire economy and jobs in Germany.</p></div>
 
-The union head,Yasmin Fahimi, who will be in crisis talks with Chancellor Olaf Scholz on Monday, pointed out that the crisis comes on the heels of record-high inflation and "rising costs for Co2 emissions."
+The union head, Yasmin Fahimi, who will be in crisis talks with Chancellor Olaf Scholz on Monday, pointed out that the crisis comes on the heels of record-high inflation and "rising costs for Co2 emissions."
 
 Fahimi warned that if the crisis isn't handled well the results could be "social and labor unrest."
 
