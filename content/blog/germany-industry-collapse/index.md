@@ -12,9 +12,11 @@ More daunting news from Germany. Today the head of the German Federation of Trad
 
 Per Bloomberg she made the comments ahead of crisis talks with Chancellor Olaf Scholz.
 
-Fahimi added that such a crisis would come on the heels of record-high inflation and "rising costs for Co2 emissions."
+The union head added that such a crisis would come on the heels of record-high inflation and "rising costs for Co2 emissions."
 
 She concluded: "The crisis could lead to social and labor unrest."
+
+Anyone hear from Gerhard Schröder lately?
 
 
 ### Related 
