@@ -8,7 +8,7 @@ toc: false
 
 In the wake of the dramatic collapse of the Sri Lankan government, this post <a href="http://charleshughsmith.blogspot.com/2022/07/why-nations-fail.html" target="blank">Why Nations Fail</a> by Charles Hugh Smith caught my eye.  
 
-He compares dissent to an evolutionary process necesssary for surfacing the best solutions. Squash the dissent (either formally or through informal social networks) and you lose the chance to avoid failure. And yet, corrupt regimes always choose to suppress dissent. 
+He compares dissent to an evolutionary process necesssary for surfacing the best solutions. Squash the dissent (either formally or through social networks) and you lose the chance to avoid failure. And yet, corrupt regimes always choose to suppress dissent. 
 
 Because they've hamstrung the capacity to "adapt and evolve" their nation becomes more brittle and prone to failure.
 
