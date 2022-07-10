@@ -12,6 +12,7 @@ He compares dissent to an evolutionary process necesssary for surfacing the best
 
 Because they've hamstrung the capacity to "adapt and evolve" their nation becomes more brittle and prone to failure. 
 
+
 <hr>
 
 * "In eras of rapid environmental change, organisms can undergo an explosion of genetic experimentation that leads to new adaptations. "
@@ -21,9 +22,8 @@ Because they've hamstrung the capacity to "adapt and evolve" their nation become
 
 He concludes: "Many and perhaps most nation-states will fail as their elites suppress dissent and new ideas that threaten their power but which ironically are the only means to evolve successfully to rapidly changing circumstances."
 
-<hr/>
+The same can be said of non-governmental organizations.
 
-The same is true of all organizations and communities.
 
 ### Related 
 
