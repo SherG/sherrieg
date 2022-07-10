@@ -12,8 +12,6 @@ He compares dissent to an evolutionary process necesssary for surfacing the best
 
 Because they've hamstrung the capacity to "adapt and evolve" their nation becomes more brittle and prone to failure. 
 
-The same is true of non-governmental organizations.
-
 <hr>
 
 * "In eras of rapid environmental change, organisms can undergo an explosion of genetic experimentation that leads to new adaptations. "
@@ -22,6 +20,10 @@ The same is true of non-governmental organizations.
 * "The irony is that the <strong>suppression of dissent is the suppression of competing ideas</strong> that generate systemic stability via rapid adaptation. Stripping their nation of dissent is in effect stripping it of the dynamics of successful adaptation and rapid evolution-- precisely the traits a nation needs to navigate eras of rapid change."
 
 He concludes: "Many and perhaps most nation-states will fail as their elites suppress dissent and new ideas that threaten their power but which ironically are the only means to evolve successfully to rapidly changing circumstances."
+
+<hr/>
+
+The same is true of all organizations and communities.
 
 ### Related 
 
