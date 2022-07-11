@@ -36,5 +36,5 @@ The same can be said of any organization, group, or community.
 <a href="https://www.hrw.org/news/2020/08/08/sri-lanka-increasing-suppression-dissent" target="blank">Sri Lanka: Increasing Suppression of Dissent</a>
 
 <a href="https://www.economist.com/asia/2021/10/16/a-rush-to-farm-organically-has-plunged-sri-lankas-economy-into-crisis" target="blank">A rush to farm organically has plunged Sri Lanka’s economy into crisis</a> <br/>
-<em>The Economist</em
+<em>The Economist</em>
 
