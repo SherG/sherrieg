@@ -30,7 +30,7 @@ The same can be said of non-governmental organizations.
 
 <a href="https://www.hrw.org/news/2020/08/08/sri-lanka-increasing-suppression-dissent" target="blank">Sri Lanka: Increasing Suppression of Dissent</a>
 
-While many factors played into Sri Lanka's downfall, government policies that decimated agricultural yield were predictiable accelerants of collapse.
+While many factors played into Sri Lanka's downfall, government policies that decimated agricultural yield were predictable accelerants of collapse.
 
 <a href="https://www.economist.com/asia/2021/10/16/a-rush-to-farm-organically-has-plunged-sri-lankas-economy-into-crisis" target="blank">A rush to farm organically has plunged Sri Lanka’s economy into crisis</a> <br/>
 <em>The Economist</em>
