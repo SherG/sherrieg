@@ -6,7 +6,9 @@ draft: false
 toc: false
 ---
 
-Dissent is an evolutionary process necesssary for surfacing the best solutions, writes Charles Hugh Smith in his latest post <a href="http://charleshughsmith.blogspot.com/2022/07/why-nations-fail.html" target="blank">Why Nations Fail</a>. Squash the dissent (either formally or through social networks) and you lose the chance to avoid failure. And yet, corrupt regimes always choose to suppress dissent. 
+Dissent is an evolutionary process necesssary for surfacing the best solutions, writes Charles Hugh Smith in his latest post <a href="http://charleshughsmith.blogspot.com/2022/07/why-nations-fail.html" target="blank">Why Nations Fail</a>. 
+
+Squash the dissent (either formally or through social networks) and you lose the chance to avoid failure. And yet, corrupt regimes always choose to suppress dissent. 
 
 They hamstring the capacity to "adapt and evolve," so their nation becomes brittle and prone to failure. 
 
