@@ -36,4 +36,4 @@ While many factors played into Sri Lanka's downfall, government policies that de
 <em>The Economist</em>
 
 <a href="https://michaelshellenberger.substack.com/p/green-dogma-behind-fall-of-sri-lanka" target="blank">Green dogma behind the fall of Sri Lanka</a> <br/>
-<a href="https://substack.com/profile/2255433-michael-shellenberger" target="blank">Michael Schellenberger's Substack</a>
+Michael Schellenberger's <a href="https://substack.com/profile/2255433-michael-shellenberger" target="blank">Substack</a>
