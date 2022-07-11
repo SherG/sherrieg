@@ -6,14 +6,15 @@ draft: false
 toc: false
 ---
 
-In the wake of the dramatic collapse of the Sri Lankan government, this post <a href="http://charleshughsmith.blogspot.com/2022/07/why-nations-fail.html" target="blank">Why Nations Fail</a> by Charles Hugh Smith caught my eye.  
+Dissent is an evolutionary process necesssary for surfacing the best solutions, writes Charles Hugh Smith in his latest post <a href="http://charleshughsmith.blogspot.com/2022/07/why-nations-fail.html" target="blank">Why Nations Fail</a>. Squash the dissent (either formally or through social networks) and you lose the chance to avoid failure. And yet, corrupt regimes always choose to suppress dissent. 
 
-He compares dissent to an evolutionary process necesssary for surfacing the best solutions. Squash the dissent (either formally or through social networks) and you lose the chance to avoid failure. And yet, corrupt regimes always choose to suppress dissent. 
+They hamstring the capacity to "adapt and evolve," so their nation becomes brittle and prone to failure. 
 
-Because they've hamstrung the capacity to "adapt and evolve" their nation becomes more brittle and prone to failure. 
+This blog post comes on the heels of the collapse of Sri Lanka. While many factors played into Sri Lanka's downfall, rigid government policies that decimated agricultural yield and harsh suppression of dissent were predictable accelerants.
 
+Excerpts:
 
-<hr>
+<hr/>
 
 * "We can understand variability as competition: mutations compete with the existing system's coding and the most successful variants spread because they outcompeted existing processes."
 * "In human political systems, this constant flow of competing variability is dissent and the competition of ideas."
@@ -21,7 +22,9 @@ Because they've hamstrung the capacity to "adapt and evolve" their nation become
 
 He concludes: "Many and perhaps most nation-states will fail as their elites suppress dissent and new ideas that threaten their power but which ironically are the only means to evolve successfully to rapidly changing circumstances."
 
-The same can be said of non-governmental organizations.
+<hr/>
+
+The same can be said of any organization, group, or community.
 
 
 ### Related 
@@ -30,10 +33,6 @@ The same can be said of non-governmental organizations.
 
 <a href="https://www.hrw.org/news/2020/08/08/sri-lanka-increasing-suppression-dissent" target="blank">Sri Lanka: Increasing Suppression of Dissent</a>
 
-While many factors played into Sri Lanka's downfall, rigid government policies that decimated agricultural yield were predictable accelerants of collapse.
-
 <a href="https://www.economist.com/asia/2021/10/16/a-rush-to-farm-organically-has-plunged-sri-lankas-economy-into-crisis" target="blank">A rush to farm organically has plunged Sri Lanka’s economy into crisis</a> <br/>
-<em>The Economist</em>
+<em>The Economist</em
 
-<a href="https://michaelshellenberger.substack.com/p/green-dogma-behind-fall-of-sri-lanka" target="blank">Green dogma behind the fall of Sri Lanka</a> <br/>
-Michael Schellenberger's <a href="https://substack.com/profile/2255433-michael-shellenberger" target="blank">Substack</a>
