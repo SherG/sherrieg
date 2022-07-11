@@ -29,3 +29,11 @@ The same can be said of non-governmental organizations.
 <a href="https://www.amnesty.org/en/latest/news/2021/02/sri-lanka-government-suffocating-dissent-and-obstructing-justice-for-historic-crimes-says-amnesty-report/" target="blank">Sri Lanka: Government suffocating dissent</a>
 
 <a href="https://www.hrw.org/news/2020/08/08/sri-lanka-increasing-suppression-dissent" target="blank">Sri Lanka: Increasing Suppression of Dissent</a>
+
+While many factors played into Sri Lanka's downfall, government policies that decimated agricultural yield were predictiable accelerants of collapse.
+
+<a href="https://www.economist.com/asia/2021/10/16/a-rush-to-farm-organically-has-plunged-sri-lankas-economy-into-crisis" target="blank">A rush to farm organically has plunged Sri Lanka’s economy into crisis</a> <br/>
+<em>The Economist</em>
+
+<a href="https://michaelshellenberger.substack.com/p/green-dogma-behind-fall-of-sri-lanka" target="blank">Green dogma behind the fall of Sri Lanka</a> <br/>
+<a href="https://substack.com/profile/2255433-michael-shellenberger" target="blank">Michael Schellenberger's Substack</a>
