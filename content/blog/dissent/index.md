@@ -26,7 +26,7 @@ He concludes: "Many and perhaps most nation-states will fail as their elites sup
 
 <hr/>
 
-The same can be said of any organization, group, or community.
+The same can be said of any organization, group, or community, right?
 
 
 ### Related 
