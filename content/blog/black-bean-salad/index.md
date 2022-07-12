@@ -34,7 +34,8 @@ Cook the beans first, then chill a bit before adding the vegetables, spices and 
 * Cayenne pepper
 
 ## Optional garnishes: 
-* Low-fat sour cream, chopped cilantro, a sprinking of toasted nuts, crushed.
+* Low-fat sour cream, chopped cilantro
+* Toss in some Beer Nuts (trust me on that one!)
 
 ## Cook the beans
 
