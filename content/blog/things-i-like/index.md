@@ -142,6 +142,7 @@ I've added short notes next to names lacking a presence on the internet or not w
 
 * Richard Devine (sample: <a href="https://www.youtube.com/watch?v=o791hgNvGIg" target="blank">Harmonic Symmetry</a>)
 * * Check out his demos of novel sound generators, like the <a href="https://www.youtube.com/watch?v=MW2qstmmKec" target="blank">Sound Urchin</a> and <a href="https://www.youtube.com/watch?v=MGN9SWxxbKU" target="blank">RareWaves Lite2Sound</a>
+* <a href="https://www.youtube.com/c/SebastienLeger" target="blank">Sébastien Léger</a>
 
 
 ## My music gear history
