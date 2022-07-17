@@ -21,8 +21,9 @@ Here's my truncated version of the cycle:
 3. Aristocracy (rule by the nobility), devolves --> Oligarchy and is overthrown
 5. Democracy devolves via Plutocracy --> Ochlocracy (Mob rule then competing demagogues), which returns us all to #1.
 
-Please note that the phases are often described with differing terms. <a href="https://anacyclosis.org/wp-content/uploads/2019/11/Anacyclosis-Flyer-November-2019.pdf" target="blank">Here is a more robust list</a> from the <a href="https://anacyclosis.org/" target="blank">Anacyclosis Institute</a> whose work I discovered during the pandemic.
+Please note that the phases are often described with differing terms. <a href="https://anacyclosis.org/wp-content/uploads/2019/11/Anacyclosis-Flyer-November-2019.pdf" target="blank">Here is a list</a> from the <a href="https://anacyclosis.org/" target="blank">Anacyclosis Institute</a> whose work I discovered during the pandemic.
 
+The institute has further developed the theory. In particular they emphasize the pivotal role the middle class has historically played and how military supremacy and hegemony lead to plutocracy ruling in parallel to democracy.
 
 ## The role of an independent middle class
 
