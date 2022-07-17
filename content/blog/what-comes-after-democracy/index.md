@@ -61,9 +61,9 @@ Here are some things this theory has prompted me to think about:
 
 * If the theory of anacyclosis is relevant to what is happening in America, what are the required restorative actions? Are those happening or being discussed in any political party or branch of government? Are they being discussed in media? 
 * Or are politicians on both sides of the aisle committed solely to dealing with symptoms rather than causes? 
-* Throughout history the concept of a strongman was limited to a single, charismatic individual. (See Charles Lindholm's book <em><a href="https://www.academia.edu/12414671/Charisma" target="blank">Charisma</a></em> for a fascinating analysis.) But what’s to say that a 21st-century “strongman” won’t emerge as a decentralized, borg-like group, instead of as a single individual? Or perhaps both types might emerge at the same time.
-* Did the coronavirus lockdowns accelerate the anacyclosis process by hollowing out the middle class further and increasing dependency — of all classes but the wealthy — on government? 
-* Will the ongoing supply chain problems, labor shortages, and energy crisis play a role? 
+* Throughout history the concept of a strongman was limited to a single, charismatic individual. (See Charles Lindholm's book <em><a href="https://www.academia.edu/12414671/Charisma" target="blank">Charisma</a></em> for a fascinating analysis.) But what’s to say that a 21st-century strongman won’t emerge as a decentralized, borg-like group, instead of as a single individual? Or perhaps both types might emerge at the same time.
+* Did the coronavirus lockdowns accelerate the anacyclosis process by hollowing out the middle class further and increasing dependency — of all classes but the wealthy — on government?
+* Will the ongoing supply chain problems, labor shortages, and/or energy crisis further erode foundations of Western nations? 
 
 ## Exploring Rationist.org
 
@@ -114,6 +114,7 @@ Excerpts: <br/>
 
 <a href="https://fortune.com/2020/09/28/covid-buisnesses-shut-down-closed/" target="blank">Nearly 100,000 establishments that temporarily shut down due to the pandemic are now out of business</a><br/>
 By Anne Sraders and Lance Lambert in <em>Fortune</em> magazine
+
 
 <a href="https://www.bloomberg.com/opinion/articles/2022-06-27/factory-closures-from-aluminum-to-chicken-farming-are-going-to-become-common" target="blank">Many Winters Are Coming</a><br/>
 By Javier Blas for Bloomberg<br/>
