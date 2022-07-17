@@ -24,7 +24,7 @@ Below is the larger context of that passage. I've broken up the long paragraphs 
 
 It's worth noting the book was first published in 1933; I believe this editorial note was added to the third edition. It references Nazis and war on the Don so I'm thinking it was published in or around 1941.
 
-What stands out to me the most in the passage below is the observation that equal and opposite evils are continually strengthened and made to appear plausible by their critiques of each other.
+What stands out to me the most in the passage below is the observation in the first paragraph and the notion that factions at the edges often combine elements from both extremes of the pendulum.
 
 ## The symbols of North and South
 
