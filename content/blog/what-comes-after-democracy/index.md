@@ -96,7 +96,7 @@ Sample passage:
 The institute has further developed the theory of anacyclosis, taking into account centuries of history after Polybius. In particular, they've explored:
 
 * The unique role played by the middle class, whose decline is preceded by a plutocratic siphoning off of wealth
-* Subsequent effects of concentration of wealth and the related shuffling of political power 
+* Subsequent effects of this concentration of wealth and the related reshuffling of political power 
 
 <a href="https://www.ft.com/content/e3821f59-cc50-311a-8ba7-5841f32962d3" target="blank">The Mob Awakens</a><br/>
 By Timothy Ferguson in <em>The Financial Times</em><br/>
