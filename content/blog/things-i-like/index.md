@@ -222,6 +222,8 @@ After getting the Strat and getting some custom work done on it (had the neck sh
 
 * <a href="https://www.surfertoday.com/bodyboarding/what-is-airboarding" target="blank">Airboarding</a>
 Fastest slope run? 70mph - by accident (took the wrong ski lift up!)
+* Krav Maga 
+* Hiking 
   
 ## Non-profits
 
