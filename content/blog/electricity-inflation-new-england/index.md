@@ -11,7 +11,7 @@ Our local electricity provider Eversource has received an approval for a 112% in
 
 Increased costs of natural gas were a main factor cited.
 
-<img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto/v1658691553/iso-ne-dashboard_lka3yt.png">
+<img src="https://res.cloudinary.com/icecloud7/image/upload/v1658693609/iso-ne-natgas_wiwjht.png">
 <figcaption><small><em>Above: a screengrab of ISO New England's dashboard, showing natgas currently accounting for 67% of electricity production.</em></small></figcaption>
 
 New England seems to suffer from poor (and short-sighted) energy design it seems. The Doomberg Substack has a good summary of this issue <a href="https://doomberg.substack.com/p/new-england-is-an-energy-crisis-waiting" target="blank">here</a>. 
