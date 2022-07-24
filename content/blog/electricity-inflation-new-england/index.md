@@ -29,6 +29,10 @@ Why the Jones Act has not already been nixed is puzzling. Here's a passage from 
 <div style="padding-left: 2.5em;"><p>A key stipulation of the law is that foreign-owned ships cannot transport goods between two US ports – only ships built, owned, and crewed by Americans are permitted to do so. While the US has become the largest producer of natural gas and an ever-larger exporter of LNG, the country does not produce LNG carriers. Since <strong>there are no US LNG carriers</strong>, New England cannot benefit from the build-out of LNG export facilities along the Gulf of Mexico, despite having significant LNG import facilities like the one in Everett, Massachusetts.</p></div> 
 
 <div style="padding-left: 2.5em;"><p>That means<strong> New England is in the same bidding pool as Europe and Asia</strong>. Amazingly, most LNG imports to the Everett terminal have come from Trinidad and Tobago! Instead of simply building pipelines to its land neighbors, New England pays for boats to sail more than 2,000 miles – burning fossil fuels and polluting the oceans as they do so – and pays a substantially higher price for the privilege. Bonkers!</p></div> 
+
+Yep - so while other countries are ordering new LNG carriers - some with the impressive Mark III tank technology by <a href="https://gtt.fr/technologies/markiii-systems" target="blank">France's GTT</a> - America has exactly zero. (The Mark III technology can also be applied to ships using <a href="https://gtt.fr/applications/lng-as-a-fuel
+  target="blank">LNG as marine fuel</a>.)
+
 <br/>
 
 ### Related
@@ -41,3 +45,5 @@ E&E News Climatewire
 
 <a href="https://www.bostonglobe.com/2021/11/03/science/maine-voters-reject-transmission-line-that-would-bring-clean-energy-mass/" target="blank">Maine voters reject transmission line that would bring clean energy to Mass</a><br/>
 <em>Boston Globe</em>
+
+<a href="https://www.dnv.com/maritime/global-sulphur-cap/index.html" target="blank">Global Sulphur Cap 2020</a>
