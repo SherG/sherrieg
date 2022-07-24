@@ -16,12 +16,13 @@ Increased costs of natural gas were a main factor cited.
 
 New England seems to suffer from poor (and short-sighted) energy design it seems. The Doomberg Substack has a good summary of this issue <a href="https://doomberg.substack.com/p/new-england-is-an-energy-crisis-waiting" target="blank">here</a>. 
 
-Some snapshots from the Substack and the <em>Boston Globe</em>:
+Some snapshots from the Substack, the <em>Boston Globe</em>, and other sources (linked):
 
 * We're adjacent to one of the most natural gas-rich regions (the Appalachian Basin) but for lack of gas pipelines can't get adequate amounts delivered here. 
 * Because of the archaic Jones Act, we can't ship U.S.-produced LNG (liquified natural gas) from American ports to New England.
 * As a result we're dependent on shipping in LNG from foreign countries which, of course, burns more fossil fuels 
-* Boston Harbor's Everett Marine Terminal imported 60% of its LNG in 2020. Historically it's sourced LNG from countries including Norway, Peru, Trinidad and Tobago, and "rarely" from Russia. Massachussetts relies on natgas for two-thirds of its electricity needs. 
+* Boston Harbor's Everett Marine Terminal imported 60% of its LNG in 2020. Historically it's sourced LNG from countries including Norway, Peru, Trinidad and Tobago, and "rarely" from Russia. (Massachussetts relies on natgas for two-thirds of its electricity needs.)
+* Per <em>Reuters</em>, spot rates for LNG carriers soared in June to <a href="https://www.reuters.com/business/energy/lng-tanker-charter-rates-hit-record-highs-demand-soars-2022-06-13/" target="blank">$100k/day</a> for the Atlantic basin. (A previous historic high of <a href="https://www.freightwaves.com/news/new-world-record-set-for-shipping-rates-350000-per-day" target="blank">$350k/day</a> was reached in 2021.)
 * Activists have <a href="https://www.bostonglobe.com/2021/11/03/science/maine-voters-reject-transmission-line-that-would-bring-clean-energy-mass/" target="blank">scuttled</a> renewable energy plans for electricity transmission lines carrying <em>hydro</em> power.
 
 Why the Jones Act has not already been nixed is puzzling. Here's a passage from the <a href="https://doomberg.substack.com/p/new-england-is-an-energy-crisis-waiting" target="blank">Doomberg Substack</a> that highlights the problems:
