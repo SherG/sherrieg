@@ -9,7 +9,7 @@ toc: false
 
 Our local electricity provider Eversource has received an approval for a 112% increase in energy supply costs charged to consumers. This was first reported by media in June, which warned of "<a href="https://www.wmur.com/article/new-hampshire-increases-electricity-bills-61622/40314355" target="blank">drastic increases</a>" in bills.
 
-Increased costs of natural gas were cited.
+Increased costs of natural gas were a main factor cited.
 
 <img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto,e_sharpen/v1658691553/iso-ne-dashboard_lka3yt.png">
 <figcaption><small><em>Above: a screengrab of ISO New England's dashboard, showing natgas accounting for 67% of electricity production.</em></small></figcaption>
