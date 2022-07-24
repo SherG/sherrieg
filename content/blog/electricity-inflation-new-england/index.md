@@ -1,5 +1,5 @@
 ---
-title: "Electricity hike of 122% highlights New England energy design isssues"
+title: "Electricity hike of 122% highlights New England energy design flaws"
 date: 2022-07-23T21:28:14-05:00
 publishdate: 2022-07-23
 draft: false
