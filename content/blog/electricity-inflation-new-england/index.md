@@ -45,4 +45,7 @@ E&E News Climatewire
 <a href="https://www.bostonglobe.com/2021/11/03/science/maine-voters-reject-transmission-line-that-would-bring-clean-energy-mass/" target="blank">Maine voters reject transmission line that would bring clean energy to Mass</a><br/>
 <em>Boston Globe</em>
 
+France's <a href="https://gtt.fr/technologies/markiii-systems" target="blank">GTT</a> <br/>
+GTT's Mark III membrane technology is impressive. Interestingly, it can also be applied to ships using <a href="https://gtt.fr/applications/lng-as-a-fuel" target="blank">LNG as marine fuel</a></em>.
+
 <a href="https://www.dnv.com/maritime/global-sulphur-cap/index.html" target="blank">Global Sulphur Cap 2020</a>
