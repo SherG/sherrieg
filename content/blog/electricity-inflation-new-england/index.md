@@ -23,6 +23,8 @@ Some snapshots from the Substack and the <em>Boston Globe</em>:
 * Boston Harbor's Everett Marine Terminal imported 60% of its LNG in 2020. Historically it's sourced LNG from countries including Norway, Peru, Trinidad and Tobago, and "rarely" from Russia. Massachussetts relies on natgas for two-thirds of its electricity needs. 
 * Activists have also <a href="https://www.bostonglobe.com/2021/11/03/science/maine-voters-reject-transmission-line-that-would-bring-clean-energy-mass/" target="blank">scuttled</a> renewable energy plans for electricity transmission lines carrying hydro power.
 
+<br/>
+
 ### Related
 
 <a href="https://www.wmur.com/article/new-hampshire-increases-electricity-bills-61622/40314355" target="blank">New Hampshire residents warned of 'drastic increases' in electricity bills</a><br/>
