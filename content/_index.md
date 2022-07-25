@@ -23,7 +23,7 @@ I have a Bachelors in Applied Music and studied music history and theology at th
 
 Want to get in touch? Email me at `c2hlcnJpZS5nNUBnbWFpbC5jb20=` (Decode that Base64 string [here]({{< relref "base64-tool" >}})).
 
-## Elsewhere
+## Around the web
 
 I'm also on [SignalFox](https://signalfox.org).
 
