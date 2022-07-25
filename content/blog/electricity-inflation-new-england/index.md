@@ -25,13 +25,13 @@ Some snapshots from the Substack, the <em>Boston Globe</em>, and other sources (
 * Per <em>Reuters</em>, spot rates for LNG carriers soared in June to <a href="https://www.reuters.com/business/energy/lng-tanker-charter-rates-hit-record-highs-demand-soars-2022-06-13/" target="blank">$100k/day</a> for the Atlantic basin. (A previous historic high of <a href="https://www.freightwaves.com/news/new-world-record-set-for-shipping-rates-350000-per-day" target="blank">$350k/day</a> was reached in 2021.)
 * Activists have <a href="https://www.bostonglobe.com/2021/11/03/science/maine-voters-reject-transmission-line-that-would-bring-clean-energy-mass/" target="blank">scuttled</a> renewable energy plans for electricity transmission lines carrying <em>hydro</em> power.
 
-Why the Jones Act has not already been nixed is puzzling. Here's a passage from the <a href="https://doomberg.substack.com/p/new-england-is-an-energy-crisis-waiting" target="blank">Doomberg Substack</a> that highlights the problems:
+Why the Jones Act has not already been nixed (or waived) is puzzling. Here's a passage from the <a href="https://doomberg.substack.com/p/new-england-is-an-energy-crisis-waiting" target="blank">Doomberg Substack</a> that highlights the problems:
 
 <div style="padding-left: 2.5em;"><p>A key stipulation of the law is that foreign-owned ships cannot transport goods between two US ports – only ships built, owned, and crewed by Americans are permitted to do so. While the US has become the largest producer of natural gas and an ever-larger exporter of LNG, the country does not produce LNG carriers. Since <strong>there are no US LNG carriers</strong>, New England cannot benefit from the build-out of LNG export facilities along the Gulf of Mexico, despite having significant LNG import facilities like the one in Everett, Massachusetts.</p></div> 
 
 <div style="padding-left: 2.5em;"><p>That means<strong> New England is in the same bidding pool as Europe and Asia</strong>. Amazingly, most LNG imports to the Everett terminal have come from Trinidad and Tobago! Instead of simply building pipelines to its land neighbors, New England pays for boats to sail more than 2,000 miles – burning fossil fuels and polluting the oceans as they do so – and pays a substantially higher price for the privilege. Bonkers!</p></div> 
 
-Time to stock up on firewood.
+Time to stock up on firewood + seal those cracks.
 
 <br/>
 
