@@ -22,7 +22,6 @@ Some snapshots from the Substack, the <em>Boston Globe</em>, and other sources (
 * Because of the archaic Jones Act, we can't ship U.S.-produced LNG (liquified natural gas) from American ports to New England.
 * As a result we're dependent on shipping in LNG from foreign countries which, of course, burns more fossil fuels.
 * Boston Harbor's Everett Marine Terminal imported 60% of its LNG in 2020. Historically it's sourced LNG from Norway, Peru, Trinidad and Tobago, and Russia. (Massachussetts relies on natgas for two-thirds of its electricity needs.)
-* Per <em>Reuters</em>, spot rates for LNG carriers soared in June to <a href="https://www.reuters.com/business/energy/lng-tanker-charter-rates-hit-record-highs-demand-soars-2022-06-13/" target="blank">$100k/day</a> for the Atlantic basin. (A previous historic high of <a href="https://www.freightwaves.com/news/new-world-record-set-for-shipping-rates-350000-per-day" target="blank">$350k/day</a> was reached in 2021.)
 * Activists have <a href="https://www.bostonglobe.com/2021/11/03/science/maine-voters-reject-transmission-line-that-would-bring-clean-energy-mass/" target="blank">scuttled</a> renewable energy plans for electricity transmission lines carrying <em>hydro</em> power.
 
 Why the Jones Act has not already been <a href="https://www.bloomberg.com/opinion/articles/2021-05-17/don-t-waive-the-jones-act-scrap-it" target="blank">nixed</a> is puzzling. Here's a passage from the <a href="https://doomberg.substack.com/p/new-england-is-an-energy-crisis-waiting" target="blank">Doomberg Substack</a> that highlights the problems:
@@ -50,5 +49,7 @@ France's <a href="https://gtt.fr/technologies/markiii-systems" target="blank">GT
 GTT's Mark III membrane technology is impressive. Interestingly, it can also be applied to ships using <a href="https://gtt.fr/applications/lng-as-a-fuel" target="blank">LNG as marine fuel</a></em>.
 
 <a href="https://www.dnv.com/maritime/global-sulphur-cap/index.html" target="blank">Global Sulphur Cap 2020</a>
+
+Per <em>Reuters</em>, spot rates for LNG carriers soared in June to <a href="https://www.reuters.com/business/energy/lng-tanker-charter-rates-hit-record-highs-demand-soars-2022-06-13/" target="blank">$100k/day</a> for the Atlantic basin. A previous historic high of <a href="https://www.freightwaves.com/news/new-world-record-set-for-shipping-rates-350000-per-day" target="blank">$350k/day</a> was reached in 2021.
 
 
