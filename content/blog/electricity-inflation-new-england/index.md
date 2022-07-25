@@ -18,7 +18,7 @@ New England seems to suffer from poor (and short-sighted) energy design. The Doo
 
 Some snapshots from the Substack, the <em>Boston Globe</em>, and other sources (linked):
 
-* We're adjacent to one of the most natural gas-rich regions (the Appalachian Basin) but for lack of gas pipelines and capacity we can't get adequate amounts delivered here. So we import LNG (see below) and <a href="https://www.bloomberg.com/news/articles/2022-02-22/new-england-power-plants-burn-most-oil-since-2011-as-gas-soars" target="blank">burn "dirtier" oil to meet "peak winter demand.</a>" This increases emissions.
+* We're adjacent to one of the most natural gas-rich regions (the Appalachian Basin) but for lack of pipelines /capacity we can't get adequate amounts delivered here. So we import LNG (see below) and <a href="https://www.bloomberg.com/news/articles/2022-02-22/new-england-power-plants-burn-most-oil-since-2011-as-gas-soars" target="blank">burn "dirtier" oil to meet "peak winter demand.</a>" This increases emissions.
 * Because of the archaic Jones Act, we can't ship U.S.-produced LNG (liquified natural gas) from American ports to New England.
 * As a result we're dependent on shipping in LNG from foreign countries which, of course, burns more fossil fuels.
 * Boston Harbor's Everett Marine Terminal imported 60% of its LNG in 2020. Historically it's sourced LNG from Norway, Peru, Trinidad and Tobago, and Russia. (Massachussetts relies on natgas for two-thirds of its electricity needs.)
