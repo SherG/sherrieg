@@ -30,4 +30,8 @@ I'm also on [SignalFox](https://signalfox.org).
 
 ### Disclaimer
 
-Opinions expressed here are my own and not those of any current or former clients or colleagues.
+Opinions expressed here are my own and not those of any current or former clients or colleagues.<br/>
+
+<div class="kb-club">
+  <a target="blank" href="https://512kb.club"><span class="kb-club-no-bg">512KB Club</span><span class="kb-club-bg">Green Team</span></a>
+</div>
