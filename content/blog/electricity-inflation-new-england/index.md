@@ -41,8 +41,8 @@ Time to stock up on firewood + seal those cracks.
 <a href="https://www.wmur.com/article/new-hampshire-increases-electricity-bills-61622/40314355" target="blank">New Hampshire residents warned of 'drastic increases' in electricity bills</a><br/>
 WMUR
 
-<a href="https://www.bloomberg.com/news/articles/2022-07-26/global-competition-for-lng-intensifies-on-new-russia-supply-cut" target="blank">Global LNG Competition Intensifies on New Russia Supply Cut:</a> Asian LNG prices heading to highest level since war started
-
+<a href="https://www.bloomberg.com/news/articles/2022-07-26/global-competition-for-lng-intensifies-on-new-russia-supply-cut" target="blank">Global LNG Competition Intensifies on New Russia Supply Cut:</a> Asian LNG prices heading to highest level since war started<br/>
+Bloomberg
 
 <a href="https://www.eenews.net/articles/how-the-ukraine-war-could-make-new-englanders-shiver/" target="blank">How the Ukraine war could make New Englanders shiver</a> <br/>
 E&E News Climatewire
