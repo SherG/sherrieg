@@ -20,7 +20,7 @@ Some snapshots:
 
 * We're adjacent to one of the most natural gas-rich regions (the Appalachian Basin) but for <a href="https://www.bloomberg.com/news/articles/2022-02-22/new-england-power-plants-burn-most-oil-since-2011-as-gas-soars?sref=9Bl7eBfE" target="blank">lack of pipelines/capacity</a> we can't get adequate amounts delivered here. So we import LNG (see below) and <a href="https://www.bloomberg.com/news/articles/2022-02-22/new-england-power-plants-burn-most-oil-since-2011-as-gas-soars" target="blank">burn "dirtier" oil</a> as winter temperatures plunge. This increases emissions.
 * Because of the archaic Jones Act, we can't ship U.S.-produced LNG (liquified natural gas) from American ports to New England.
-* As a result we're dependent on shipping in LNG from foreign countries which, of course, burns more fossil fuels.
+* As a result we're dependent on importing LNG from foreign countries -- a process which burns more fossil fuels.
 * Boston Harbor's Everett Marine Terminal imported 60% of its LNG in 2020. Historically it's sourced LNG from Norway, Peru, Trinidad and Tobago, and Russia. (Massachussetts relies on natgas for two-thirds of its electricity needs.)
 * Maine voters <a href="https://www.reuters.com/world/americas/maine-voters-reject-quebec-hydropower-transmission-line-2021-11-03/" target="blank">scuttled</a> renewable energy plans for electricity transmission lines carrying <em>hydro</em> power into New England from Quebec. (A similar proposal was previously rejected by New Hampshire voters.)
 
