@@ -30,7 +30,7 @@ Why the Jones Act has not already been <a href="https://www.bloomberg.com/opinio
 
 <div style="padding-left: 2.5em;"><p>That means<strong> New England is in the same bidding pool as Europe and Asia</strong>. Amazingly, most LNG imports to the Everett terminal have come from Trinidad and Tobago! Instead of simply building pipelines to its land neighbors, New England pays for boats to sail more than 2,000 miles – burning fossil fuels and polluting the oceans as they do so – and pays a substantially higher price for the privilege. Bonkers!</p></div> 
 
-Being in the same bidding pool as Europe and Asia means we're directly -- and unnecessarily -- <a href="https://www.bloomberg.com/news/articles/2022-02-22/new-england-power-plants-burn-most-oil-since-2011-as-gas-soars" target="blank">subject to the LNG shortages and soaring prices <em>there</em></a>.
+Being in the same bidding pool as Europe and Asia means we're directly -- and unnecessarily -- <a href="https://www.bloomberg.com/news/articles/2022-07-26/global-competition-for-lng-intensifies-on-new-russia-supply-cut" target="blank">subject to the LNG shortages and soaring prices <em>there</em></a>.
 
 Time to stock up on firewood + seal those cracks.
 
