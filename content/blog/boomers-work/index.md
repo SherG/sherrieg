@@ -6,7 +6,7 @@ draft: false
 toc: false
 ---
 
-When it comes to work, who's got the most energy? GenZ? Millennials? What do the data show?
+When it comes to work, who's got the most energy? GenZ? Millennials? What does the data show?
 
 <em>Harvard Business Review</em> dings some stereotypes:
 
