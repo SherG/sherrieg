@@ -25,7 +25,7 @@ Want to get in touch? Email me at `c2hlcnJpZS5nNUBnbWFpbC5jb20=` (Decode that Ba
 
 ## Around the web
 
-I'm also on [SignalFox](https://signalfox.org).
+You can find me on [SignalFox](https://signalfox.org), [AudioTonic.org](https://audiotonic.org/), and [RuralNH.org](https://www.ruralnh.org/). And I maintain this select [Portfolio page](https://sherrieg5.myportfolio.com/projects).
 
 
 ### Disclaimer
