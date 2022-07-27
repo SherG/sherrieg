@@ -30,6 +30,6 @@ How strong is your volition? I think of volition as a muscle: it's either toned 
 
 So I suppose I would regard energy -- at its root -- as beginning with a choice to exercise volition. 
 
-But I concur with analytics maestro Avinash Kaushik who quipped "All data in aggregate is crap." So "averages" collected on age groups are largely meaningless. 
+But I concur with analytics maestro Avinash Kaushik who once quipped "All data in aggregate is crap." So "averages" collected on age groups are largely meaningless. 
 
-They can simply spur us to focus on (and truly see) the individual and their merits rather than a blob-like stereotype. 
+They can simply spur us to focus on (and truly see) the individual and their merits rather than a blob-like stereotype.
