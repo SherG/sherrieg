@@ -20,7 +20,9 @@ When I was in my 20s I thought people in their 40s were old and over the hill! (
 
 I wonder why we fixate on stereotypes instead of seeing individuals. These conceptions/images certainly aren't being created by a 64-year old <a href="https://www.tonal.com/blog/introducing-tony-hortons-new-workouts-with-tonal/" target="blank">Tony Horton</a> or 60-year old <a href="https://variety.com/2022/film/news/tom-cruise-days-off-work-1235278344/" target="blank">Tom Cruise</a>  . . . 
 
-Nor are they created by tech boomers like Lynda Weinman, online advertising guru Leslie Laredo, or the late Steve Jobs. 
+Nor are they created by tech boomers like Lynda Weinman, online advertising guru Leslie Laredo, or the late Steve Jobs: all people known for their brilliant and creative thinking.
+
+## What is energy in work anyway?
 
 I think of energy as being not based on outward display of enthusiasm (which may be more natural to extroverts and can be faked), or based on excitement (a passing feeling-state), but based on an ability to be steady, disciplined, and committed, which is rooted in your volition. 
 
