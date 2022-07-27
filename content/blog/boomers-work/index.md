@@ -26,4 +26,6 @@ I think of energy as being not based on outward display of enthusiasm (which may
 
 How strong is your volition? I think of volition as a muscle: it's either toned up and strong or it can be made that way.
 
-So I suppose I would regard energy -- at its root -- as beginning with a choice to exercise volition.
+So I suppose I would regard energy -- at its root -- as beginning with a choice to exercise volition. 
+
+But I concur with Avinash Kaushik who quipped "All data in aggregate is crap." So "averages" collected on age groups are largely meaningless. They can simply spur us to overturn stereotypes and discern what the individual brings to the table. And we can be prepared to be surprised - no matter their age or youth.
