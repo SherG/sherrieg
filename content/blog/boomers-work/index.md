@@ -6,7 +6,7 @@ draft: false
 toc: false
 ---
 
-When it comes to work, who's got the most energy? GenZ? Millennials? How about Boomers?
+When it comes to work, who's got the most energy? GenZ? Millennials? What do the data show?
 
 <em>Harvard Business Review</em> dings some stereotypes:
 
@@ -16,7 +16,7 @@ When it comes to work, who's got the most energy? GenZ? Millennials? How about B
 
 (<a href="https://hbr.org/2019/08/5-ways-to-respond-to-ageism-in-a-job-interview" target="blank">Source</a>)
 
-When I was in my 20s I thought people in their 40s were old and over the hill! (What did I know?) I suppose it's natural that people in their 40s think people in their 60s are old and over the hill -- until the 40-somethings arrive at that age.
+When I was in my 20s I thought people in their 40s were old and over the hill! (What did I know?) 
 
 I wonder why we fixate on stereotypes instead of seeing individuals. These conceptions/images certainly aren't being created by a 64-year old <a href="https://www.tonal.com/blog/introducing-tony-hortons-new-workouts-with-tonal/" target="blank">Tony Horton</a> or 60-year old <a href="https://variety.com/2022/film/news/tom-cruise-days-off-work-1235278344/" target="blank">Tom Cruise</a>  . . . 
 
