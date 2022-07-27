@@ -25,3 +25,5 @@ Nor are they created by tech boomers like Lynda Weinman, online advertising guru
 I think of energy as being not based on outward display of enthusiasm (which may be more natural to extroverts and can be faked), or based on excitement (a passing feeling-state), but based on an ability to be steady, disciplined, and committed, which is rooted in your volition. 
 
 How strong is your volition? I think of volition as a muscle: it's either toned up and strong or it can be made that way.
+
+So I suppose I would regard energy -- at its root -- as beginning with a choice to exercise volition.
