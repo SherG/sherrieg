@@ -24,9 +24,28 @@ I wonder why we fixate on stereotypes instead of seeing individuals. When it com
 
 Nor are they created by tech boomers like Lynda Weinman, online advertising guru Leslie Laredo, or the late Steve Jobs: all people known for their brilliant, creative thinking and entrepreneurship.
 
+## "They're all the same!"
+
+Perhaps it's fair to say that the advertising/marketing industry has had a big hand in creating stereotypes. 
+
+They study generations like entomologists, capturing a few samples of, say, ‘butterflies’, and pinning them to a board. Next comes the labeling: 
+* This is what all these butterflies want!
+* This is how all these butterflies think!
+* These are the top 7 characteristics of these butterflies! 
+
+Then come thousands of news media articles on what the butterflies are like. Haven’t you heard? They’re all the same!
+
+That said, as individuals we sometimes extrapolate based on an experiences we may have with individuals. 
+
+* "That millennial is lazy. She spends most of her time on Facebook and Twitter!"
+* "That boomer doesn't even know how to connect to their wifi! How is it that they still have a job?" 
+* "This GenZ applicant thinks they're going straight to the C-Suite after their internship. They don't even know what a cash flow statement is!"
+
+I think we can all admit that stereotypes are often funny <em>because</em> they're exaggerated. That's why they're a staple of stand-up comedy.
+
 ## What is energy in work anyway?
 
-Is energy indicated by an outward display of enthusiasm? This may be more natural to extroverts and can be faked.
+Back to the HBR article. Is energy indicated by an outward display of enthusiasm? This may be more natural to extroverts and can be faked.
 
 Is it based on excitement? This is a passing feeling-state, that may be affected by what you just ate! ("I just overloaded on carbs and I'm not feeling very excited now!") 
 
@@ -36,6 +55,6 @@ Volition is like a muscle: it's either strong or it can be made that way.
 
 So does energy -- at its root -- begin with a choice to exercise volition?
 
-Back to the HBR article. Analytics maestro Avinash Kaushik once quipped "All data in aggregate is crap." That's true. And averages collected on age groups don't mean much, do they?
+ Analytics maestro Avinash Kaushik once quipped "All data in aggregate is crap." That's true. And averages collected on age groups don't mean much, do they?
 
 However, like the Twitter joke above, they can spur us to focus on the individual and their merits rather than on a blob-like stereotype.
