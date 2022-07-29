@@ -63,3 +63,7 @@ So does energy -- at its root -- begin with a choice to exercise volition?
  Analytics maestro Avinash Kaushik once quipped "All data in aggregate is crap." That's true. And averages collected on age groups don't mean much, do they?
 
 However, like the Twitter joke above, they can spur us to focus on the individual and their merits rather than on a blob-like stereotype.
+
+<br/><br/>
+Photo by <a href="https://unsplash.com/@katherinestpierre_?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Katherine St-Pierre</a> on <a href="https://unsplash.com/s/photos/butterfly-collection?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
