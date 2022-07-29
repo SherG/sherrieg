@@ -46,7 +46,7 @@ That said, as individuals we sometimes extrapolate based on an experiences we ma
 * "That boomer doesn't even know how to connect to their wifi! How is it that they still have a job?" 
 * "This GenZ applicant thinks they're going straight to the C-Suite after their internship. They don't even know what a cash flow statement is!"
 
-I think we can all admit that stereotypes are often funny <em>because</em> they're exaggerated. That's why they're a staple of stand-up comedy.
+I think we can all admit that stereotypes are often funny because they're exaggerated and because they're sometimes true. That's why they're a staple of stand-up comedy.
 
 ## What is energy in work anyway?
 
