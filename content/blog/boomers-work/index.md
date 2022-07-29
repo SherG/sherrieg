@@ -33,7 +33,7 @@ They study generations like entomologists, capturing a few samples and pinning t
 * This is how all these butterflies think!
 * These are the top 7 characteristics of these butterflies! 
 
-Then come thousands of news media articles on what the butterflies are like. Haven’t you heard? They’re all the same!
+Then come thousands of news media articles on what those butterflies are like. Haven’t you heard? They’re all the same!
 
 <img src="https://res.cloudinary.com/icecloud7/image/upload/v1659128806/sherrieg/butterfly-collection_e87die.png">
 <figcaption><small>What you look like to some marketers</small></figcaption>
