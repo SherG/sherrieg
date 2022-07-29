@@ -28,7 +28,7 @@ Nor are they created by tech boomers like Lynda Weinman, online advertising guru
 
 Perhaps it's fair to say that the advertising/marketing industry has had a big hand in creating stereotypes. 
 
-They study generations like entomologists capturing a few samples of butterflies and pinning them to a board. Next comes the labeling of particular species: 
+They study generations like entomologists capturing butterfly species and pinning them to a board. Next comes the labeling: 
 * This is what all these butterflies want!
 * This is how all these butterflies think!
 * Learn the top 7 characteristics of these butterflies! 
