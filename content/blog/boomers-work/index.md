@@ -35,6 +35,8 @@ They study generations like entomologists, capturing a few samples of, say, ‘b
 
 Then come thousands of news media articles on what the butterflies are like. Haven’t you heard? They’re all the same!
 
+### Stereotypes can be funny
+
 That said, as individuals we sometimes extrapolate based on an experiences we may have with individuals. 
 
 * "That millennial is lazy. She spends most of her time on Facebook and Twitter!"
