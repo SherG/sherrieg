@@ -12,7 +12,7 @@ Squash the dissent (either formally or through social networks) and you lose the
 
 They hamstring the capacity to "adapt and evolve," so their nation becomes brittle and prone to failure. 
 
-This blog post comes on the heels of the collapse of Sri Lanka. While many factors played into Sri Lanka's downfall, suppression of dissent and rigid government policies that decimated agricultural yield were predictable accelerants.
+This blog post comes on the heels of the tragic collapse of Sri Lanka. While many factors played into Sri Lanka's downfall, suppression of dissent and rigid government policies that decimated agricultural yield seem like predictable accelerants.
 
 Excerpts:
 
