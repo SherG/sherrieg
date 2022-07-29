@@ -14,7 +14,7 @@ Increased costs of natural gas were a main factor cited.
 <img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto,e_sharpen/v1658693609/iso-ne-natgas_wiwjht.png">
 <figcaption><small><em>Above: a screengrab of ISO New England's dashboard, showing natgas currently accounting for 64% of electricity production.</em></small></figcaption>
 
-New England seems to suffer from poor (and short-sighted) energy design. 
+New England seems to suffer from poor (and short-sighted) energy design (which is not not in Eversource's wheelhouse). 
 
 Some snapshots:
 
