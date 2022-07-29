@@ -16,7 +16,7 @@ When it comes to work, who's got the most energy? GenZ? Millennials? How about B
 
 (<a href="https://hbr.org/2019/08/5-ways-to-respond-to-ageism-in-a-job-interview" target="blank">Source</a>)
 
-When I was in my 20s I thought people in their 40s were old and over the hill! (What did I know?) It seems these stereotypes exist in each generation. 
+When I was in my 20s I thought people in their 40s were old and over the hill! (What did I know?) It seems these stereotypes exist in each generation. <br/>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The only people who seem to know how old millennials are, are millennials.<br><br>Boomers think we’re still in college, and Gen Z thinks we belong in a nursing home.</p>&mdash; Mina Markham (@MinaMarkham) <a href="https://twitter.com/MinaMarkham/status/1552634642854924288?ref_src=twsrc%5Etfw">July 28, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><br/>
 
