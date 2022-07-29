@@ -20,7 +20,7 @@ When I was in my 20s I thought people in their 40s were old and over the hill! (
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The only people who seem to know how old millennials are, are millennials.<br><br>Boomers think we’re still in college, and Gen Z thinks we belong in a nursing home.</p>&mdash; Mina Markham (@MinaMarkham) <a href="https://twitter.com/MinaMarkham/status/1552634642854924288?ref_src=twsrc%5Etfw">July 28, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><br/>
 
-I wonder why we fixate on stereotypes instead of seeing individuals. When it comes to boomers, these conceptions/images certainly aren't being created by a ripped <a href="https://www.tonal.com/blog/introducing-tony-hortons-new-workouts-with-tonal/" target="blank">Tony Horton</a> (64) or <a href="https://variety.com/2022/film/news/tom-cruise-days-off-work-1235278344/" target="blank">Tom "I don't have days off" Cruise</a> (60)  . . . 
+I wonder why we fixate on stereotypes instead of seeing individuals. When it comes to boomers, these conceptions/images certainly aren't being created by a ripped <a href="https://www.tonal.com/blog/introducing-tony-hortons-new-workouts-with-tonal/" target="blank">Tony Horton</a> (64) or a <a href="https://variety.com/2022/film/news/tom-cruise-days-off-work-1235278344/" target="blank">Tom "I don't have days off" Cruise</a> (60)  . . . 
 
 Nor are they created by tech boomers like Lynda Weinman, online advertising guru Leslie Laredo, or the late Steve Jobs: all people known for their brilliant, creative thinking and entrepreneurship.
 
