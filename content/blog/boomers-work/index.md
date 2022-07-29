@@ -16,20 +16,26 @@ When it comes to work, who's got the most energy? GenZ? Millennials? How about B
 
 (<a href="https://hbr.org/2019/08/5-ways-to-respond-to-ageism-in-a-job-interview" target="blank">Source</a>)
 
-When I was in my 20s I thought people in their 40s were old and over the hill! (What did I know?) 
+When I was in my 20s I thought people in their 40s were old and over the hill! (What did I know?) It seems these stereotypes exist in each generation. 
 
-I wonder why we fixate on stereotypes instead of seeing individuals. These conceptions/images certainly aren't being created by a 64-year old <a href="https://www.tonal.com/blog/introducing-tony-hortons-new-workouts-with-tonal/" target="blank">Tony Horton</a> or 60-year old <a href="https://variety.com/2022/film/news/tom-cruise-days-off-work-1235278344/" target="blank">Tom Cruise</a>  . . . 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The only people who seem to know how old millennials are, are millennials.<br><br>Boomers think we’re still in college, and Gen Z thinks we belong in a nursing home.</p>&mdash; Mina Markham (@MinaMarkham) <a href="https://twitter.com/MinaMarkham/status/1552634642854924288?ref_src=twsrc%5Etfw">July 28, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Nor are they created by tech boomers like Lynda Weinman, online advertising guru Leslie Laredo, or the late Steve Jobs: all people known for their brilliant and creative thinking.
+I wonder why we fixate on stereotypes instead of seeing individuals. When it comes to boomers, these conceptions/images certainly aren't being created by a 64-year old <a href="https://www.tonal.com/blog/introducing-tony-hortons-new-workouts-with-tonal/" target="blank">Tony Horton</a> or 60-year old <a href="https://variety.com/2022/film/news/tom-cruise-days-off-work-1235278344/" target="blank">Tom Cruise</a>  . . . 
+
+Nor are they created by tech boomers like Lynda Weinman, online advertising guru Leslie Laredo, or the late Steve Jobs: all people known for their brilliant, creative thinking and entrepreneurship.
 
 ## What is energy in work anyway?
 
-I think of energy as being not based on outward display of enthusiasm (which may be more natural to extroverts and can be faked), or based on excitement (a passing feeling-state), but based on an ability to be steady, disciplined, and committed, which is rooted in your volition. 
+Is energy indicated by an outward display of enthusiasm? This may be more natural to extroverts and can be faked.
+
+Is it based on excitement? This is a passing feeling-state, that may be affected by what you just ate! ("I just overloaded on carbs and I'm not feeling very excited now!") 
+
+Is it based on an ability to be steady, disciplined, and committed, which is rooted in your volition?
 
 Volition is like a muscle: it's either strong or it can be made that way.
 
 So does energy -- at its root -- begin with a choice to exercise volition?
 
-Back to the HBR article: I concur with analytics maestro Avinash Kaushik who once quipped "All data in aggregate is crap." So "averages" collected on age groups don't mean much, do they?
+Back to the HBR article. Analytics maestro Avinash Kaushik once quipped "All data in aggregate is crap." That's true. And "averages" collected on age groups don't mean much, do they?
 
-However, they can spur us to focus on the individual and their merits rather than a blob-like stereotype.
+However, like the Twitter joke above, they can spur us to focus on the individual and their merits rather than on a blob-like stereotype.
