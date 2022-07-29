@@ -1,7 +1,7 @@
 ---
 title: "@Work: Who's got energy to burn?"
-date: 2022-07-26T21:28:14-05:00
-publishdate: 2022-07-26
+date: 2022-07-12T21:28:14-05:00
+publishdate: 2022-07-12
 draft: false
 toc: false
 ---
