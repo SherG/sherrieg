@@ -37,7 +37,7 @@ Then come thousands of news media articles, industry white papers, and best-sell
 
 Haven’t you heard? They’re all the same!
 
-<img src="https://res.cloudinary.com/icecloud7/image/upload/v1659128806/sherrieg/butterfly-collection_e87die.png">
+<img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto/v1659128806/sherrieg/butterfly-collection_e87die.png">
 <figcaption><small>What you look like to some marketers</small></figcaption>
 
 ### Stereotypes can be funny
