@@ -49,6 +49,8 @@ Outbreaks of violence and mob rule. Also: the rise of competing demogogues (note
 
 In this view, the rise of demagogues or violent skirmishes are not a cause: they're a symptom of something that's <em>already happened</em>. 
 
+Demagogues -- or demagogue-like networks -- sensing opportunity, stir the pot of grievances. They hope to acquire power by positioning themselves at the vanguard of one or more disgruntled factions.
+
 The resolution of the "contest of demagogues" heralds the death of democracy and the imminent return to a primitive monarchy: rule by a Caesar-like figure. 
 
 Here's a good description from the Anacyclosis Institute: 
