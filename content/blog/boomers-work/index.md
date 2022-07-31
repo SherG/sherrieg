@@ -68,7 +68,7 @@ However, like the Twitter joke above, they can spur us to focus on the individua
 
 <br/><br/><hr/>
 <p id="footnote-1">
-   1. Is anyone still <a href="https://www.trstimson.com/managing-processes-is-more-effective-than-managing-people/" target="blank">managing people</a>? <a href="#footnote-1-ref">&#x21a9;</a> 
+   1. Is anyone still <a href="https://www.trstimson.com/managing-processes-is-more-effective-than-managing-people/" target="blank">managing people</a>? <a href="#footnote-1-ref">&#x21A9;&#xFE0E;</a> 
 </p>
 
 <small>Butterfly colllection photo by <a href="https://unsplash.com/@katherinestpierre_?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Katherine St-Pierre</a> on <a href="https://unsplash.com/s/photos/butterfly-collection?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></small>
