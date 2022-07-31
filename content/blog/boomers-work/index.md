@@ -33,7 +33,7 @@ They study generations like entomologists capturing butterfly species and pinnin
 * This is how <em>all</em> these butterflies think!
 * Learn the top 7 characteristics of these butterflies! 
 
-Then come thousands of news media articles, industry white papers, and best-sellers on how to sell to these butterflies and how to "manage them"<a id="footnote-1-ref" href="#footnote-1">[1]</a> in the workplace.
+Then come thousands of news media articles, industry white papers, and best-sellers on how to sell to these butterflies and how to "manage them"<sup id="footnote-1-ref" href="#footnote-1">[1]</a> in the workplace.
 
 Haven’t you heard? They’re all the same!
 
@@ -68,7 +68,7 @@ However, like the Twitter joke above, they can spur us to focus on the individua
 
 <br/><br/><hr/>
 <p id="footnote-1">
-   1. Is anyone still <a href="https://www.trstimson.com/managing-processes-is-more-effective-than-managing-people/" target="blank">managing people</a>? <a href="#footnote-1-ref">&#8617;</a> 
+   1. Is anyone still <a href="https://www.trstimson.com/managing-processes-is-more-effective-than-managing-people/" target="blank">managing people</a>? <a href="#footnote-1-ref">&#x21a9;</a> 
 </p>
 
 <small>Butterfly colllection photo by <a href="https://unsplash.com/@katherinestpierre_?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Katherine St-Pierre</a> on <a href="https://unsplash.com/s/photos/butterfly-collection?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></small>
