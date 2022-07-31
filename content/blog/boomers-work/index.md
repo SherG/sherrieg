@@ -33,7 +33,7 @@ They study generations like entomologists capturing butterfly species and pinnin
 * This is how <em>all</em> these butterflies think!
 * Learn the top 7 characteristics of these butterflies! 
 
-Then come thousands of news media articles, industry white papers, and best-sellers on how to sell to these butterflies and how to "manage them"<sup id="footnote-1-ref" href="#footnote-1">[1]</a> in the workplace.
+Then come thousands of news media articles, industry white papers, and best-sellers on how to sell to these butterflies and how to "manage them"<sup><a id="footnote-1-ref" href="#footnote-1">[1]</a></sup> in the workplace.
 
 Haven’t you heard? They’re all the same!
 
