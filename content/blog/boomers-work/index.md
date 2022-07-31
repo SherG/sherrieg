@@ -29,11 +29,11 @@ Nor are they created by tech boomers like Lynda Weinman, online advertising guru
 Perhaps it's fair to say that the advertising/marketing industry has had a big hand in creating stereotypes. 
 
 They study generations like entomologists capturing butterfly species and pinning them to a board. Next comes the labeling: 
-* This is what all these butterflies want!
-* This is how all these butterflies think!
+* This is what <em>all</em> these butterflies want!
+* This is how <em>all</em> these butterflies think!
 * Learn the top 7 characteristics of these butterflies! 
 
-Then come thousands of news media articles, industry white papers, and best-sellers on what those butterflies are like. 
+Then come thousands of news media articles, industry white papers, and best-sellers on how to sell to these butterflies and how to "manage them"<a id="footnote-1-ref" href="#footnote-1">[1]</a> in the workplace.
 
 Haven’t you heard? They’re all the same!
 
@@ -67,5 +67,9 @@ So does energy -- at its root -- begin with a choice to exercise volition?
 However, like the Twitter joke above, they can spur us to focus on the individual and their merits rather than on a blob-like stereotype.
 
 <br/><br/><hr/>
+<p id="footnote-1">
+   1. Is anyone still <a href="https://www.trstimson.com/managing-processes-is-more-effective-than-managing-people/" target="blank">managing people</a>? <a href="#footnote-1-ref">&#8617;</a> 
+</p>
+
 <small>Butterfly colllection photo by <a href="https://unsplash.com/@katherinestpierre_?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Katherine St-Pierre</a> on <a href="https://unsplash.com/s/photos/butterfly-collection?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></small>
   
