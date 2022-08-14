@@ -7,7 +7,7 @@ toc: false
 
 ---
 
-After months, my Hyundai evap system code was finally diagnosed correctly, and the problem solved. Weirdly, I wound up being the person to diagnose it after two garages couldn't. The internet came to the rescue.
+After months, my Hyundai evap system problem has finally been fixed. Thanks to the internet, I wound up diagnosing the recurring issue after two garages couldn't.
 
 Just in case there's another person puzzling over this same issue, here's my story & what I learned. 
 
