@@ -19,7 +19,7 @@ Garage #1 originally diagnosed the PO440-ish (I forget the actual number) error 
 
 This 'diagnosis' led to a humorous conversation where the young mechanic informed me that he had a $10,000 computer so his diagnosis had to be right. To which I admitted that I only had a $23 car computer from Amazon, but wondered how an airbag problem could cause a stall upon fillup. Also the code itself indicated an evap system problem.
 
-He eventually decided the purge valve was the issue and replaced it. That worked on the first fill-up, but the problem immediately returned, along with the check engine light.
+I suggested maybe a valve needed to be replaced. He eventually decided the purge valve was the issue and replaced it. That worked on the first fill-up, but the problem immediately returned, along with the check engine light.
 
 Returned to Garage #1. They said they didn't know what the problem was. I suggested new spark plugs + a gas cap. Couldn't hurt, and it'd been a while since the plugs were replaced. This did not work either. 
 
