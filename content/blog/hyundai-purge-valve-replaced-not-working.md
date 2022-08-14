@@ -11,7 +11,7 @@ After months, my Hyundai evap system problem has finally been fixed. Thanks to t
 
 Just in case there's another person puzzling over this same issue, here's my story & what I learned. 
 
-<strong>TL;DR</strong>: If you need to replace a purge valve on a Hyundai, be sure to use a genuine Hyundai valve. Otherwise, the electrical resistance will be incorrect, the check engine light will come back on, and the problem will return.
+<strong>TL;DR</strong>: If you need to replace a purge valve on a Hyundai, tell your mechanic he must use a genuine Hyundia valve. Otherwise, the electrical resistance will be incorrect, the check engine light will come back on, and the problem will return.
 
 Background: I wound up having a series of 440-range error codes, which ultimately combined with a 300-302 error code.
 
