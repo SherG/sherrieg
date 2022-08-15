@@ -23,7 +23,7 @@ I suggested maybe a valve needed to be replaced. He eventually decided the purge
 
 Returned to Garage #1. They said they didn't know what the problem was. I suggested new spark plugs + a gas cap. Couldn't hurt, and it'd been a while since the plugs were replaced. This did not work either. 
 
-* Garage #2: Mechanic informed me that the CVV valve needed to be replaced. Ten miles from garage, on return home, check engine light returned + problem appeared upon fill up. I got a <a href="https://repairpal.com/obd-ii-code-p0446" target="blank">PO446 error code</a>. (Evap circuit control issue.)
+* Garage #2: Mechanic informed me that the CVV valve needed to be replaced. Ten miles from garage, on return home, check engine light returned + problem appeared upon fill up. I got a <a href="https://repairpal.com/obd-ii-code-p0446" target="blank">PO446 error code</a>. (Evap control circuit issue.)
 
 Returned to mechanic: after an hour, he returned to tell me he'd figured out I need a new (wait for it) purge valve and had installed it. Then he explained in detail how he arrived at his conclusion. And he'd done extensive electrical tests via computer and found no other problem.
 
@@ -31,6 +31,6 @@ I informed him that this part had already been replaced by Garage #1. He suggest
 
 I wasn't willing to keep throwing money at this situation, so I dove deeper into the internet. Among the many possibilities, I found a gem in an online forum that rang true. A guy said he'd replaced his purge valve twice and the problem recurred. Then he tested it with a multimeter and found the electrical resistance of the valve was 20 ohms and it was non-OEM. After replacing it with a genuine Hyundai purge valve, resistance was 30 ohms and everything worked perfectly. 
 
-I bought a genuine Hyundai purge valve from Amazon for less that $25 and asked Garage #2 to intall it. Fixed it perfectly. 
+I bought a genuine Hyundai purge valve from Amazon for less that $25 and asked Garage #2 to intall it. Fixed it perfectly. (The mechanic did not charge me for replacing the second or third purge valve.)
 
 <strong>Moral of the story: The incorrect resistance of a non-Hyundai purge valve will trigger an evap control circuit error. So if your mechanic is installing a purge valve, make sure it's OEM.</strong>
