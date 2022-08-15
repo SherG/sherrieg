@@ -38,4 +38,4 @@ I bought a genuine Hyundai purge valve from Amazon for less that $25 and asked G
 <hr>
 Coming up next: "Adventures in Alternator Land" <br/>
 The recent heat wave (which reached a real feel 105°F -- 40.6°C
--- last week) fried my battery & alternator. Replaced both. Car is working fine. But there's a minor issue that's got me searching the web again . . . 
+-- last week) fried my battery & alternator. Replaced both. Car is working fine. But there's a minor issue that has piqued my curiosity, so I'm searching car forums again . . . 
