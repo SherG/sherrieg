@@ -34,3 +34,7 @@ I wasn't willing to keep throwing money at this situation, so I dove deeper into
 I bought a genuine Hyundai purge valve from Amazon for less that $25 and asked Garage #2 to intall it. Fixed it perfectly. (The mechanic did not charge me for replacing the second or third purge valve.)
 
 <strong>Moral of the story: The incorrect resistance of a non-Hyundai purge valve will trigger an evap control circuit error. So if your mechanic is installing a purge valve, make sure it's OEM.</strong>
+
+<hr>
+Coming up next: What I Learned From My Adventures in Alternator Land
+The recent heat wave (which reached real feel 105 last week) fried my battery & alternator. 
