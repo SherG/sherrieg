@@ -15,7 +15,7 @@ Two ironies came to mind when I read this tragic story.
 
 Predictably, many Western media outlets are leading with the notion that Darya's father is "<a href="https://www.washingtonpost.com/politics/daughter-of-putins-brain-ideologist-killed-in-car-blast/2022/08/21/ded9acc0-2124-11ed-9ce6-68253bd31864_story.html" target="blank">Putin's Brain</a>," Putin's "Rasputin," or even "<a href="https://www.thesun.co.uk/news/19571946/putins-guide-alexander-hospital-bomb-killed-daughter/" target="blank">Putin's War Mastermind</a>." 
 
-The idea is that Alexander Dugin's ideas heavily influence and therefore explain Putin's actions. The problem is this claim is highly speculative and tenuous at best. It seems pushed primarily by the American press. 
+The idea is that Alexander Dugin's ideas heavily influence and therefore explain Putin's actions. The problem is this claim is highly speculative and tenuous at best. It seems pushed primarily by the American press, although it has some roots in foreign reportage.
 
 Many of Dugin's views are eclectic and shared by other streams of thought in Russian history and politics. Some of them have been around for decades and even centuries.
 
