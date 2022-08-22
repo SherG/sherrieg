@@ -45,7 +45,7 @@ The other irony is in Dugin's comments regarding Russian victims of the war in U
 
 <div style="padding-left: 2.5em;"><p><strong>Dugin</strong>: A death of loved ones is a horrible grief. Now it’s almost impossible to explain many things. We will explain it all later, after the liberation of Ukraine. When Mariupol will be ours, then your question will become relevant. Right now, our plan is to win.</p></div>
 
-<div style="padding-left: 2.5em;"><p>As soon as the flags of Eastern Ukraine, of Russia, of freedom and independence soars over Kherson and Novorossiya; as soon as Donetsk and Lugansk oblasts will be liberated, [as soon as] Kherson, Nikolayev, Zaporozhe, Odessa, Dnepropetrovsk and other republics will be established, we’ll immediately start to explain.</p></div>
+<div style="padding-left: 2.5em;"><p>As soon as the flags of Eastern Ukraine, of Russia, of freedom and independence soars over Kherson and Novorossiya; as soon as Donetsk and Lugansk oblasts will be liberated, [as soon as] Kherson, Nikolayev, Zaporozhe, Odessa, Dnepropetrovsk and other republics will be established, we’ll immediately start to explain.</p></div><br/>
 
 ### Related 
 My <a href="https://www.goodreads.com/review/show/4687559911" target="blank">brief review</a> of <em>"The American Empire Should Be Destroyed": Alexander Dugin and the Perils of Immanentized Eschatology</a>
