@@ -1,6 +1,6 @@
 ---
 title: "The Assasination of Darya Dugin - a technical glitch?"
-date: 2022-08-24T01:28:14-05:00
+date: 2022-08-21T01:28:14-05:00
 draft: true
 toc: false
 
