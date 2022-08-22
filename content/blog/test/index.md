@@ -23,9 +23,9 @@ Ironically, the repeated elevation of Dugin by the American press may have signi
 
 The other irony is in Dugin's attitude toward Russian victims of the war in Ukraine. In an interview earlier this year, translated by Memri, Dugin seems to dismiss all casualties as "technical problems with the reunion." ("Techincal" is my word. The translation uses "technological.")
 
-<div style="padding-left: 2.5em;"><p><strong>Interviewer</strong>: But besides Zelensky, there are 40 million people residing in Ukraine. The special operation that is underway now, is being conducted in the Russian-speaking areas of Ukraine. Russians live here, the Russian language is spoken here. Kharkov, Mariupol...
+<div style="padding-left: 2.5em;"><p><strong>Interviewer</strong>: But besides Zelensky, there are 40 million people residing in Ukraine. The special operation that is underway now, is being conducted in the Russian-speaking areas of Ukraine. Russians live here, the Russian language is spoken here. Kharkov, Mariupol...</p></div>
 
-How do you explain to a Russian mother, who lost her home, her child, who witnessed all the horrors of destruction and bombing, that all this was done for her own good? Not on a metaphysical plane, but on a material one, what is she suffering for?
+<div style="padding-left: 2.5em;">How do you explain to a Russian mother, who lost her home, her child, who witnessed all the horrors of destruction and bombing, that all this was done for her own good? Not on a metaphysical plane, but on a material one, what is she suffering for?</p></div>
 
 <div style="padding-left: 2.5em;"><p><strong>Dugin</strong>: There are people, who think and seek to comprehend the truth, and there are people, who deal with certain technological problems regarding the reunion. </p></div>
 
