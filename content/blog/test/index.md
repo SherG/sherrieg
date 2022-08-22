@@ -6,22 +6,45 @@ draft: true
 toc: false
 
 ---
--- draft -- 
-Last night I read the news about the assasination of Daria Dugin (also spelled Darya Dugina) - the daughter of Russian activist and ideologue Alexander Dugin. 
+
+Last night I read the news about the assasination of Daria Dugin (also spelled Darya Dugina) - the daughter of Russian activist and far-right ideologue Alexander Dugin. 
+
+It's hard to imagine a more horrifying tableau than what unfolded. 
 
 There are two ironies that stand out in this story.
 
 Predictably, many Western media outlets are leading with the notion that Darya's father is "<a href="https://www.washingtonpost.com/politics/daughter-of-putins-brain-ideologist-killed-in-car-blast/2022/08/21/ded9acc0-2124-11ed-9ce6-68253bd31864_story.html" target="blank">Putin's Brain</a>," Putin's "Rasputin," or even "<a href="https://www.thesun.co.uk/news/19571946/putins-guide-alexander-hospital-bomb-killed-daughter/" target="blank">Putin's War Mastermind</a>." 
 
-The idea is that Alexander Dugin's ideas heavily influence and therefore explain Putin's actions. The problem is this claim seems highly speculative and tenuous at best -- and concocted primarily by the American press. 
-
-While <em>Foreign Policy</em> featured a story in 2014 that called Dugin "Putin's Brain," the appellation seems to have really taken off since the invasion of Ukraine. 
-
-For example, 60 Minutes aired this in April 2022: <a href="https://www.youtube.com/watch?v=Du7fOoW_euE" target="blank">Aleksandr Dugin: The far-right theorist behind Putin's plan</a>. Leslie Stahl's producer at 60 Minutes said: "Alexander Dugin is a Russian political philosopher who's been called 'The Putin Whisperer.' He's got Vladimir Putin's ear and he's really influential in shaping Russian policy at the highest level." The 2022 program featured interview clips that were filmed with Dugin in 2017. 
+The idea is that Alexander Dugin's ideas heavily influence and therefore explain Putin's actions. The problem is this claim is highly speculative and tenuous at best -- and seems concocted primarily by the American press. (Putin's current ideas and actions can be inferred from 20+ years of his public speaking and writing.)
 
 Many of Dugin's views are eclectic and shared by other streams of thought in Russian history and politics. Some of them have been around for decades and even centuries.
 
-Ironically, the repeated elevation of Dugin by the American press has likely significantly expanded his influence both abroad and possibly in his own country. 
+Ironically, the repeated elevation of Dugin by the American press may have significantly expanded his influence both abroad and possibly in his own country. One has to wonder whether this was perceived by Putin as a problem.
+
+The other irony is in Dugin's attitude toward Russian victims of the war in Ukraine. In an interview earlier this year, translated by Memri, Dugin seems to dismiss all casualties as "technical problems with the reunion." ("Techincal" is my word. The translation uses "technological.")
+
+<div style="padding-left: 2.5em;"><p><strong>Interviewer</strong>: But besides Zelensky, there are 40 million people residing in Ukraine. The special operation that is underway now, is being conducted in the Russian-speaking areas of Ukraine. Russians live here, the Russian language is spoken here. Kharkov, Mariupol...
+
+How do you explain to a Russian mother, who lost her home, her child, who witnessed all the horrors of destruction and bombing, that all this was done for her own good? Not on a metaphysical plane, but on a material one, what is she suffering for?
+
+<div style="padding-left: 2.5em;"><p><strong>Dugin</strong>: There are people, who think and seek to comprehend the truth, and there are people, who deal with certain technological problems regarding the reunion. </p></div>
+
+<div style="padding-left: 2.5em;"><p>Back in 2014 it was clear what should be told to her. The streets of Kharkiv in 2014 were covered with flyers containing my statements and quotes, my portraits were plastered on the premises of the city administration.</p></div>
+
+<div style="padding-left: 2.5em;"><p><strong>Interviewer</strong>: True, and Russian volunteers were coming to Donbass carrying your ideas about the Russian world. However, today is 2022. The homes of Russian-speaking Ukrainians were destroyed not eight years ago, but are being destroyed now.</p></div>
+
+<div style="padding-left: 2.5em;"><p><strong>Dugin</strong>: There is such an Old Testament prophet named Jeremiah. He is known for his lamentation. So, I can announce that the state of my soul from 2014 to 2022 is Jeremiah's lament for the Russian World. I was heartbroken about what we had to do.</p></div>
+
+<div style="padding-left: 2.5em;"><p>Naturally, we are in a difficult situation now, and many opportunities for soft solutions have been lost. I don't know who is to blame, just as I don't know who is to blame for the fall of Troy...</p></div>
+
+<div style="padding-left: 2.5em;"><p><strong>Interviewer</strong>: So, how do you explain to a Russian mother from Mariupol that all the unfolding events are for the good?</p></div>
+
+<div style="padding-left: 2.5em;"><p><strong>Dugin</strong>:A death of loved ones is a horrible grief. Now it’s almost impossible to explain many things. We will explain it all later, after the liberation of Ukraine. When Mariupol will be ours, then your question will become relevant. Right now, our plan is to win.</p></div>
+
+<div style="padding-left: 2.5em;"><p>As soon as the flags of Eastern Ukraine, of Russia, of freedom and independence soars over Kherson and Novorossiya; as soon as Donetsk and Lugansk oblasts will be liberated, [as soon as] Kherson, Nikolayev, Zaporozhe, Odessa, Dnepropetrovsk and other republics will be established, we’ll immediately start to explain.</p></div>
+
+
+
 
 ======
 Cyril Aslanov 
