@@ -48,7 +48,7 @@ The other irony is in Dugin's comments regarding Russian victims of the war in U
 <div style="padding-left: 2.5em;"><p>As soon as the flags of Eastern Ukraine, of Russia, of freedom and independence soars over Kherson and Novorossiya; as soon as Donetsk and Lugansk oblasts will be liberated, [as soon as] Kherson, Nikolayev, Zaporozhe, Odessa, Dnepropetrovsk and other republics will be established, we’ll immediately start to explain.</p></div><br/>
 
 ### Related 
-My <a href="https://www.goodreads.com/review/show/4687559911" target="blank">brief review</a> of <em>"The American Empire Should Be Destroyed": Alexander Dugin and the Perils of Immanentized Eschatology</a>
+My <a href="https://www.goodreads.com/review/show/4687559911" target="blank">brief review</a> of <em>"The American Empire Should Be Destroyed": Alexander Dugin and the Perils of Immanentized Eschatology</em></a>
 
 <em><a href="https://www.amazon.com/Russian-Nationalism-Imaginaries-Doctrines-Battlefields-dp-0367584816/dp/0367584816/ref=mt_other?_encoding=UTF8&me=&qid=" target="blank">Russian Nationalism: Imaginaries, Doctrines, and Political Battlefields</a></em> -- <br/>
 An excellent book by <a href="https://elliott.gwu.edu/marlene-laruelle" target="blank">Marlène Laruelle</a> - one of the world's foremost scholars on Russian illiberal movements.
