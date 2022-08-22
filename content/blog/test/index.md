@@ -23,7 +23,7 @@ Besides, Putin's current ideas and actions can easily be inferred from 20+ years
 
 Ironically, the repeated elevation of Dugin by the American press may have significantly expanded his influence both abroad and possibly in his own country. One has to wonder whether this was perceived by Putin as a problem.
 
-The other irony is in Dugin's attitude toward Russian victims of the war in Ukraine. In an interview earlier this year, <a href="https://www.memri.org/reports/purported-putin-whisperer-dugin-solar-putin-must-mobilize-entire-russian-people-win-struggle" target="blank">translated by Memri.org</a>, Dugin seems to dismiss all casualties as "certain technological problems with the reunion" - i.e., just a technical glitch.
+The other irony is in Dugin's attitude toward Russian victims of the war in Ukraine. In an interview earlier this year, <a href="https://www.memri.org/reports/purported-putin-whisperer-dugin-solar-putin-must-mobilize-entire-russian-people-win-struggle" target="blank">translated by Memri.org</a>, Dugin seems to dismiss all casualties as "certain technological problems" with "the reunion" - i.e., just a technical glitch folks.
 
 <div style="padding-left: 2.5em;"><p><strong>Interviewer</strong>: But besides Zelensky, there are 40 million people residing in Ukraine. The special operation that is underway now, is being conducted in the Russian-speaking areas of Ukraine. Russians live here, the Russian language is spoken here. Kharkov, Mariupol...</p></div>
 
