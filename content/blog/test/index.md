@@ -21,9 +21,11 @@ Many of Dugin's views are eclectic and shared by other streams of thought in Rus
 
 Besides, Putin's current ideas and actions can easily be inferred from 20+ years of his public speaking and writing. There's no need to go digging up relatively obscure mystic-totalists. But I suppose it is great for "clicks" and people who want an entertaining take on international news. 
 
+As a result of being dubbed "Putin's Brain," Dugin received Western media interview requests and public speaking opportunities, which he was gladly accepted. To my knowledge he never claimed the title of "Putin's Brain," instead he used each news media query as a pivot point to discuss his views. 
+
 Ironically, the repeated elevation of Dugin by the American press may have significantly expanded his influence both abroad and possibly in his own country. One has to wonder whether this was perceived by Putin as a problem.
 
-The other irony is in Dugin's attitude toward Russian victims of the war in Ukraine. In an interview earlier this year, <a href="https://www.memri.org/reports/purported-putin-whisperer-dugin-solar-putin-must-mobilize-entire-russian-people-win-struggle" target="blank">translated by Memri.org</a>, Dugin seems to dismiss all casualties as "certain technological problems" with "the reunion" - i.e., just a technical glitch folks.
+The other irony is in Dugin's comments regarding Russian victims of the war in Ukraine. In an interview earlier this year, <a href="https://www.memri.org/reports/purported-putin-whisperer-dugin-solar-putin-must-mobilize-entire-russian-people-win-struggle" target="blank">translated by Memri.org</a>, Dugin seems to dismiss Russian civilian casualties as "certain technological problems" with "the reunion" - i.e., just a technical glitch.
 
 <div style="padding-left: 2.5em;"><p><strong>Interviewer</strong>: But besides Zelensky, there are 40 million people residing in Ukraine. The special operation that is underway now, is being conducted in the Russian-speaking areas of Ukraine. Russians live here, the Russian language is spoken here. Kharkov, Mariupol...</p></div>
 
