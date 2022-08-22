@@ -9,9 +9,9 @@ toc: false
 
 Last night I read the news about the assasination of Daria Dugin (also spelled Darya Dugina) - the daughter of Russian activist and far-right ideologue Alexander Dugin. 
 
-This was a horrifying tableau; I can't imagine what it must have been like for the father to be at the scene of his daughter's murder. 
+This was a horrifying tableau, with the father at the scene of his daughter's murder. 
 
-Reports are thin on details and contradictory: most say the car targeted was really the father's car, but other say the car was actually registered to the daughter. 
+Reports are thin on details and contradictory. Most say the car targeted was really the father's car. Others say the car was actually registered to the daughter. 
 
 After I read several versions of this story, two ironies came to mind.
 
