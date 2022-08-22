@@ -39,23 +39,7 @@ The other irony is in Dugin's attitude toward Russian victims of the war in Ukra
 
 <div style="padding-left: 2.5em;"><p><strong>Interviewer</strong>: So, how do you explain to a Russian mother from Mariupol that all the unfolding events are for the good?</p></div>
 
-<div style="padding-left: 2.5em;"><p><strong>Dugin</strong>:A death of loved ones is a horrible grief. Now it’s almost impossible to explain many things. We will explain it all later, after the liberation of Ukraine. When Mariupol will be ours, then your question will become relevant. Right now, our plan is to win.</p></div>
+<div style="padding-left: 2.5em;"><p><strong>Dugin</strong>: A death of loved ones is a horrible grief. Now it’s almost impossible to explain many things. We will explain it all later, after the liberation of Ukraine. When Mariupol will be ours, then your question will become relevant. Right now, our plan is to win.</p></div>
 
 <div style="padding-left: 2.5em;"><p>As soon as the flags of Eastern Ukraine, of Russia, of freedom and independence soars over Kherson and Novorossiya; as soon as Donetsk and Lugansk oblasts will be liberated, [as soon as] Kherson, Nikolayev, Zaporozhe, Odessa, Dnepropetrovsk and other republics will be established, we’ll immediately start to explain.</p></div>
-
-
-
-
-======
-Cyril Aslanov 
-described him as having "an absolutely demented ideology" and that calling him a "philosopher" 
-
- He's a type that has a completely megolomaniacal conception, that far exceeds Putin's ambitions. This is a very important point." he allows that some think he influences Putin, and that Putin uses him a bit bit there is a huge difference between Putin and Dugin -- namely that Dugin wants a "colossal, nightmarish revolution."
-
-apologist for violence and genocide 
-
-
-Commenting on the assasination, Cyril Aslanov quipped that it was a real "fluke of destiny" that "this political activist, agitator . . . had succeeded in obtaining an audience. In fact a guy like that, you'd normally hear, perched on a barrel in Hyde Park.. . In fact, Putin has used this sinister braggart . . .but in my opinion, 
-
-
 
