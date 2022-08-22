@@ -15,13 +15,13 @@ There are two ironies that stand out in this story.
 
 Predictably, many Western media outlets are leading with the notion that Darya's father is "<a href="https://www.washingtonpost.com/politics/daughter-of-putins-brain-ideologist-killed-in-car-blast/2022/08/21/ded9acc0-2124-11ed-9ce6-68253bd31864_story.html" target="blank">Putin's Brain</a>," Putin's "Rasputin," or even "<a href="https://www.thesun.co.uk/news/19571946/putins-guide-alexander-hospital-bomb-killed-daughter/" target="blank">Putin's War Mastermind</a>." 
 
-The idea is that Alexander Dugin's ideas heavily influence and therefore explain Putin's actions. The problem is this claim is highly speculative and tenuous at best -- and seems concocted primarily by the American press. (Putin's current ideas and actions can be inferred from 20+ years of his public speaking and writing.)
+The idea is that Alexander Dugin's ideas heavily influence and therefore explain Putin's actions. The problem is this claim is highly speculative and tenuous at best. It seems pushed primarily by the American press. 
 
 Many of Dugin's views are eclectic and shared by other streams of thought in Russian history and politics. Some of them have been around for decades and even centuries.
 
 Ironically, the repeated elevation of Dugin by the American press may have significantly expanded his influence both abroad and possibly in his own country. One has to wonder whether this was perceived by Putin as a problem.
 
-The other irony is in Dugin's attitude toward Russian victims of the war in Ukraine. In an interview earlier this year, translated by Memri, Dugin seems to dismiss all casualties as necessary for the common good.
+The other irony is in Dugin's attitude toward Russian victims of the war in Ukraine. In an interview earlier this year, <a href="https://www.memri.org/reports/purported-putin-whisperer-dugin-solar-putin-must-mobilize-entire-russian-people-win-struggle" target="blank">translated by Memri.org</a>, Dugin seems to dismiss all casualties as necessary for the common good.
 
 <div style="padding-left: 2.5em;"><p><strong>Interviewer</strong>: But besides Zelensky, there are 40 million people residing in Ukraine. The special operation that is underway now, is being conducted in the Russian-speaking areas of Ukraine. Russians live here, the Russian language is spoken here. Kharkov, Mariupol...</p></div>
 
