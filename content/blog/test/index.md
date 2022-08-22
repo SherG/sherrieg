@@ -11,7 +11,7 @@ Last night I read the news about the assasination of Daria Dugin (also spelled D
 
 It's hard to imagine a more horrifying tableau than what unfolded. 
 
-There are two ironies that stand out in this story.
+Two ironies came to mind when I read this tragic story.
 
 Predictably, many Western media outlets are leading with the notion that Darya's father is "<a href="https://www.washingtonpost.com/politics/daughter-of-putins-brain-ideologist-killed-in-car-blast/2022/08/21/ded9acc0-2124-11ed-9ce6-68253bd31864_story.html" target="blank">Putin's Brain</a>," Putin's "Rasputin," or even "<a href="https://www.thesun.co.uk/news/19571946/putins-guide-alexander-hospital-bomb-killed-daughter/" target="blank">Putin's War Mastermind</a>." 
 
@@ -46,9 +46,9 @@ The other irony is in Dugin's attitude toward Russian victims of the war in Ukra
 <div style="padding-left: 2.5em;"><p>As soon as the flags of Eastern Ukraine, of Russia, of freedom and independence soars over Kherson and Novorossiya; as soon as Donetsk and Lugansk oblasts will be liberated, [as soon as] Kherson, Nikolayev, Zaporozhe, Odessa, Dnepropetrovsk and other republics will be established, we’ll immediately start to explain.</p></div>
 
 ### Related 
-My <a href="https://www.goodreads.com/review/show/4687559911" target="blank">brief review of <em>"The American Empire Should Be Destroyed": Alexander Dugin and the Perils of Immanentized Eschatology</a>
+My <a href="https://www.goodreads.com/review/show/4687559911" target="blank">brief review</a> of <em>"The American Empire Should Be Destroyed": Alexander Dugin and the Perils of Immanentized Eschatology</a>
 
-<em>Russian Nationalism: Imaginaries, Doctrines, and Political Battlefields</em> -- <br/>
+<em><a href="https://www.amazon.com/Russian-Nationalism-Imaginaries-Doctrines-Battlefields-dp-0367584816/dp/0367584816/ref=mt_other?_encoding=UTF8&me=&qid=" target="blank">Russian Nationalism: Imaginaries, Doctrines, and Political Battlefields</a></em> -- <br/>
 An excellent book by <a href="https://elliott.gwu.edu/marlene-laruelle" target="blank">Marlène Laruelle</a> - one of the world's foremost scholars on Russian illiberal movements.
 
 
