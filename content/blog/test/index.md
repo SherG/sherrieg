@@ -9,9 +9,9 @@ toc: false
 
 Last night I read the news about the assasination of Daria Dugin (also spelled Darya Dugina) - the daughter of Russian activist and far-right ideologue Alexander Dugin. 
 
-It's hard to imagine a more horrifying tableau than what unfolded. 
+This was a horrifying tableau; I can't imagine what it must have been like for the father to be at the scene of his daughter's murder. 
 
-Two ironies came to mind when I read this tragic story.
+After I read several versions of this story, two ironies came to mind.
 
 Predictably, many Western media outlets are leading with the notion that Darya's father is "<a href="https://www.washingtonpost.com/politics/daughter-of-putins-brain-ideologist-killed-in-car-blast/2022/08/21/ded9acc0-2124-11ed-9ce6-68253bd31864_story.html" target="blank">Putin's Brain</a>," Putin's "Rasputin," or even "<a href="https://www.thesun.co.uk/news/19571946/putins-guide-alexander-hospital-bomb-killed-daughter/" target="blank">Putin's War Mastermind</a>." 
 
