@@ -19,7 +19,7 @@ The idea is that Alexander Dugin's ideas heavily influence and therefore explain
 
 Many of Dugin's views are eclectic and shared by other streams of thought in Russian history and politics. Some of them have been around for decades and even centuries.
 
-Besides, Putin's current ideas and actions can be inferred from 20+ years of his public speaking and writing. There's no need to go digging around for relatively obscure mystic-totalists. But I suppose it is great for "clicks" and people looking for a more entertaining take on international news. 
+Besides, Putin's current ideas and actions can be inferred from 20+ years of his public speaking and writing. There's no need to go digging up relatively obscure mystic-totalists. But I suppose it is great for "clicks" and people looking for a more entertaining take on international news. 
 
 Ironically, the repeated elevation of Dugin by the American press may have significantly expanded his influence both abroad and possibly in his own country. One has to wonder whether this was perceived by Putin as a problem.
 
