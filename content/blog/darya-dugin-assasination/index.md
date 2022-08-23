@@ -19,13 +19,13 @@ Predictably, many Western media outlets are leading with the notion that Darya's
 
 The idea is that Alexander Dugin's ideas heavily influence and therefore explain Putin's actions. The problem is this claim is highly speculative and tenuous at best. It seems pushed primarily by the American press, although it has some roots in foreign reportage.
 
-Many of Dugin's views are eclectic and shared by other streams of thought in Russian history and politics. Some of them have been around for decades, even centuries. Lack of knowledge of the 'terrain' seems to be catching some journalists in correlation = causation traps.
+Many of Dugin's views are eclectic and shared by other streams of thought in Russian history and politics. Some of them have been around for decades, even centuries. Some journalists seem to be stumbling into 'correlation equals causation' traps.
 
 Besides, Putin's ideas and actions can easily be inferred and deciphered by 20+ years of his public speaking and writing. There's no need to sensationalize current events by digging up relatively obscure mystic-totalists, dressing them in "Rasputin" garb, and parading them around.
 
-But I suppose it is great for "clicks" and for Americans who can't stomach international news unless it's drowned in  hype.
+But I suppose it is great for "clicks" and for Americans who can't stomach international news unless there's a high hype-to-fact ratio.
 
-As a result of being dubbed "Putin's Brain," Dugin received Western media interview requests and public speaking opportunities, which he gladly accepted. To my knowledge he never claimed the title of "Putin's Brain." Instead, upon each similar claim made by an interviewer, Dugin would smoothly pivot away, turning the discussion back to advocacy of his views.
+As a result of being dubbed "Putin's Brain," Dugin received Western media interview requests and public speaking opportunities, which he gladly accepted. To my knowledge he never accepted or claimed the title of "Putin's Brain." Instead, Dugin would smoothly pivot away, turning the discussion back to advocacy of his views.
 
 Ironically, the repeated elevation of Dugin by the American press may have significantly expanded his influence both abroad and possibly in his own country. One has to wonder whether this was perceived by Putin as a problem.
 
