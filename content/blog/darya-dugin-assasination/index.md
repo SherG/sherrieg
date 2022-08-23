@@ -1,5 +1,5 @@
 ---
-title: "The Assasination of Darya Dugin - a technical glitch?"
+title: "The Assassination of Darya Dugin"
 date: 2022-08-21T01:28:14-05:00
 publishdate: 2022-08-21
 draft: true
@@ -9,9 +9,9 @@ toc: false
 
 Last night I read the news about the assasination of Daria Dugin (also spelled Darya Dugina) - the daughter of Russian activist and far-right ideologue Alexander Dugin. 
 
-This was a horrifying tableau, with the father at the scene of his daughter's murder. 
+This was a horrifying tableau, with the father on the scene of his daughter's murder. 
 
-Reports are thin on details and contradictory. Most say the car targeted was really the father's car. Others say the car was actually registered to the daughter. The investigation will be opaque to the West.
+Reports are thin on details and contradictory. Most say the car targeted was really the father's car. Others say the car was actually registered to the daughter. The investigation and its findings will be opaque to the West. In fact, the entire event is opaque, as Western media only knows what Russian witnesses and Russian media have said about it. 
 
 After I read several versions of this story, two ironies came to mind.
 
@@ -21,7 +21,7 @@ The idea is that Alexander Dugin's ideas heavily influence and therefore explain
 
 Many of Dugin's views are eclectic and shared by other streams of thought in Russian history and politics. Some of them have been around for decades, even centuries. 
 
-Besides, Putin's ideas and actions can be easily understood by referencing the 20+ years of his public speaking and writing. There's no need to sensationalize current events by digging up relatively obscure mystic-totalists, dressing them in "Rasputin" garb, and parading them around.
+Besides, Putin's ideas and actions can be easily understood via the last 20 years of his public speaking and writing. There's no need to sensationalize current events by digging up relatively obscure mystic-totalists, dressing them in "Rasputin" garb, and parading them around.
 
 But I suppose it is great for "clicks" and for Americans who can't stomach international news unless there's a steep hype-to-fact ratio.
 
