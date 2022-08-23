@@ -11,7 +11,7 @@ Last night I read the news about the assasination of Daria Dugin (also spelled D
 
 This was a horrifying tableau, with the father at the scene of his daughter's murder. 
 
-Reports are thin on details and contradictory. Most say the car targeted was really the father's car. Others say the car was actually registered to the daughter. 
+Reports are thin on details and contradictory. Most say the car targeted was really the father's car. Others say the car was actually registered to the daughter. The investigation will be opaque to the West.
 
 After I read several versions of this story, two ironies came to mind.
 
@@ -19,15 +19,17 @@ Predictably, many Western media outlets are leading with the notion that Darya's
 
 The idea is that Alexander Dugin's ideas heavily influence and therefore explain Putin's actions. The problem is this claim is highly speculative and tenuous at best. It seems pushed primarily by the American press, although it has some roots in foreign reportage.
 
-Many of Dugin's views are eclectic and shared by other streams of thought in Russian history and politics. Some of them have been around for decades and even centuries.
+Many of Dugin's views are eclectic and shared by other streams of thought in Russian history and politics. Some of them have been around for decades, even centuries. Lack of knowledge of the 'terrain' seems to be catching some journalists in correlation = causation traps.
 
-Besides, Putin's current ideas and actions can easily be inferred from 20+ years of his public speaking and writing. There's no need to go digging up relatively obscure mystic-totalists. But I suppose it is great for "clicks" and people who want an entertaining take on international news. 
+Besides, Putin's ideas and actions can easily be inferred and deciphered by 20+ years of his public speaking and writing. There's no need to sensationalize current events by digging up relatively obscure mystic-totalists, dressing them in "Rasputin" garb, and parading them around.
 
-As a result of being dubbed "Putin's Brain," Dugin received Western media interview requests and public speaking opportunities, which he gladly accepted. To my knowledge he never claimed the title of "Putin's Brain," instead he used each news media query as a pivot point to discuss his views. 
+But I suppose it is great for "clicks" and for Americans who can't stomach international news unless it's drowned in  hype.
+
+As a result of being dubbed "Putin's Brain," Dugin received Western media interview requests and public speaking opportunities, which he gladly accepted. To my knowledge he never claimed the title of "Putin's Brain." Instead, upon each similar claim made by an interviewer, Dugin would smoothly pivot away, turning the discussion back to advocacy of his views.
 
 Ironically, the repeated elevation of Dugin by the American press may have significantly expanded his influence both abroad and possibly in his own country. One has to wonder whether this was perceived by Putin as a problem.
 
-The other irony is in Dugin's comments regarding Russian victims of the war in Ukraine. In an interview earlier this year, <a href="https://www.memri.org/reports/purported-putin-whisperer-dugin-solar-putin-must-mobilize-entire-russian-people-win-struggle" target="blank">translated by Memri.org</a>, Dugin seems to dismiss Russian civilian casualties as "certain technological problems" with "the reunion" - i.e., just a technical glitch.
+On another note, earlier this year Dugin shared his views about Russian victims of the Ukraine war. The context was an interview conducted by a Russian journalist. In the interview, <a href="https://www.memri.org/reports/purported-putin-whisperer-dugin-solar-putin-must-mobilize-entire-russian-people-win-struggle" target="blank">translated by Memri.org</a>, Dugin seems to view Russian civilian casualties as "certain technological problems" with "the reunion" - i.e., just a technical glitch.
 
 <div style="padding-left: 2.5em;"><p><strong>Interviewer</strong>: But besides Zelensky, there are 40 million people residing in Ukraine. The special operation that is underway now, is being conducted in the Russian-speaking areas of Ukraine. Russians live here, the Russian language is spoken here. Kharkov, Mariupol...</p></div>
 
