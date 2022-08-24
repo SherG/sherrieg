@@ -32,7 +32,7 @@ As a result of being dubbed "Putin's Brain," Dugin received Western media interv
 
 Ironically, the repeated elevation of Dugin by the American press likely boosted his influence both here, abroad, and possibly in his own country. 
 
-He became, through this Western process, the unofficial global spokesman for Russia on the war and was even described as its "<a href="https://www.rferl.org/a/daughter-kremlin-idealogue-dugin-killed-car-explosion/31997791.html" target="blame">architect</a>." One can easily wonder whether this was perceived by Putin as a problem. 
+He became, through this symbiotic process, the unofficial global spokesman for Russia on the war, its chief "explainer," and was even described as its "<a href="https://www.rferl.org/a/daughter-kremlin-idealogue-dugin-killed-car-explosion/31997791.html" target="blame">architect</a>." It's not hard to imagine this being perceived by Putin as a problem. 
 
 And now we find Dugin -- in reality, not in imagination -- at the center of world events.
 
