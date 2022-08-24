@@ -6,13 +6,22 @@ toc: false
 
 ---
 
-Last night I read reports of the assassination of Daria Dugin (also spelled Darya Dugina) - the daughter of Russian activist and far-right ideologue Alexander Dugin. 
+Last night I read the reports of the assassination of Daria Dugin (also spelled Darya Dugina) - the daughter of Russian activist and far-right ideologue Alexander Dugin. 
 
-This was a horrifying tableau, with the father on the scene of his daughter's murder. 
+This was a horrifying tableau, with the father on the scene. 
 
 Most say the car targeted was really the father's car. Others say the car was actually registered to the daughter. The investigation and its findings will be opaque to the West. 
 
-In fact, the entire event is opaque. We have one brief video, plus comments from Russian witnesses and Russian media.
+In fact, the entire event is opaque. We have one brief video plus comments from Russian witnesses and Russian media.
+
+The video shows:
+* A car on fire
+* Debris strewn across the roadway
+* A body (face-down) lying 2 lanes across from the car (reported to have been ejected by the car bomb explosion)
+* The father on the scene
+* Emergency responders arriving
+
+## The elevation of Alexander Dugin
 
 Predictably, many Western media outlets are leading with the notion that Darya's father is "<a href="https://www.washingtonpost.com/politics/daughter-of-putins-brain-ideologist-killed-in-car-blast/2022/08/21/ded9acc0-2124-11ed-9ce6-68253bd31864_story.html" target="blank">Putin's Brain</a>," Putin's "Rasputin," or even "<a href="https://www.thesun.co.uk/news/19571946/putins-guide-alexander-hospital-bomb-killed-daughter/" target="blank">Putin's War Mastermind</a>." 
 
@@ -22,13 +31,17 @@ Many of Dugin's views are eclectic and shared by other streams of thought in Rus
 
 Besides, Putin's ideas and actions can be easily understood via the last 20 years of his public speaking and writing. There's no need to sensationalize current events by digging up relatively obscure mystic-totalists, dressing them in "Rasputin" garb, and parading them around.
 
-But I suppose it is great for "clicks" and for Americans who can't stomach international news unless there's an intoxicating hype-to-fact ratio.
+But I suppose it is great for "clicks" and for Americans who enjoy an intoxicating hype-to-fact ratio.
 
 As a result of being dubbed "Putin's Brain," Dugin received Western media interview requests and public speaking opportunities, which he gladly accepted. Interestingly, at least to my knowledge, he never accepted or claimed the title of "Putin's Brain." Instead, Dugin would smoothly pivot away, turning the discussion back to advocacy of his views.
 
-Ironically, the repeated elevation of Dugin by the American press likely boosted his influence both here, abroad, and possibly in his own country. He became, through this Western process, the unofficial global spokesman for Russia on the war. One can easily wonder whether this was perceived by Putin as a problem. 
+Ironically, the repeated elevation of Dugin by the American press likely boosted his influence both here, abroad, and possibly in his own country. 
 
-And now we find Dugin -- in reality, not in imagination -- at the very center of world events.
+He became, through this Western process, the unofficial global spokesman for Russia on the war. One can easily wonder whether this was perceived by Putin as a problem. 
+
+And now we find Dugin -- in reality, not in imagination -- at the center of world events.
+
+## Dugin's view of Russian civilian casualties
 
 On another note, earlier this year Dugin shared his views about Russian victims of the Ukraine war. The context was an interview conducted by a Russian journalist. In the interview, <a href="https://www.memri.org/reports/purported-putin-whisperer-dugin-solar-putin-must-mobilize-entire-russian-people-win-struggle" target="blank">translated by Memri.org</a>, Dugin seems to view Russian civilian casualties as "certain technological problems" with "the reunion." Here's a passage from the interview:
 
