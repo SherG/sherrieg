@@ -14,13 +14,6 @@ Most say the car targeted was really the father's car. Others say the car was ac
 
 In fact, the entire event is opaque. We have one brief video plus comments from Russian witnesses and Russian media.
 
-The video shows:
-* A car on fire
-* Debris strewn across the roadway
-* A body (face-down) lying 2 lanes across from the car (reported to have been ejected by the car bomb explosion)
-* The father on the scene
-* Emergency responders arriving
-
 ## The elevation of Alexander Dugin
 
 Predictably, many Western media outlets are leading with the notion that Darya's father is "<a href="https://www.washingtonpost.com/politics/daughter-of-putins-brain-ideologist-killed-in-car-blast/2022/08/21/ded9acc0-2124-11ed-9ce6-68253bd31864_story.html" target="blank">Putin's Brain</a>," Putin's "Rasputin," or even "<a href="https://www.thesun.co.uk/news/19571946/putins-guide-alexander-hospital-bomb-killed-daughter/" target="blank">Putin's War Mastermind</a>." 
