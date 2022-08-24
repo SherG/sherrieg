@@ -32,9 +32,11 @@ Besides, Putin's ideas and actions can be easily understood via the last 20 year
 
 But I suppose it is great for "clicks" and for Americans who can't stomach international news unless there's an intoxicating hype-to-fact ratio.
 
-As a result of being dubbed "Putin's Brain," Dugin received Western media interview requests and public speaking opportunities, which he gladly accepted. To my knowledge he never accepted or claimed the title of "Putin's Brain." Instead, Dugin would smoothly pivot away, turning the discussion back to advocacy of his views.
+As a result of being dubbed "Putin's Brain," Dugin received Western media interview requests and public speaking opportunities, which he gladly accepted. Interestingly, at least to my knowledge, he never accepted or claimed the title of "Putin's Brain." Instead, Dugin would smoothly pivot away, turning the discussion back to advocacy of his views.
 
-Ironically, the repeated elevation of Dugin by the American press likely boosted his influence both abroad and possibly in his own country. One has to wonder whether this was perceived by Putin as a problem.
+Ironically, the repeated elevation of Dugin by the American press likely boosted his influence both here, abroad, and possibly in his own country. He became, through this Western process, the unofficial global spokesman for Russia on the war. One can easily wonder whether this was perceived by Putin as a problem. 
+
+And now we find Dugin -- in reality, not in imagination -- at the very center of world events.
 
 On another note, earlier this year Dugin shared his views about Russian victims of the Ukraine war. The context was an interview conducted by a Russian journalist. In the interview, <a href="https://www.memri.org/reports/purported-putin-whisperer-dugin-solar-putin-must-mobilize-entire-russian-people-win-struggle" target="blank">translated by Memri.org</a>, Dugin seems to view Russian civilian casualties as "certain technological problems" with "the reunion." Here's a passage from the interview:
 
