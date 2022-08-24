@@ -22,15 +22,17 @@ The idea is that Alexander Dugin's ideas heavily influence and therefore explain
 
 Many of Dugin's views are eclectic and shared by other streams of thought in Russian history and politics. Some of them have been around for decades, even centuries. 
 
-Besides, Putin's ideas and actions can be easily understood via the last 20 years of his public speaking and writing. There's no need to sensationalize current events by digging up relatively obscure mystic-totalists, dressing them in "Rasputin" garb, and parading them around.
+Besides, Putin's ideas and moves can be easily deciphered by the last 20 years of his public speaking and writing and prior actions. There's no need to over-dramatize current events by digging up a relatively obscure mystic-totalist, dressing him in "Rasputin" garb, and parading him around.
 
-But I suppose it is great for "clicks" and for Americans who enjoy an intoxicating hype-to-fact ratio.
+But I suppose it is great for "clicks" and for Americans who require an intoxicating hype-to-fact ratio before imbibing international news.
+
+It's also been great for Dugin himself. 
 
 As a result of being dubbed "Putin's Brain," Dugin received Western media interview requests and public speaking opportunities, which he gladly accepted. Interestingly, at least to my knowledge, he never accepted or claimed the title of "Putin's Brain." Instead, Dugin would smoothly pivot away, turning the discussion back to advocacy of his views.
 
 Ironically, the repeated elevation of Dugin by the American press likely boosted his influence both here, abroad, and possibly in his own country. 
 
-He became, through this Western process, the unofficial global spokesman for Russia on the war. One can easily wonder whether this was perceived by Putin as a problem. 
+He became, through this Western process, the unofficial global spokesman for Russia on the war and was even described as its "<a href="https://www.rferl.org/a/daughter-kremlin-idealogue-dugin-killed-car-explosion/31997791.html" target="blame">architect</a>." One can easily wonder whether this was perceived by Putin as a problem. 
 
 And now we find Dugin -- in reality, not in imagination -- at the center of world events.
 
