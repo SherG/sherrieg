@@ -7,13 +7,20 @@ toc: false
 
 ---
 
-Last night I read the news about the assasination of Daria Dugin (also spelled Darya Dugina) - the daughter of Russian activist and far-right ideologue Alexander Dugin. 
+Last night I learned of the reported assassination of Daria Dugin (also spelled Darya Dugina) - the daughter of Russian activist and far-right ideologue Alexander Dugin. 
 
 This was a horrifying tableau, with the father on the scene of his daughter's murder. 
 
-Reports are thin on details and contradictory. Most say the car targeted was really the father's car. Others say the car was actually registered to the daughter. The investigation and its findings will be opaque to the West. In fact, the entire event is opaque, as Western media only knows what Russian witnesses and Russian media have said about it. 
+Reports are thin on details. Most say the car targeted was really the father's car. Others say the car was actually registered to the daughter. The investigation and its findings will be opaque to the West. 
 
-After I read several versions of this story, two ironies came to mind.
+In fact, the entire event is opaque, as Western media only knows what Russian witnesses and Russian media have said about it. 
+
+In the short video shared on social media, what we see is: 
+* a car engulfed in flames
+* the father with his hands grasping his head
+* emergency vehicles and responders.
+
+And of course, there was obviously someone filming the event.
 
 Predictably, many Western media outlets are leading with the notion that Darya's father is "<a href="https://www.washingtonpost.com/politics/daughter-of-putins-brain-ideologist-killed-in-car-blast/2022/08/21/ded9acc0-2124-11ed-9ce6-68253bd31864_story.html" target="blank">Putin's Brain</a>," Putin's "Rasputin," or even "<a href="https://www.thesun.co.uk/news/19571946/putins-guide-alexander-hospital-bomb-killed-daughter/" target="blank">Putin's War Mastermind</a>." 
 
@@ -23,13 +30,13 @@ Many of Dugin's views are eclectic and shared by other streams of thought in Rus
 
 Besides, Putin's ideas and actions can be easily understood via the last 20 years of his public speaking and writing. There's no need to sensationalize current events by digging up relatively obscure mystic-totalists, dressing them in "Rasputin" garb, and parading them around.
 
-But I suppose it is great for "clicks" and for Americans who can't stomach international news unless there's a steep hype-to-fact ratio.
+But I suppose it is great for "clicks" and for Americans who can't stomach international news unless there's an intoxicating hype-to-fact ratio.
 
 As a result of being dubbed "Putin's Brain," Dugin received Western media interview requests and public speaking opportunities, which he gladly accepted. To my knowledge he never accepted or claimed the title of "Putin's Brain." Instead, Dugin would smoothly pivot away, turning the discussion back to advocacy of his views.
 
 Ironically, the repeated elevation of Dugin by the American press likely boosted his influence both abroad and possibly in his own country. One has to wonder whether this was perceived by Putin as a problem.
 
-On another note, earlier this year Dugin shared his views about Russian victims of the Ukraine war. The context was an interview conducted by a Russian journalist. In the interview, <a href="https://www.memri.org/reports/purported-putin-whisperer-dugin-solar-putin-must-mobilize-entire-russian-people-win-struggle" target="blank">translated by Memri.org</a>, Dugin seems to view Russian civilian casualties as "certain technological problems" with "the reunion" - i.e., just a technical glitch.
+On another note, earlier this year Dugin shared his views about Russian victims of the Ukraine war. The context was an interview conducted by a Russian journalist. In the interview, <a href="https://www.memri.org/reports/purported-putin-whisperer-dugin-solar-putin-must-mobilize-entire-russian-people-win-struggle" target="blank">translated by Memri.org</a>, Dugin seems to view Russian civilian casualties as "certain technological problems" with "the reunion." Here's a passage from the interview:
 
 <div style="padding-left: 2.5em;"><p><strong>Interviewer</strong>: But besides Zelensky, there are 40 million people residing in Ukraine. The special operation that is underway now, is being conducted in the Russian-speaking areas of Ukraine. Russians live here, the Russian language is spoken here. Kharkov, Mariupol...</p></div>
 
