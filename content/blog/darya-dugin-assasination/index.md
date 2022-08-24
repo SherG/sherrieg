@@ -38,7 +38,7 @@ And now we find Dugin -- in reality, not in imagination -- at the center of worl
 
 ## Dugin on Russian civilian casualties
 
-On another note, earlier this year Dugin shared his views about Russian victims of the Ukraine war. The context was an interview conducted by a Russian journalist. In the interview, <a href="https://www.memri.org/reports/purported-putin-whisperer-dugin-solar-putin-must-mobilize-entire-russian-people-win-struggle" target="blank">translated by Memri.org</a>, Dugin seems to view Russian civilian casualties as "certain technological problems" with "the reunion." Here's a passage from the interview:
+On another note, earlier this year Dugin shared his views about Russian victims of the Ukraine war. The context was an interview conducted by a Russian journalist. In the interview, <a href="https://www.memri.org/reports/purported-putin-whisperer-dugin-solar-putin-must-mobilize-entire-russian-people-win-struggle" target="blank">translated by Memri.org</a>, Dugin seems to view Russian civilian casualties as victims of "certain technological problems" with "the reunion." Here's a passage from the interview:
 
 <div style="padding-left: 2.5em;"><p><strong>Interviewer</strong>: But besides Zelensky, there are 40 million people residing in Ukraine. The special operation that is underway now, is being conducted in the Russian-speaking areas of Ukraine. Russians live here, the Russian language is spoken here. Kharkov, Mariupol...</p></div>
 
