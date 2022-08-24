@@ -20,7 +20,7 @@ Predictably, many Western media outlets are leading with the notion that Darya's
 
 The idea is that Alexander Dugin's ideas heavily influence and therefore explain Putin's actions. The problem is this claim is highly speculative and tenuous at best. It seems pushed primarily by the American press, although it has some roots in foreign reportage.
 
-Many of Dugin's views are eclectic and shared by other streams of thought in Russian history and politics. Some of them have been around for decades, even centuries. 
+Dugin is an activist and, with his followers, has instigated anti-government activities in Eastern Ukraine. But many of Dugin's views are eclectic and shared by other streams of thought in Russian history and politics. Some of them have been around for decades, even centuries. 
 
 Besides, Putin's ideas and moves can be easily deciphered by the last 20 years of his public speaking and writing and prior actions. There's no need to over-dramatize current events by digging up a relatively obscure mystic-totalist, dressing him in "Rasputin" garb, and parading him around.
 
