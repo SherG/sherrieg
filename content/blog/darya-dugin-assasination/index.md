@@ -11,16 +11,9 @@ Last night I read reports of the assassination of Daria Dugin (also spelled Dary
 
 This was a horrifying tableau, with the father on the scene of his daughter's murder. 
 
-Reports are thin on details. Most say the car targeted was really the father's car. Others say the car was actually registered to the daughter. The investigation and its findings will be opaque to the West. 
+Most say the car targeted was really the father's car. Others say the car was actually registered to the daughter. The investigation and its findings will be opaque to the West. 
 
-In fact, the entire event is opaque, as Western media only knows what Russian witnesses and Russian media have said about it. 
-
-In the short video shared on social media, what we see is: 
-* a car engulfed in flames
-* the father with his hands grasping his head
-* emergency vehicles and responders.
-
-And of course, there was obviously someone filming the event.
+In fact, the entire event is opaque. We have one brief video, plus comments from Russian witnesses and Russian media.
 
 Predictably, many Western media outlets are leading with the notion that Darya's father is "<a href="https://www.washingtonpost.com/politics/daughter-of-putins-brain-ideologist-killed-in-car-blast/2022/08/21/ded9acc0-2124-11ed-9ce6-68253bd31864_story.html" target="blank">Putin's Brain</a>," Putin's "Rasputin," or even "<a href="https://www.thesun.co.uk/news/19571946/putins-guide-alexander-hospital-bomb-killed-daughter/" target="blank">Putin's War Mastermind</a>." 
 
