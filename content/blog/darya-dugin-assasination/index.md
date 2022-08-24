@@ -7,7 +7,7 @@ toc: false
 
 ---
 
-Last night I learned of the reported assassination of Daria Dugin (also spelled Darya Dugina) - the daughter of Russian activist and far-right ideologue Alexander Dugin. 
+Last night I read reports of the assassination of Daria Dugin (also spelled Darya Dugina) - the daughter of Russian activist and far-right ideologue Alexander Dugin. 
 
 This was a horrifying tableau, with the father on the scene of his daughter's murder. 
 
