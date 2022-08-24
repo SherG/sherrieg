@@ -41,7 +41,7 @@ He became, through this Western process, the unofficial global spokesman for Rus
 
 And now we find Dugin -- in reality, not in imagination -- at the center of world events.
 
-## Dugin's view of Russian civilian casualties
+## Dugin on Russian civilian casualties
 
 On another note, earlier this year Dugin shared his views about Russian victims of the Ukraine war. The context was an interview conducted by a Russian journalist. In the interview, <a href="https://www.memri.org/reports/purported-putin-whisperer-dugin-solar-putin-must-mobilize-entire-russian-people-win-struggle" target="blank">translated by Memri.org</a>, Dugin seems to view Russian civilian casualties as "certain technological problems" with "the reunion." Here's a passage from the interview:
 
