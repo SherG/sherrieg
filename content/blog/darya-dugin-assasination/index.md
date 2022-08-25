@@ -24,7 +24,7 @@ Dugin is an activist and, with his followers, has instigated anti-government act
 
 Besides, Putin's ideas and moves can be deciphered by the last 20 years of his public speaking and writing and prior actions. There's no need to over-dramatize current events by digging up a relatively obscure mystic-totalist, dressing him in "Rasputin" garb, and parading him around.
 
-But I suppose it is great for "clicks" and for Americans who require an intoxicating hype-to-fact ratio before imbibing international news.
+But I suppose it is great for clicks and views.
 
 It's also been great for Dugin himself. 
 
