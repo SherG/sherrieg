@@ -66,4 +66,7 @@ My <a href="https://www.goodreads.com/review/show/4687559911" target="blank">bri
 <em><a href="https://www.amazon.com/Russian-Nationalism-Imaginaries-Doctrines-Battlefields-dp-0367584816/dp/0367584816/ref=mt_other?_encoding=UTF8&me=&qid=" target="blank">Russian Nationalism: Imaginaries, Doctrines, and Political Battlefields</a></em> -- <br/>
 An excellent book by <a href="https://elliott.gwu.edu/marlene-laruelle" target="blank">Marlène Laruelle</a> - one of the world's foremost scholars on Russian illiberal movements.
 
+<a href="https://unherd.com/2022/03/the-brains-behind-the-russian-invasion/" target="blank">The intellectual origins of Putin’s invasion</a><b/>
+By Marlène Laruelle for Unherd.<br/>
+
 
