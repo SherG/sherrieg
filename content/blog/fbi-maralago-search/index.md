@@ -11,3 +11,5 @@ Former NSA analyst and counter-intel officer John Schindler has an interesting <
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eYSBfbjCvAA?start=18" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <figcaption><em>Meanwhile, at the <a href="https://www.maralagoclub.com/spa-sports-recreation" target="blank">Mar-a-Lago gym</a> . . .  </em></figcaption>
+
+Update: Schindler has a new article out, dated August 28th, providing additional insight:  <a href="https://topsecretumbra.substack.com/p/mar-a-lago-assessing-the-intelligence" target="blank">Mar-a-Lago: Assessing the Intelligence Damage</a>
