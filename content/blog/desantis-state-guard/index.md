@@ -16,6 +16,8 @@ Following the news, current and former elected officials took to Twitter compari
 
 Since I previously served in Virgina's state guard (called the <a href="https://va.ng.mil/Va-Defense-Force/" target="blank">Virginia Defense Force</a>) I thought I'd share what it was like.
 
+## I joined the state guard
+
 I was invited to consider joining by a retired Lt. Col. friend of mine. After seeing the photos of VDF folks wading through chest-deep water and engaged in light search-and-rescue drills, joining seemed like a fun (and adventurous) way to get involved in the community. So to learn more I attended a local meeting of Fairfax County's Alpha Company, part of the Blackhorse Brigade.
 
 The folks there were warm and welcoming and Alpha's captain was instantly likeable, a former military vet, and natural leader. I decided to join, and took the pledge.  
