@@ -74,8 +74,8 @@ There are many volunteer organizations, especially in the Beltway area, includin
 ### Cons
 
 * Military jargon and acronyms made understanding even basic documents unnecessarily difficult. 
-* We were supposed to receive ID cards but somehow the "system" could not figure out how to get this done -- ever. I wondered what would be the impact of showing up, in uniform, without state guard ID cards at a regional staging area in an emergency?
-* We got called on to direct traffic: something I didn't care for. (In crowded circumstances, members of the public are not always amenable to "stop" or "wait" directions.)
+* We were supposed to receive military ID cards but somehow the "system" could not figure out how to get this done -- ever. I wondered what would be the impact of showing up, in uniform, without state guard ID cards at a joint staging area in an emergency?
+* We got called on to direct traffic: something I didn't particularly care for. (In crowded circumstances, members of the public are not always amenable to "stop" or "wait" directions.)
 
 ### Would you change anything?
 
