@@ -14,7 +14,7 @@ Well, yes, that is how state guards work: the commander-in-chief <em>is</em> the
 
 Following the news, current and former elected officials took to Twitter comparing the prosposed state guard with "hand-picked secret police" that a "wannabe dictator" would turn into "his own vigilante militia like we've seen in Cuba." 
 
-Since I previously served in Virgina's state guard (called the <a href="https://va.ng.mil/Va-Defense-Force/" target="blank">Virginia Defense Force<?a>) I thought I'd share what it was like.
+Since I previously served in Virgina's state guard (called the <a href="https://va.ng.mil/Va-Defense-Force/" target="blank">Virginia Defense Force</a>) I thought I'd share what it was like.
 
 I was invited to consider joining by a retired Lt. Col. friend of mine. After seeing the photos of VDF folks wading through chest-deep water and engaged in light search-and-rescue drills, joining seemed like a fun (and adventurous) way to get involved in the community. So to learn more I attended a local meeting of Fairfax County's Alpha Company, part of the Blackhorse Brigade.
 
