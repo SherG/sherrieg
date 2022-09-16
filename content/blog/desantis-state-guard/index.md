@@ -1,0 +1,89 @@
+---
+title: "What Are State Guards Really Like?"
+date: 2022-03-29T21:28:14-05:00
+publishdate: 2022-03-29
+draft: true
+toc: false
+---
+
+Florida governor Ron DeSantis's move to <a href="[https://www.flgov.com/2022/06/15/governor-ron-desantis-unveils-the-florida-state-guard/](https://flsg.myflorida.com/)" target="blank">reestablish the Florida State Guard</a> became a national story leading to strong partisan reactions.
+
+CNN reported: "<a href="https://www.cnn.com/2021/12/02/politics/florida-state-guard-desantis/index.html" target="blank">DeSantis proposes a new civilian military force in Florida that he would control</a>."
+
+Well, yes, that is how state guards work: the commander-in-chief <em>is</em> the governor. (State guards operate under the military laws of the state they are based in.) The headline seems to suggest something novel is occurring ("proposes a new civilian military force") when in fact, it's just a reconstitution of the Florida state guard.
+
+Following the news, current and former elected officials took to Twitter comparing the prosposed state guard with "hand-picked secret police" that a "wannabe dictator" would turn into "his own vigilante militia like we've seen in Cuba." 
+
+Since I previously served in Virgina's state guard (called the <a href="https://va.ng.mil/Va-Defense-Force/" target="blank">Virginia Defense Force<?a>) I thought I'd share what it was like.
+
+I was invited to consider joining by a retired Lt. Col. friend of mine. After seeing the photos of VDF folks wading through chest-deep water and engaged in light search-and-rescue drills, joining seemed like a fun (and adventurous) way to get involved in the community. So to learn more I attended a local meeting of Fairfax County's Alpha Company, part of the Blackhorse Brigade.
+
+The folks there were warm and welcoming and Alpha's captain was instantly likeable, a former military vet, and natural leader. I decided to join, and took the pledge.  
+
+Unlike the National Guard, you can't be drafted into a war and you can quit, for any reason, at any time.
+
+## What did you do? 
+
+We did regular classroom training, online training, military drills, and outdoor training.
+
+This included: 
+
+* Extensive FEMA training, particularly in how multiple agencies interface in an emergency, including staging details. (I was impressed by how well-designed this approach is.)
+* Medical/first-aid training.
+* Emergency responder training for many types of disasters.
+
+Some volunteers trained in light search-and-rescue with aircraft and river boats. (The latter were part of a "riverine detachment.") Some specialized in electronic communications.
+
+A typical Alpha Company training weekend might be doing an all-nighter in sub-zero temps and high winds to learn how to guard an armory in shifts, and communicate effectively, with no one ever abandoning their post.
+
+
+## What else does the state guard do? 
+
+The state guard is on call during disasters to provide humanitarian relief, such as setting up emergency shelters and providing basic first aid (if needed) and logistics for supplies. They may also direct traffic. 
+
+You have to be ready to show up within a narrow time frame with all of your gear. 
+
+The VDF was trained to set up mobile communications units for in-state National Guard deployments.
+
+The guard also provides support services to spouses of deployed National Guard troops. This might be as simple as checking in to see if they need assistance with anything, such as getting a car fixed or getting something delivered. This is intended as a morale boost to National Guard troops and is a natural part of the military culture of loyalty.
+
+## Did you wear a uniform?
+
+Yes, state guard members do wear a military uniform: for the VDF this was US Army woodland camo, not the new digital camo, in order to make state guard units easily discernible from National Guard troops. A dress uniform -- for public events -- was optional.
+
+As a volunteer, you have to purchase your own gear, including the right kind of winter parkas, belts, tees and boots. Everything I wore was designed for men, so it's not exactly tailored to fit.
+
+I learned that GI "polyprop" longjohns are the best for staying warm in sub-zero conditions!
+
+## Were you ever deployed? 
+
+Yes, but only for minor events, such assisting with the governor's inauguration. (While I no longer live in Virginia, I see the guard was actively involved in the state's COVID-19 response.) 
+
+There are many volunteer organizations, especially in the Beltway area, including CERT and the Red Cross,.
+* One the one hand, that makes it unlikely that a state guard unit would ever be in urgent demand there.
+* On the other hand, that is one reason to have such a volunteer force; it's better to have more volunteers than you need, than to come up short when they're needed most.
+
+## Pros? 
+
+* I met very interesting people and enjoyed most of the activities. It was an adventure.
+* Everyone had a can-do attitude, was welcoming, and wanted to make a difference in the community
+* I learned a lot, including from military veterans.
+
+## Cons
+
+* Military jargon and acronyms made understanding even basic documents unnecessarily difficult. 
+* We were supposed to receive ID cards but somehow the "system" could not figure out how to get this done -- ever. I wondered what would be the impact of showing up, in uniform, without state guard ID cards at a regional staging area in an emergency?
+* We got called on to direct traffic: something I didn't care for. (In crowded circumstances, members of the public are not always amenable to "stop" or "wait" directions.)
+
+## Would you change anything?
+
+I'm not convinced that military uniforms are necessary. The <a href="https://apps.dtic.mil/sti/pdfs/ADA494465.pdf" target="blank">view of the military however</a> is that State Defense Forces (SDFs), operating "under the protocol of military guidance and customs . . . are less likely to walk away from assigned missions and are more likely to integrate well with the National Guard units that are given those missions."
+
+Outfit the state guard in a uniform yes -- so that in an emergency the public can easily see who's available to help. But make it something straightforward, like same color shirt, windbreaker, maybe a baseball cap. (If windbreakers and caps are good enough for the FBI they should be good enough for the state guard.) 
+
+That's the view from my perch.
+
+### Related
+
+<a href="https://apps.dtic.mil/sti/pdfs/ADA494465.pdf" target="blank">State Defense Force Monogaph Series: Homeland Security</a>
+An interesting glimpse into the 2005 view that SDFs are an essential fallback force in the event the National Guard is deployed extensively overseas.
