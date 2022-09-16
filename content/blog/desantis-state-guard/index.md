@@ -65,19 +65,19 @@ There are many volunteer organizations, especially in the Beltway area, includin
 * One the one hand, that makes it unlikely that a state guard unit would ever be in urgent demand there.
 * On the other hand, that is one reason to have such a volunteer force; it's better to have more volunteers than you need, than to come up short when they're needed most.
 
-## Pros? 
+### Pros? 
 
 * I met very interesting people and enjoyed most of the activities. It was an adventure.
 * Everyone had a can-do attitude, was welcoming, and wanted to make a difference in the community
 * I learned a lot, including from military veterans.
 
-## Cons
+### Cons
 
 * Military jargon and acronyms made understanding even basic documents unnecessarily difficult. 
 * We were supposed to receive ID cards but somehow the "system" could not figure out how to get this done -- ever. I wondered what would be the impact of showing up, in uniform, without state guard ID cards at a regional staging area in an emergency?
 * We got called on to direct traffic: something I didn't care for. (In crowded circumstances, members of the public are not always amenable to "stop" or "wait" directions.)
 
-## Would you change anything?
+### Would you change anything?
 
 I'm not convinced that military uniforms are necessary. The <a href="https://apps.dtic.mil/sti/pdfs/ADA494465.pdf" target="blank">view of the military however</a> is that State Defense Forces (SDFs), operating "under the protocol of military guidance and customs . . . are less likely to walk away from assigned missions and are more likely to integrate well with the National Guard units that are given those missions."
 
