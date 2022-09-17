@@ -16,7 +16,7 @@ Well, yes, that is how state guards work: the commander-in-chief <em>is</em> the
 
 Reconstitution of a state guard would be a low-priority - even boring - news story, but a stream of sensationalism followed with claims that DeSantis wanted a private army that would ominously do his bidding. I admit I fell for the clickbait myself! ("He wants what?" -click- "Oh! It's just a story about reconstituting a state guard!")
 
-Following the news, current and former elected officials took to Twitter comparing the prosposed state guard with <a href="https://twitter.com/charliecrist/status/1466452164654608391?lang=en" target="blank">"hand-picked secret police"</a> that a "wannabe dictator" would turn into "his own vigilante militia like we've seen in Cuba." 
+Following the news, current and former elected officials took to Twitter comparing the prosposed state guard with "<a href="https://twitter.com/charliecrist/status/1466452164654608391?lang=en" target="blank">hand-picked secret police</a>" that a "<a href="https://twitter.com/annette_taddeo/status/1466459197667741700" target="blank">wannabe dictator</a>" would turn into "<a href="https://twitter.com/annette_taddeo/status/1466459197667741700" target="blank">his own vigilante militia like we've seen in Cuba.</a>" 
 
 Since I previously served in Virgina's state guard (called the <a href="https://va.ng.mil/Va-Defense-Force/" target="blank">Virginia Defense Force</a>) I thought I'd share what it was like.
 
