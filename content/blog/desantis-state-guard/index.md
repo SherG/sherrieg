@@ -102,7 +102,7 @@ The vast majority of your time is spent in training and that is unpaid.
 * Everyone had a can-do attitude, was welcoming, and wanted to make a difference in the community
 * I learned a lot, including from military veterans.
 
-### Cons
+### Cons?
 
 * Military jargon and acronyms made understanding even basic documents difficult. 
 * We were supposed to receive military ID cards but somehow the "system" (not our local company) could not figure out how to get this done -- ever. I wondered what would be the impact of showing up, in uniform, without state guard ID cards at a joint staging area in an emergency?
