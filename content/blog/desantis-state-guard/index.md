@@ -12,7 +12,7 @@ CNN's headline read: "<a href="https://www.cnn.com/2021/12/02/politics/florida-s
 
 The first sentence of the artice states "that he [DeSantis], not the Pentagon, would control" this "civilian military force."
 
-Well, yes, that is how state guards work: the commander-in-chief <em>is</em> the governor. State guards operate under the military laws of the state they are based in. The Pentagon doesn't control state guards and never has. So why mention the Pentagon? 
+Well, yes, that is how state guards work: the commander-in-chief <em>is</em> the governor. State guards operate under the military laws of the state they are based in. The Pentagon doesn't control state guards and never has. 
 
 Reconstitution of a state guard would be a low-priority - even boring - news story, but a stream of sensationalism followed with claims that DeSantis wanted a private army that would ominously do his bidding. I admit I fell for the clickbait myself! ("He wants what?" -click- "Oh! It's just a story about reconstituting a state guard!")
 
