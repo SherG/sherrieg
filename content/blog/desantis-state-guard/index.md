@@ -64,13 +64,13 @@ Once activated, you have to be ready to show up within a narrow time frame with 
 
 ### Capabilities vary between states
 
-The skillsets of state guards vary from state to state. For example, the Texas State Guard has recruited quite a number of doctors, nurses, and other medical professionals -- enough to staff a medical unit and provide some free clinics to the public.
+The skillsets of state guards vary from state to state. 
 
-Those services included "primary medical care, dental care, and even free eye examinations and glasses."
+For example:
 
-The VDF now has cybersecurity capabilities. 
-
-Other state guards may have robust aviation capabilities. 
+* The Texas State Guard has recruited quite a number of doctors, nurses, and other medical professionals -- enough to staff a medical unit and provide free clinics to the public. Those services included "primary medical care, dental care, and even free eye examinations and glasses."
+* The VDF now has cybersecurity capabilities. 
+* Other state guards may have robust aviation capabilities. 
 
 And so on.
 
