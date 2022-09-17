@@ -48,7 +48,7 @@ Some volunteers trained in light search-and-rescue with aircraft and boats. (The
 
 A typical Alpha Company training weekend might be doing an all-nighter in sub-zero temps and high winds to learn how to guard an armory in shifts, and communicate effectively, with no one ever abandoning their post.
 
-<img src="https://res.cloudinary.com/icecloud7/image/upload/v1663428631/Alpha-Company_druhel.jpg" />
+<img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto/v1663428631/Alpha-Company_druhel.jpg" />
 <figcaption>Above: Some of my Alpha Company colleagues (my captain is at right). I took this photo during one of our all-nighter trainings at a National Guard facility. </figcaption>
 
 
