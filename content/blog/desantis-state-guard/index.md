@@ -68,7 +68,7 @@ The skillsets of state guards vary from state to state.
 
 For example:
 
-* The Texas State Guard has recruited quite a number of doctors, nurses, and other medical professionals -- enough to staff a medical unit and provide free clinics to the public. Those services included "primary medical care, dental care, and even free eye examinations and glasses."
+* The <a href="https://tmd.texas.gov/state-guard" target="blank">Texas State Guard</a> has recruited quite a number of doctors, nurses, and other medical professionals -- enough to staff a medical unit and provide free clinics to the public. Those services included "primary medical care, dental care, and even free eye examinations and glasses."
 * The VDF now has cybersecurity capabilities. 
 * Other state guards may have robust aviation capabilities. 
 
