@@ -8,9 +8,9 @@ toc: false
 
 Florida governor Ron DeSantis's move to <a href="[https://www.flgov.com/2022/06/15/governor-ron-desantis-unveils-the-florida-state-guard/](https://flsg.myflorida.com/)" target="blank">reestablish the Florida State Guard</a> became a national story leading to strong partisan reactions.
 
-CNN's headline read: "<a href="https://www.cnn.com/2021/12/02/politics/florida-state-guard-desantis/index.html" target="blank">DeSantis proposes a new civilian military force in Florida that <mark>he would control</mark></a>."
+CNN's headline read: "<a href="https://www.cnn.com/2021/12/02/politics/florida-state-guard-desantis/index.html" target="blank">DeSantis proposes a new civilian military force in Florida that he would control</a>."
 
-The first sentence of the artice states "that he [DeSantis], <mark>not the Pentagon</mark>, would control" this "civilian military force."
+The first sentence of the artice states "that he [DeSantis], not the Pentagon, would control" this "civilian military force."
 
 Well, yes, that is how state guards work: the commander-in-chief <em>is</em> the governor. State guards operate under the military laws of the state they are based in. The Pentagon doesn't control state guards and never has. So why mention the Pentagon? 
 
@@ -28,7 +28,7 @@ I was invited to consider joining by a retired Lt. Col. friend of mine. I had ac
 
 After seeing the photos of VDF folks wading through chest-deep water and engaged in light search-and-rescue drills, joining seemed like a fun (and adventurous) way to get involved in the community. So to learn more I attended a local meeting of Fairfax County's Alpha Company, part of the Blackhorse Brigade.
 
-The folks there were warm and welcoming and Alpha's captain was instantly likeable, a former military vet, and natural leader. I decided to join, and took the pledge.  
+The folks there were warm and welcoming and Alpha's captain was instantly likeable, a military vet, and natural leader. I decided to join, and took the pledge.  
 
 The state guard provides light support services to the National Guard so that it can focus on urgent priorities.
 
