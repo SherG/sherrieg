@@ -101,6 +101,7 @@ The vast majority of your time is spent in training and that is unpaid.
 * I met very interesting people and enjoyed most of the activities. It was an adventure.
 * Everyone had a can-do attitude, was welcoming, and wanted to make a difference in the community
 * I learned a lot, including from military veterans.
+* You'll come away with a better understanding (and appreciation) of how local, state, regional, and federal entities work together in an emergency to protect citizens.
 
 ### Cons?
 
