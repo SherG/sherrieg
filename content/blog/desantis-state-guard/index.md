@@ -78,6 +78,9 @@ As a volunteer, you have to purchase your own gear, including the right kind of 
 
 I learned that GI "polyprop" longjohns -- with the <a href="https://armysurpluswarehouselexington.com/product/military-issued-gen-iii-quarter-zip-polypropylene-thermal-top/" target="blank">turtleneck tops</a> -- are the best for staying warm in sub-zero conditions! (I also learned to never put them in the dryer. They actually melt into hard plastic!)
 
+<img src="https://res.cloudinary.com/icecloud7/image/upload/v1663433154/vdf-training_vknjyc.png" />
+<figcaption><small>Three of these photos are from the Leadership Reaction Course our unit participated in (I'm at lower left in the first photo). </small></figcaption>
+
 ## Were you ever deployed? 
 
 Yes, but only for minor events, such assisting with the governor's inauguration. (While I no longer live in Virginia, I see the guard was actively involved in the state's COVID-19 response.) 
