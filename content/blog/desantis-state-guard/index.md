@@ -112,12 +112,6 @@ The vast majority of your time is spent in training and that is unpaid.
 
 I question whether military uniforms are necessary or ideal for the state guard. The <a href="https://apps.dtic.mil/sti/pdfs/ADA494465.pdf" target="blank">view of the military however</a> is that State Defense Forces (SDFs), operating "under the protocol of military guidance and customs . . . are less likely to walk away from assigned missions and are more likely to integrate well with the National Guard units that are given those missions." And it's true that the state guard is the "reserve" for the National Guard.
 
-How about this: outfit the state guard in a uniform yes -- so that in an emergency the public can easily see who's available to help. But why not make it something straightforward, like same color shirt, windbreaker, maybe a baseball cap. (If windbreakers and caps are good enough for the FBI they should be good enough for the state guard.) 
-
-You could do this <em>and</em> have still former military wear military uniforms: making them easy to spot in a group.
-
-The challenge would be coming up with a new (and meaningful) reward system.
-
 ## In sum
 
 I'm glad I joined the Virgina Defense Force and really enjoyed my time there. We had an interesting mix of people in our company from all types of backgrounds. Some worked for the State Department or Department of Defense. Others were logistics professionals or young adults looking for experience before joining the U.S. Army, Navy or Air Force. We had former military members as well as folks simply interested in helping out. And we had good foreign language capability -- including professional translators -- in our unit. 
