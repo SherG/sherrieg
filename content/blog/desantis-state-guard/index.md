@@ -72,7 +72,7 @@ This is intended as a morale boost to National Guard troops and is a natural par
 
 ## Did you wear a uniform?
 
-Yes, state guard members do wear a military uniform. A dress uniform -- for public events -- was optional.
+Yes, state guard members do wear a military uniform. (A dress uniform -- for public events -- was optional.)
 
 As a volunteer, you have to purchase your own gear, including the right kind of winter parka, belts, tees and boots. You have a list of other items to obtain, such as a sleeping bag and duffel bag, but you can use items you already own.
 
