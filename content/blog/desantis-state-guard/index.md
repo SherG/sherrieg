@@ -14,9 +14,7 @@ The first sentence of the artice states "that he [DeSantis], not the Pentagon, w
 
 Well, yes, that is how state guards work: the commander-in-chief <em>is</em> the governor. State guards operate under the military laws of the state they are based in. The Pentagon doesn't control state guards and never has. So why mention the Pentagon? 
 
-The headline seemed to suggest something novel is occurring ("proposes a new civilian military force") when in fact, it's just a reconstitution of the Florida state guard.
-
-This normally would be a low-priority - even boring - news story, but a stream of sensationalism followed with claims that DeSantis wanted a private army that would ominously do his bidding. I admit I fell for the clickbait myself! ("He wants what?" -click- "Oh! It's just a story about reconstituting a state guard!")
+Reconstitution of a state guard would be a low-priority - even boring - news story, but a stream of sensationalism followed with claims that DeSantis wanted a private army that would ominously do his bidding. I admit I fell for the clickbait myself! ("He wants what?" -click- "Oh! It's just a story about reconstituting a state guard!")
 
 Following the news, current and former elected officials took to Twitter comparing the prosposed state guard with "hand-picked secret police" that a "wannabe dictator" would turn into "his own vigilante militia like we've seen in Cuba." 
 
@@ -48,7 +46,7 @@ Some volunteers trained in light search-and-rescue with aircraft and boats. (The
 
 A typical Alpha Company training weekend might be doing an all-nighter in sub-zero temps and high winds to learn how to guard an armory in shifts, and communicate effectively, with no one ever abandoning their post.
 
-<img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto/v1663431681/VDF-photos-alpha-company_b1iztc.png" />
+<img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto/v1663432292/vdf-alpha-company-blackhorse-sherrie-gossett_wgpeql.png" />
 <figcaption><small>Above: Top two photos: Some of my Alpha Company colleagues (my captain is at left). Bottom right: VDF at the governor's inauguration</small> </figcaption>
 
 
