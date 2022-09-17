@@ -24,14 +24,15 @@ Since I previously served in Virgina's state guard (called the <a href="https://
 
 ## I joined the state guard
 
-I was invited to consider joining by a retired Lt. Col. friend of mine. After seeing the photos of VDF folks wading through chest-deep water and engaged in light search-and-rescue drills, joining seemed like a fun (and adventurous) way to get involved in the community. So to learn more I attended a local meeting of Fairfax County's Alpha Company, part of the Blackhorse Brigade.
+I was invited to consider joining by a retired Lt. Col. friend of mine. I had actually never heard of the state guard before that conversation.
+
+After seeing the photos of VDF folks wading through chest-deep water and engaged in light search-and-rescue drills, joining seemed like a fun (and adventurous) way to get involved in the community. So to learn more I attended a local meeting of Fairfax County's Alpha Company, part of the Blackhorse Brigade.
 
 The folks there were warm and welcoming and Alpha's captain was instantly likeable, a former military vet, and natural leader. I decided to join, and took the pledge.  
 
 The state guard provides light support services to the National Guard so that it can focus on urgent priorities.
 
 Unlike the National Guard, you can't be drafted into a war and you can quit, for any reason, at any time.
-
 
 ## What did you do? 
 
