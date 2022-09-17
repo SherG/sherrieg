@@ -106,7 +106,7 @@ The vast majority of your time is spent in training and that is unpaid.
 
 * Military jargon and acronyms made understanding even basic documents difficult. 
 * We were supposed to receive military ID cards but somehow the "system" (not our local company) could not figure out how to get this done -- ever. I wondered what would be the impact of showing up, in uniform, without state guard ID cards at a joint staging area in an emergency?
-* We got called on to direct traffic: something I didn't particularly care for. (In crowded circumstances, members of the public are not always amenable to "stop" or "wait" directions.)
+* We got called on for traffic control; something I didn't particularly care for. (In crowded circumstances, members of the public are not always amenable to "stop" or "wait" directions.)
 
 ### Would you change anything?
 
