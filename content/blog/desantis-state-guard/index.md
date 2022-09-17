@@ -62,6 +62,18 @@ In weather emergencies, such as severe winter storms or hurricanes, state guard 
 
 Once activated, you have to be ready to show up within a narrow time frame with all of your gear. 
 
+### Capabilities vary between states
+
+The skillsets of state guards vary from state to state. For example, the Texas State Guard has recruited quite a number of doctors, nurses, and other medical professionals -- enough to staff a medical unit and provide some free clinics to the public.
+
+Those services included "primary medical care, dental care, and even free eye examinations and glasses."
+
+The VDF now has cybersecurity capabilities. 
+
+Other state guards may have robust aviation capabilities. 
+
+And so on.
+
 ### Supporting National Guard families
 
 The state guard also provides support services to spouses of National Guard troops deployed overseas. 
@@ -96,14 +108,16 @@ It's a volunteer position, meaning you only get paid when on active duty. The pa
 The vast majority of your time is spent in training and that is unpaid.
 
 
-### Pros? 
+## Pros? Cons?
+
+Some pros:
 
 * I met very interesting people and enjoyed most of the activities. It was an adventure.
 * Everyone had a can-do attitude, was welcoming, and wanted to make a difference in the community
 * I learned a lot, including from military veterans.
 * You'll come away with a better understanding (and appreciation) of how local, state, regional, and federal entities work together in an emergency to protect citizens.
 
-### Cons?
+A few quibbles:
 
 * Military jargon and acronyms made understanding even basic documents difficult. 
 * We were supposed to receive military ID cards but somehow the "system" (not our local company) could not figure out how to get this done -- ever. I wondered what would be the impact of showing up, in uniform, without state guard ID cards at a joint staging area in an emergency?
