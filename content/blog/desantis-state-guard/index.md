@@ -110,13 +110,13 @@ The vast majority of your time is spent in training and that is unpaid.
 
 ### Would you change anything?
 
-I question whether military uniforms are necessary or ideal. The <a href="https://apps.dtic.mil/sti/pdfs/ADA494465.pdf" target="blank">view of the military however</a> is that State Defense Forces (SDFs), operating "under the protocol of military guidance and customs . . . are less likely to walk away from assigned missions and are more likely to integrate well with the National Guard units that are given those missions."
+I question whether military uniforms are necessary or ideal for the state guard. The <a href="https://apps.dtic.mil/sti/pdfs/ADA494465.pdf" target="blank">view of the military however</a> is that State Defense Forces (SDFs), operating "under the protocol of military guidance and customs . . . are less likely to walk away from assigned missions and are more likely to integrate well with the National Guard units that are given those missions." And it's true that the state guard is the "reserve" for the National Guard.
 
-Outfit the state guard in a uniform yes -- so that in an emergency the public can easily see who's available to help. But why not make it something straightforward, like same color shirt, windbreaker, maybe a baseball cap. (If windbreakers and caps are good enough for the FBI they should be good enough for the state guard.) 
+How about this: outfit the state guard in a uniform yes -- so that in an emergency the public can easily see who's available to help. But why not make it something straightforward, like same color shirt, windbreaker, maybe a baseball cap. (If windbreakers and caps are good enough for the FBI they should be good enough for the state guard.) 
 
 You could do this <em>and</em> have still former military wear military uniforms: making them easy to spot in a group.
 
-The challenge would be coming up with a new (and meaningful) reward system -- no small task.
+The challenge would be coming up with a new (and meaningful) reward system.
 
 ## In sum
 
