@@ -16,7 +16,7 @@ Well, yes, that is how state guards work: the commander-in-chief <em>is</em> the
 
 The headline seemed to suggest something novel is occurring ("proposes a new civilian military force") when in fact, it's just a reconstitution of the Florida state guard.
 
-This normally would be a low-priority - even boring - story, but a stream of sensationalism followed with claims that DeSantis wanted a private army that would ominously do his bidding. I admit I fell for the clickbait myself! ("He wants what?" *click* "Oh! It's just a story about reconstituting a state guard!")
+This normally would be a low-priority - even boring - news story, but a stream of sensationalism followed with claims that DeSantis wanted a private army that would ominously do his bidding. I admit I fell for the clickbait myself! ("He wants what?" -click- "Oh! It's just a story about reconstituting a state guard!")
 
 Following the news, current and former elected officials took to Twitter comparing the prosposed state guard with "hand-picked secret police" that a "wannabe dictator" would turn into "his own vigilante militia like we've seen in Cuba." 
 
@@ -47,6 +47,9 @@ This included:
 Some volunteers trained in light search-and-rescue with aircraft and boats. (The latter were part of a "riverine detachment.") Some specialized in electronic communications.
 
 A typical Alpha Company training weekend might be doing an all-nighter in sub-zero temps and high winds to learn how to guard an armory in shifts, and communicate effectively, with no one ever abandoning their post.
+
+<img src="https://res.cloudinary.com/icecloud7/image/upload/v1663428631/Alpha-Company_druhel.jpg" />
+<figcaption>Above: Some of my Alpha Company colleagues (my captain is at right). I took this photo during one of our all-nighter trainings at a National Guard facility. </figcaption>
 
 
 ## What else does the state guard do? 
@@ -93,13 +96,13 @@ There are many volunteer organizations, especially in the Beltway area, includin
 
 ## As that a paid position? 
 
-It's a volunteer position, meaning you only get paid when on active duty -- and that is a very modest daily stipend. 
+It's a volunteer position, meaning you only get paid when on active duty. The pay is in the form of a very modest daily stipend. 
 
 The vast majority of your time is spent in training and that is unpaid.
 
 ### Would you change anything?
 
-I question whether military uniforms are necessary. The <a href="https://apps.dtic.mil/sti/pdfs/ADA494465.pdf" target="blank">view of the military however</a> is that State Defense Forces (SDFs), operating "under the protocol of military guidance and customs . . . are less likely to walk away from assigned missions and are more likely to integrate well with the National Guard units that are given those missions."
+I question whether military uniforms are necessary or ideal. The <a href="https://apps.dtic.mil/sti/pdfs/ADA494465.pdf" target="blank">view of the military however</a> is that State Defense Forces (SDFs), operating "under the protocol of military guidance and customs . . . are less likely to walk away from assigned missions and are more likely to integrate well with the National Guard units that are given those missions."
 
 Outfit the state guard in a uniform yes -- so that in an emergency the public can easily see who's available to help. But why not make it something straightforward, like same color shirt, windbreaker, maybe a baseball cap. (If windbreakers and caps are good enough for the FBI they should be good enough for the state guard.) 
 
