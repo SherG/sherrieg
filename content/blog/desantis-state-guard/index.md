@@ -107,7 +107,6 @@ It's a volunteer position, meaning you only get paid when on active duty. The pa
 
 The vast majority of your time is spent in training and that is unpaid.
 
-
 ## Pros? Cons?
 
 Some pros:
@@ -115,7 +114,8 @@ Some pros:
 * I met very interesting people and enjoyed most of the activities. It was an adventure.
 * Everyone had a can-do attitude, was welcoming, and wanted to make a difference in the community
 * I learned a lot, including from military veterans.
-* You'll come away with a better understanding (and appreciation) of how local, state, regional, and federal entities work together in an emergency to protect citizens.
+
+You'll come away with a better understanding (and appreciation) of how local, state, regional, and federal entities work together in an emergency to protect citizens. And any member of the community can participate in this process.
 
 A few quibbles:
 
