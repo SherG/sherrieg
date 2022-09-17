@@ -32,6 +32,9 @@ The state guard provides light support services to the National Guard so that it
 
 Unlike the National Guard, you can't be drafted into a war and you can quit, for any reason, at any time.
 
+<img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto/v1663432292/vdf-alpha-company-blackhorse-sherrie-gossett_wgpeql.png" />
+<figcaption><small>Above: Top two photos: Some of my Alpha Company colleagues (my captain is at left). Bottom right: VDF at the governor's inauguration</small> </figcaption>
+
 ## What did you do? 
 
 We did regular classroom training, online training, military drills, and outdoor training.
@@ -45,9 +48,6 @@ This included:
 Some volunteers trained in light search-and-rescue with aircraft and boats. (The latter were part of a "riverine detachment.") Some specialized in electronic communications.
 
 A typical Alpha Company training weekend might be doing an all-nighter in sub-zero temps and high winds to learn how to guard an armory in shifts, and communicate effectively, with no one ever abandoning their post.
-
-<img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto/v1663432292/vdf-alpha-company-blackhorse-sherrie-gossett_wgpeql.png" />
-<figcaption><small>Above: Top two photos: Some of my Alpha Company colleagues (my captain is at left). Bottom right: VDF at the governor's inauguration</small> </figcaption>
 
 
 ## What else does the state guard do? 
@@ -79,7 +79,7 @@ As a volunteer, you have to purchase your own gear, including the right kind of 
 I learned that GI "polyprop" longjohns -- with the <a href="https://armysurpluswarehouselexington.com/product/military-issued-gen-iii-quarter-zip-polypropylene-thermal-top/" target="blank">turtleneck tops</a> -- are the best for staying warm in sub-zero conditions! (I also learned to never put them in the dryer. They actually melt into hard plastic!)
 
 <img src="https://res.cloudinary.com/icecloud7/image/upload/v1663433154/vdf-training_vknjyc.png" />
-<figcaption><small>Three of these photos are from the Leadership Reaction Course our unit participated in (I'm at lower left in the first photo). </small></figcaption>
+<figcaption><small>VDF training. Three of these photos are from the Leadership Reaction Course our unit participated in (I'm at lower left in the first photo). </small></figcaption>
 
 ## Were you ever deployed? 
 
