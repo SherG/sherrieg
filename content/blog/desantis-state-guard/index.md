@@ -66,9 +66,9 @@ Once activated, you have to be ready to show up within a narrow time frame with 
 
 The skillsets of state guards vary from state to state. 
 
-For example:
+For example: 
 
-* The <a href="https://tmd.texas.gov/state-guard" target="blank">Texas State Guard</a> has recruited quite a number of doctors, nurses, and other medical professionals -- enough to staff a medical unit and provide free clinics to the public. Those services included "primary medical care, dental care, and even free eye examinations and glasses."
+* The <a href="https://tmd.texas.gov/state-guard" target="blank">Texas State Guard</a> has recruited quite a number of doctors, nurses, and other medical professionals -- enough to staff a medical brigade and provide free clinics to the public. Those services included "primary medical care, dental care, and even free eye examinations and glasses." According to a press release, in one week alone they provided "42,000 services to over 9,000 people." That was not a disaster response. The medical unit does of course also provide medical clinics during emergencies - e.g., on site at hurricane shelters.
 * The VDF now has cybersecurity capabilities. 
 * Other state guards may have robust aviation capabilities. 
 
