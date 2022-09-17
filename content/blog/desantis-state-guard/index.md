@@ -12,9 +12,9 @@ CNN's headline read: "<a href="https://www.cnn.com/2021/12/02/politics/florida-s
 
 The first sentence of the artice states "that he [DeSantis], not the Pentagon, would control" this "civilian military force."
 
-Well, yes, that is how state guards work: the commander-in-chief <em>is</em> the governor. State guards operate under the military laws of the state they are based in. The Pentagon doesn't control state guards and never has. 
+Well, yes, that is how state guards work: the commander-in-chief <em>is</em> the governor. State guards operate under the military laws of the state they are based in. And they're <a href="https://www.law.cornell.edu/uscode/text/32/109" target="blank">authorized by Congress</a>. The Pentagon doesn't control state guards.
 
-Reconstitution of a state guard would be a low-priority - even boring - news story, but a stream of sensationalism followed with claims that DeSantis wanted a private army that would ominously do his bidding. I admit I fell for the clickbait myself! ("He wants what?" -click- "Oh! It's just a story about reconstituting a state guard!")
+Reconstitution of a state guard would be a low-priority - even boring - news story, but a stream of sensationalism followed with claims that DeSantis wanted a private army in order to do ominous things. I admit I fell for the clickbait myself! ("He wants what?" -click- "Oh! It's just a story about reconstituting a state guard!")
 
 Following the news, current and former elected officials took to Twitter comparing the prosposed state guard with "<a href="https://twitter.com/charliecrist/status/1466452164654608391?lang=en" target="blank">hand-picked secret police</a>" that a "<a href="https://twitter.com/annette_taddeo/status/1466459197667741700" target="blank">wannabe dictator</a>" would turn into "<a href="https://twitter.com/annette_taddeo/status/1466459197667741700" target="blank">his own vigilante militia like we've seen in Cuba.</a>" 
 
