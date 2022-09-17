@@ -52,7 +52,7 @@ A typical Alpha Company training weekend might be doing an all-nighter in sub-ze
 
 ## What else does the state guard do? 
 
-The state guard is on call during disasters to provide humanitarian relief, such as setting up (and managing) emergency shelters and providing basic first aid (if needed) and logistics for supplies. 
+The state guard is on call during disasters to provide humanitarian relief. This includes setting up (and managing) emergency shelters, providing basic first aid, and handling logistics for supplies. 
 
 They may transport, unload, and set up cots, bedding, food and water. They may also direct traffic at chokepoints.
 
