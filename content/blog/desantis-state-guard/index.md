@@ -134,7 +134,7 @@ I question whether military uniforms are necessary or ideal for the state guard.
 <p>In an emergency, uniforms make it easy for the public to see whose available to help. But why not make it simple: like same color shirt, windbreaker, maybe a baseball cap? (If windbreakers and caps are good enough for the FBI they should be good enough for the state guard.)</p>
 
 <p>You could do this <em>and</em> have still former military wear military uniforms in the state guard: making them easy to spot in a group.</p>
-</details></aside>
+</details></aside><br/>
 
 
 ## In sum
