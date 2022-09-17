@@ -55,9 +55,9 @@ The state guard is on call during disasters to provide humanitarian relief, such
 
 They may transport, unload, and set up cots, bedding, food and water. They may also direct traffic at chokepoints.
 
-In weather emergencies, such as severe winter storms or hurricanes, state guard troops may travel <a href="https://vdf.virginia.gov/2022/01/26/vdf-provides-logistics-support-during-vng-winter-storm-response/" target="blank">hundreds of miles</a> to load centrally stored equipment like radio communications devices, chainsaws, state fuel cards, and food, and deliver it to National Guard staging areas.
+In weather emergencies, such as severe winter storms or hurricanes, state guard troops may travel <a href="https://vdf.virginia.gov/2022/01/26/vdf-provides-logistics-support-during-vng-winter-storm-response/" target="blank">hundreds of miles</a> to load and transport equipment like radio communications devices, chainsaws, state fuel cards, and food, and deliver it to National Guard staging areas.
 
-You have to be ready to show up within a narrow time frame with all of your gear. 
+Once activated, you have to be ready to show up within a narrow time frame with all of your gear. 
 
 The VDF was trained to set up mobile communications units for in-state National Guard deployments. This frees up some of the National Guard's time.
 
