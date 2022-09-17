@@ -48,7 +48,7 @@ Some volunteers trained in light search-and-rescue with aircraft and boats. (The
 
 A typical Alpha Company training weekend might be doing an all-nighter in sub-zero temps and high winds to learn how to guard an armory in shifts, and communicate effectively, with no one ever abandoning their post.
 
-<img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto,e_sharpen/v1663428631/Alpha-Company_druhel.jpg" />
+<img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto,e_sharpen,w_300/v1663428631/Alpha-Company_druhel.jpg" />
 <figcaption><small>Above: Some of my Alpha Company colleagues (my captain is at right). I took this photo during one of our all-nighter trainings at a National Guard facility.</small> </figcaption>
 
 
@@ -58,13 +58,19 @@ The state guard is on call during disasters to provide humanitarian relief, such
 
 They may transport, unload, and set up cots, bedding, food and water. They may also direct traffic at chokepoints.
 
+The Virginia Defense Force (VDF) was trained to set up mobile communications units for in-state National Guard deployments. This frees up some of the National Guard's time.
+
 In weather emergencies, such as severe winter storms or hurricanes, state guard troops may travel <a href="https://vdf.virginia.gov/2022/01/26/vdf-provides-logistics-support-during-vng-winter-storm-response/" target="blank">hundreds of miles</a> to load and transport equipment like radio communications devices, chainsaws, state fuel cards, and food, and deliver it to National Guard staging areas.
 
 Once activated, you have to be ready to show up within a narrow time frame with all of your gear. 
 
-The VDF was trained to set up mobile communications units for in-state National Guard deployments. This frees up some of the National Guard's time.
+### Supporting National Guard families
 
-The state guard also provides support services to spouses of National Guard troops deployed overseas. This might be as simple as checking in to see if they need assistance with anything, such as getting a car fixed or getting something delivered. This is intended as a morale boost to National Guard troops and is a natural part of the military culture of loyalty.
+The state guard also provides support services to spouses of National Guard troops deployed overseas. 
+
+This might be as simple as checking in to see if they need assistance with anything, such as getting a car fixed or getting something delivered. 
+
+This is intended as a morale boost to National Guard troops and is a natural part of the military culture of loyalty.
 
 ## Did you wear a uniform?
 
@@ -72,7 +78,7 @@ Yes, state guard members do wear a military uniform. A dress uniform -- for publ
 
 As a volunteer, you have to purchase your own gear, including the right kind of winter parka, belts, tees and boots. You have a list of other items to obtain, such as a sleeping bag and duffel bag, but you can use items you already own.
 
-I learned that GI "polyprop" longjohns (the type with the <a href="https://armysurpluswarehouselexington.com/product/military-issued-gen-iii-quarter-zip-polypropylene-thermal-top/" target="blank">turtleneck top</a>) are the best for staying warm in sub-zero conditions! (I also learned to never put them in the dryer. They actually melt into hard plastic!)
+I learned that GI "polyprop" longjohns -- with the <a href="https://armysurpluswarehouselexington.com/product/military-issued-gen-iii-quarter-zip-polypropylene-thermal-top/" target="blank">turtleneck tops</a> -- are the best for staying warm in sub-zero conditions! (I also learned to never put them in the dryer. They actually melt into hard plastic!)
 
 ## Were you ever deployed? 
 
@@ -81,6 +87,13 @@ Yes, but only for minor events, such assisting with the governor's inauguration.
 There are many volunteer organizations, especially in the Beltway area, including CERT and the Red Cross.
 * One the one hand, that makes it unlikely that a state guard unit would ever be in urgent demand there.
 * On the other hand, that is one reason to have such a volunteer force; it's better to have more volunteers than you need, than to come up short when they're needed most.
+
+## Was that a paid position? 
+
+It's a volunteer position, meaning you only get paid when on active duty. The pay is in the form of a very modest daily stipend. 
+
+The vast majority of your time is spent in training and that is unpaid.
+
 
 ### Pros? 
 
@@ -94,12 +107,6 @@ There are many volunteer organizations, especially in the Beltway area, includin
 * We were supposed to receive military ID cards but somehow the "system" (not our local company) could not figure out how to get this done -- ever. I wondered what would be the impact of showing up, in uniform, without state guard ID cards at a joint staging area in an emergency?
 * We got called on to direct traffic: something I didn't particularly care for. (In crowded circumstances, members of the public are not always amenable to "stop" or "wait" directions.)
 
-## As that a paid position? 
-
-It's a volunteer position, meaning you only get paid when on active duty. The pay is in the form of a very modest daily stipend. 
-
-The vast majority of your time is spent in training and that is unpaid.
-
 ### Would you change anything?
 
 I question whether military uniforms are necessary or ideal. The <a href="https://apps.dtic.mil/sti/pdfs/ADA494465.pdf" target="blank">view of the military however</a> is that State Defense Forces (SDFs), operating "under the protocol of military guidance and customs . . . are less likely to walk away from assigned missions and are more likely to integrate well with the National Guard units that are given those missions."
@@ -112,11 +119,11 @@ The challenge would be coming up with a new (and meaningful) reward system -- no
 
 ## In sum
 
-I'm glad I joined the Virgina Defense Force and really enjoyed my time there. We had an interesting mix of people in our company from all types of backgrounds. Some worked for the State Department or Department of Defense. Others were logistics professionals or young adults looking for experience before joining the U.S. Army, Navy or Air Force. We had former military members as well as folks simply interested in helping out. And we had good foreign language capability in our unit. 
+I'm glad I joined the Virgina Defense Force and really enjoyed my time there. We had an interesting mix of people in our company from all types of backgrounds. Some worked for the State Department or Department of Defense. Others were logistics professionals or young adults looking for experience before joining the U.S. Army, Navy or Air Force. We had former military members as well as folks simply interested in helping out. And we had good foreign language capability -- including professional translators -- in our unit. 
 
 If you're curious about joining a state guard I encourage you to attend a meeting of your local company. Simply go to your state guard's website and to get information on where and when they are meeting. Members of the public who are interested in joining can freely sit in.
 
-And I hope this short recollection provides a bit of context for the curious onlooker concerned about the faux-hysteria over the reconsitution of the Florida state guard.
+And I hope this short recollection provides a bit of context for the curious onlooker concerned about the hysteria over the reconsitution of the Florida state guard.
 
 ### Related
 
