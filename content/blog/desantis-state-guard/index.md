@@ -1,7 +1,7 @@
 ---
 title: "What Are State Guards Really Like?"
-date: 2022-03-29T21:28:14-05:00
-publishdate: 2022-03-29
+date: 2022-09-17T21:28:14-05:00
+publishdate: 2022-09-17
 draft: true
 toc: false
 ---
