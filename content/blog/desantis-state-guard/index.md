@@ -144,7 +144,7 @@ I question whether military uniforms are necessary or ideal for the state guard.
 
 ## In sum
 
-I'm glad I joined the Virgina Defense Force and really enjoyed my time there. We had an interesting mix of people in our company from all types of backgrounds. Some worked for the State Department or Department of Defense. Others were logistics professionals or young adults looking for experience before joining the U.S. Army, Navy or Air Force. We had former military members as well as folks simply interested in helping out. And we had good foreign language capability -- including professional translators -- in our unit. 
+I'm glad I joined the Virgina Defense Force and really enjoyed my time there. We had an interesting mix of people in our company from all types of backgrounds. Some worked for the State Department or Department of Defense. Others were logistics professionals or young adults looking for experience before joining the U.S. Army, Navy or Air Force. We had former military members as well as folks simply interested in helping out. And we had good foreign language capability in our company -- including native speakers and professional translators.
 
 If you're curious about joining a state guard I encourage you to attend a meeting of your local company. Simply go to your state guard's website and to get information on where and when they are meeting. Members of the public who are interested in joining can freely sit in.
 
