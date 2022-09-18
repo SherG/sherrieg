@@ -105,7 +105,7 @@ There are many volunteer organizations, especially in the Beltway area, includin
 
 ## Was that a paid position? 
 
-It's a volunteer position, meaning you only get paid when on active duty. The pay is in the form of a very modest daily stipend. 
+It's a volunteer position, meaning you only get paid when on active duty. The pay is in the form of a modest daily stipend. 
 
 The vast majority of your time is spent in training and that is unpaid.
 
