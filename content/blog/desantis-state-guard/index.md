@@ -33,7 +33,7 @@ The state guard provides light support services to the National Guard so that it
 Unlike the National Guard, you can't be drafted into a war and you can quit, for any reason, at any time.
 
 <img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto/v1663432292/vdf-alpha-company-blackhorse-sherrie-gossett_wgpeql.png" />
-<figcaption><small>Above: Top two photos: Some of my Alpha Company colleagues (my captain is at left) during a training event at a National Guard facility. Bottom right: VDF at the governor's inauguration</small> </figcaption>
+<figcaption><small>Above: Top two photos: Some of my Alpha Company colleagues (my captain is at left) during a training event at a National Guard facility. Bottom right: We're at the governor's inauguration</small> </figcaption>
 
 ## What did you do? 
 
@@ -58,7 +58,7 @@ They may transport, unload, and set up cots, bedding, food and water. They may a
 
 The Virginia Defense Force (VDF) was trained to set up mobile communications units for in-state National Guard deployments. This frees up some of the National Guard's time.
 
-In weather emergencies, such as severe winter storms or hurricanes, state guard troops may travel <a href="https://vdf.virginia.gov/2022/01/26/vdf-provides-logistics-support-during-vng-winter-storm-response/" target="blank">hundreds of miles</a> to load and transport equipment like radio communications devices, chainsaws, state fuel cards, and food, and deliver it to National Guard staging areas.
+In weather emergencies, such as severe winter storms or hurricanes, state guard troops may travel <a href="https://vdf.virginia.gov/2022/01/26/vdf-provides-logistics-support-during-vng-winter-storm-response/" target="blank">hundreds of miles</a> to load and transport equipment. This includes radio communications devices, chainsaws, state fuel cards, and food -- which are delivered to National Guard staging areas.
 
 Once activated, you have to be ready to show up within a narrow time frame with all of your gear. 
 
