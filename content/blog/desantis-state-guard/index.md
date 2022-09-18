@@ -146,6 +146,8 @@ If you're curious about joining a state guard I encourage you to attend a meetin
 
 And I hope this short recollection provides a bit of context for the curious onlooker concerned about the hysteria over the reconsitution of the Florida state guard.
 
+Americans are known for their generosity -- including in public service. Serving in the state guard is one of many ways you can contribute to your community.
+
 ### Related
 
 <a href="https://apps.dtic.mil/sti/pdfs/ADA494465.pdf" target="blank">State Defense Force Monogaph Series: Homeland Security</a>
