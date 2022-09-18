@@ -33,7 +33,7 @@ The state guard provides light support services to the National Guard so that it
 Unlike the National Guard, you can't be drafted into a war and you can quit, for any reason, at any time.
 
 <img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto/v1663432292/vdf-alpha-company-blackhorse-sherrie-gossett_wgpeql.png" />
-<figcaption><small>Above: Top two photos: Some of my Alpha Company colleagues (my captain is at left) during a training event at a National Guard facility. Bottom right: We're at the governor's inauguration</small> </figcaption>
+<figcaption><small>Above: Top two photos: Some of my Alpha Company colleagues (my captain is at left) during a training event we did at a National Guard facility. Bottom right: We're on active duty in Richmond.</small> </figcaption>
 
 ## What did you do? 
 
