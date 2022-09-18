@@ -134,8 +134,6 @@ I'm glad I joined the Virgina Defense Force and really enjoyed my time there. We
 
 If you're curious about joining a state guard I encourage you to attend a meeting of your local company. Simply go to your state guard's website and to get information on where and when they are meeting. Members of the public who are interested in joining can freely sit in.
 
-And I hope this short recollection provides a bit of context for the curious onlooker who wonders what to make of the reconsitution of the Florida state guard.
-
 Americans are known for their generosity -- including in public service. Serving in the state guard is one of many ways you can work with your neighbors to improve your community.<br/>
 
 ### Related
