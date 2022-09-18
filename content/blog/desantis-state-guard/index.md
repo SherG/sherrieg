@@ -6,7 +6,7 @@ draft: false
 toc: false
 ---
 
-Florida governor Ron DeSantis's move to <a href="[https://www.flgov.com/2022/06/15/governor-ron-desantis-unveils-the-florida-state-guard/](https://flsg.myflorida.com/)" target="blank">reestablish the Florida State Guard</a> became a national story leading to strong partisan reactions.
+Florida governor Ron DeSantis's move to <a href="[https://www.flgov.com/2022/06/15/governor-ron-desantis-unveils-the-florida-state-guard/](https://flsg.myflorida.com/)" target="blank">reestablish the Florida State Guard</a> became a national story leading to partisan reactions.
 
 CNN's headline read: "<a href="https://www.cnn.com/2021/12/02/politics/florida-state-guard-desantis/index.html" target="blank">DeSantis proposes a new civilian military force in Florida that he would control</a>."
 
@@ -151,7 +151,7 @@ If you're curious about joining a state guard I encourage you to attend a meetin
 
 And I hope this short recollection provides a bit of context for the curious onlooker concerned about the hysteria over the reconsitution of the Florida state guard.
 
-Americans are known for their generosity -- including in public service. Serving in the state guard is one of many ways you can contribute to your community.<br/>
+Americans are known for their generosity -- including in public service. Serving in the state guard is one of many ways you can work with your neighbors to improve your community.<br/>
 
 ### Related
 
