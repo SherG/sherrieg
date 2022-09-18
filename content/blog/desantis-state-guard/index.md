@@ -153,5 +153,7 @@ Americans are known for their generosity -- including in public service. Serving
 <a href="https://floridapolitics.com/archives/464246-a-ticking-time-bomb-lawmakers-plan-to-address-national-guard-troop-shortage/" target="blank">A ticking time bomb’: Florida Lawmakers plan to address National Guard troop shortage</a><br/>
 This article covers bipartisan concern among Florida lawmakers about insufficient numbers of National Guard troops available to assist in disasters.
 
+<a href="https://flgov.com/2022/09/09/memorandum-executive-order-22-213-activating-florida-national-guard-to-assist-the-department-of-corrections/" target="blank">9/22: Florida deploys National Guard to assist law enforcement due to "a severe shortage of correctional officers" </a>
+
 <a href="https://apps.dtic.mil/sti/pdfs/ADA494465.pdf" target="blank">State Defense Force Monogaph Series: Homeland Security</a></br>
 An interesting glimpse into the 2005 view that SDFs are an essential fallback force in the event the National Guard is deployed extensively overseas.
