@@ -99,7 +99,7 @@ As a volunteer, you have to purchase your own gear, including the right kind of 
 I learned that GI "polyprop" longjohns -- with the <a href="https://www.mcguirearmynavy.com/products/polypro-thermal-top-quarter-zip" target="blank">turtleneck tops</a> -- are the best for staying warm in sub-zero conditions! (I also learned to never put them in the dryer. They actually melt into hard plastic!)
 
 <img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto/v1663434886/vdf-training-3-sherrie-gossett_czzx9e.png" />
-<figcaption><small>VDF training. I'm at lower left in the first photo which was taken at the Leadership Reaction Course. </small></figcaption>
+<figcaption><small>VDF training. I'm at lower left in the first photo which was taken at the Leadership Reaction Course. At far right: an Alpha company colleague (nicknamed "Cottonball") who went on to serve full-time in the U.S. military. </small></figcaption>
 
 ## Was that a paid position? 
 
