@@ -74,6 +74,7 @@ The skillsets of state guards vary from state to state.
 
 For example: 
 
+* The California State Guard has a team that responds to wildfires and assists with evacuations.
 * The <a href="https://tmd.texas.gov/state-guard" target="blank">Texas State Guard</a> has recruited quite a number of doctors, nurses, and other medical professionals -- enough to staff a <a href="https://www.ngaus.org/magazine/state-guards" target="blank">medical brigade</a> and provide free clinics to the public. 
     * Those services include "primary medical care, dental care, and even free eye examinations and glasses." In one week alone they provided "42,000 services to over 9,000 people." 
    * The medical unit does of course also provide medical services during emergencies - e.g., on site at hurricane shelters and they were active in the state's COVID-19 response
