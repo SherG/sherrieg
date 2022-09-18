@@ -133,14 +133,6 @@ A few quibbles:
 
 I question whether military uniforms are necessary or ideal for the state guard. The <a href="https://apps.dtic.mil/sti/pdfs/ADA494465.pdf" target="blank">view of the military however</a> is that State Defense Forces (SDFs), operating "under the protocol of military guidance and customs . . . are less likely to walk away from assigned missions and are more likely to integrate well with the National Guard units that are given those missions." And it's true that the state guard is the "reserve" for the National Guard.
 
-<aside><details>
-   <summary>My thoughts on uniforms . . . </summary></br>
-   <p>In an emergency, uniforms make it easy for the public to see whose available to help.</p>
-<p>But why not make it simple: like same color shirt, windbreaker, maybe a baseball cap? (If windbreakers and caps are good enough for the FBI they should be good enough for the state guard.)</p>
-
-<p>You could do this <em>and</em> allow military veterans to continue wearing military uniforms in the state guard: making them easy to spot, when needed, in a group.</p>
-</details></aside><br/>
-
 
 ## In sum
 
