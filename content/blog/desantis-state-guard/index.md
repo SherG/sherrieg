@@ -144,4 +144,4 @@ This article covers bipartisan concern among Florida lawmakers about insufficien
 <a href="https://flgov.com/2022/09/09/memorandum-executive-order-22-213-activating-florida-national-guard-to-assist-the-department-of-corrections/" target="blank">9/22: Florida deploys National Guard to assist law enforcement due to "a severe shortage of correctional officers" </a>
 
 <a href="https://apps.dtic.mil/sti/pdfs/ADA494465.pdf" target="blank">State Defense Force Monogaph Series: Homeland Security</a></br>
-An interesting glimpse into the 2005 view that SDFs are an essential fallback force in the event the National Guard is deployed extensively overseas.
+A glimpse into the view that SDFs are an essential fallback force in the event the National Guard is deployed extensively overseas.
