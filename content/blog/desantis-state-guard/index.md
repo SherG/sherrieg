@@ -22,7 +22,7 @@ Since I previously served in Virgina's state guard (called the Virginia Defense 
 
 ## I joined the state guard
 
-I was invited to consider joining by a military veteran friend of mine. I had actually never heard of the state guard before that conversation.
+I was invited to consider joining by a retired Marine officer. I had actually never heard of the state guard before that conversation.
 
 After seeing the photos of VDF folks wading through chest-deep water and engaged in light search-and-rescue drills, joining seemed like a fun (and adventurous) way to get involved in the community. So to learn more I attended a local meeting of Fairfax County's Alpha Company, part of the Blackhorse Brigade.
 
