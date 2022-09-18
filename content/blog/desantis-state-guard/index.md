@@ -18,7 +18,7 @@ Reconstitution of a state guard would be a low-priority - even boring - news sto
 
 Following the news, current and former elected officials and candidates took to Twitter comparing the prosposed state guard with "<a href="https://twitter.com/charliecrist/status/1466452164654608391?lang=en" target="blank">hand-picked secret police</a>" that a "<a href="https://twitter.com/annette_taddeo/status/1466459197667741700" target="blank">wannabe dictator</a>" would turn into "<a href="https://twitter.com/annette_taddeo/status/1466459197667741700" target="blank">his own vigilante militia like we've seen in Cuba.</a>" 
 
-Since I previously served in Virgina's state guard (called the <a href="https://va.ng.mil/Va-Defense-Force/" target="blank">Virginia Defense Force</a>) I thought I'd share what it was like.
+Since I previously served in Virgina's state guard (called the <a href="https://va.ng.mil/" target="blank">Virginia Defense Force</a>) I thought I'd share what it was like.
 
 ## I joined the state guard
 
@@ -58,7 +58,7 @@ They may transport, unload, and set up cots, bedding, food and water. They may a
 
 The Virginia Defense Force (VDF) was trained to set up mobile communications units for in-state National Guard deployments. This frees up some of the National Guard's time.
 
-In weather emergencies, such as severe winter storms or hurricanes, state guard troops may travel <a href="https://vdf.virginia.gov/2022/01/26/vdf-provides-logistics-support-during-vng-winter-storm-response/" target="blank">hundreds of miles</a> to load and transport equipment. This includes radio communications devices, chainsaws, state fuel cards, and food -- which are delivered to National Guard staging areas.
+In advance of weather emergencies, such as severe winter storms, state guard troops may travel hundreds of miles to load and transport equipment. This includes radio communications devices, chainsaws, state fuel cards, and food -- which are delivered to National Guard staging areas.
 
 During the height of the COVID-19 pandemic, 
 
@@ -75,7 +75,7 @@ For example:
 * The <a href="https://tmd.texas.gov/state-guard" target="blank">Texas State Guard</a> has recruited quite a number of doctors, nurses, and other medical professionals -- enough to staff a <a href="https://www.ngaus.org/magazine/state-guards" target="blank">medical brigade</a> and provide free clinics to the public. 
     * Those services include "primary medical care, dental care, and even free eye examinations and glasses." In one week alone they provided "42,000 services to over 9,000 people." 
    * The medical unit does of course also provide medical services during emergencies - e.g., on site at hurricane shelters and they were active in the state's COVID-19 response
-* The VDF now has a cybersecurity unit.
+* The VDF has a cybersecurity unit that supports the National Guard's efforts in protecting the infrastructure of the Commonwealth.
 
 Particular skillset areas tend to grow in state guards as members invite colleagues to join. 
 
@@ -131,7 +131,7 @@ I'm glad I joined the Virgina Defense Force and really enjoyed my time there. We
 
 If you're curious about joining a state guard I encourage you to attend a meeting of your local company. Simply go to your state guard's website and to get information on where and when they are meeting. Members of the public who are interested in joining can freely sit in.
 
-And I hope this short recollection provides a bit of context for the curious onlooker concerned about the hysteria over the reconsitution of the Florida state guard.
+And I hope this short recollection provides a bit of context for the curious onlooker who wonders what to make of the reconsitution of the Florida state guard.
 
 Americans are known for their generosity -- including in public service. Serving in the state guard is one of many ways you can work with your neighbors to improve your community.<br/>
 
