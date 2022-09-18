@@ -117,9 +117,9 @@ Some pros:
 * Everyone had a can-do attitude, was welcoming, and wanted to make a difference in the community
 * I learned a lot, including from military veterans.
 
-You'll come away with a better understanding (and appreciation) of how local, state, regional, and federal entities work together in an emergency to protect citizens. And any member of the community can participate in this process.
+You'll come away with a better understanding (and appreciation) of how local, state, regional, and federal entities work together in an emergency to protect citizens -- and of course, you're participating in this process.
 
-A few quibbles:
+Some quibbles:
 
 * Military jargon and acronyms made understanding even basic documents difficult. 
 * We were supposed to receive military ID cards but somehow the "system" (not our local company) could not figure out how to get this done -- ever. I wondered what would be the impact of showing up, in uniform, without state guard ID cards at a joint staging area in an emergency?
