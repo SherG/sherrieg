@@ -28,9 +28,9 @@ After seeing the photos of VDF folks wading through chest-deep water and engaged
 
 The folks there were warm and welcoming and Alpha's captain was instantly likeable, a military vet, and natural leader. I decided to join, and took the pledge.  
 
-The state guard provides light support services to the National Guard so that it can focus on urgent priorities.
+The state guard provides support services to the National Guard so that it can focus on urgent priorities. And its mission is humanitarian.
 
-Unlike the National Guard, you can't be drafted into a war and you can quit, for any reason, at any time.
+Unlike the National Guard, you can't be drafted into a war and you can quit, for any reason, at any time. But you are asked to serve for a given time frame (such as 3 years), which varies depending on the state.
 
 <img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto/v1663432292/vdf-alpha-company-blackhorse-sherrie-gossett_wgpeql.png" />
 <figcaption><small>Above: Top two photos: Some of my Alpha Company colleagues (my captain is at left) during a training event we did at a National Guard facility. Bottom right: We're on active duty in Richmond.</small> </figcaption>
@@ -60,7 +60,12 @@ The Virginia Defense Force (VDF) was trained to set up mobile communications uni
 
 In weather emergencies, such as severe winter storms or hurricanes, state guard troops may travel <a href="https://vdf.virginia.gov/2022/01/26/vdf-provides-logistics-support-during-vng-winter-storm-response/" target="blank">hundreds of miles</a> to load and transport equipment. This includes radio communications devices, chainsaws, state fuel cards, and food -- which are delivered to National Guard staging areas.
 
+During the height of the COVID-19 pandemic, 
+
+<div style="padding-left: 2.5em;"><p>State Guard troops performed many of the same <a href="https://www.ngaus.org/magazine/state-guards" target="blank">pandemic missions</a> as National Guard soldiers and airmen. They distributed food, vaccines and protective equipment; administered tests; screened people entering medical facilities; decontaminated personnel and facilities; helped process unemployment claims; and staffed mortuary trailers at hospitals.</p></div>
+
 Once activated, you have to be ready to show up within a narrow time frame with all of your gear. 
+
 
 ### Capabilities vary between states
 
@@ -68,13 +73,13 @@ The skillsets of state guards vary from state to state.
 
 For example: 
 
-* The <a href="https://tmd.texas.gov/state-guard" target="blank">Texas State Guard</a> has recruited quite a number of doctors, nurses, and other medical professionals -- enough to staff a medical brigade and provide free clinics to the public. 
+* The <a href="https://tmd.texas.gov/state-guard" target="blank">Texas State Guard</a> has recruited quite a number of doctors, nurses, and other medical professionals -- enough to staff a <a href="https://www.ngaus.org/magazine/state-guards" target="blank">medical brigade</a> and provide free clinics to the public. 
     * Those services included "primary medical care, dental care, and even free eye examinations and glasses." In one week alone they provided "42,000 services to over 9,000 people." 
    * The medical unit does of course also provide medical clinics during emergencies - e.g., on site at hurricane shelters.
-* The VDF now has cybersecurity capabilities. 
-* Other state guards may have robust aviation capabilities. 
+* The VDF now has a cybersecurity unit.
 
-And so on.
+These skillset areas tend to grow in state guards: as medical or logistics personnel join, their invite their colleagues to come on board too.
+
 
 ### Supporting National Guard families
 
