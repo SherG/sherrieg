@@ -18,22 +18,24 @@ Reconstitution of a state guard would be a low-priority - even boring - news sto
 
 Following the news, current and former elected officials and candidates took to Twitter comparing the prosposed state guard with "<a href="https://twitter.com/charliecrist/status/1466452164654608391?lang=en" target="blank">hand-picked secret police</a>" that a "<a href="https://twitter.com/annette_taddeo/status/1466459197667741700" target="blank">wannabe dictator</a>" would turn into "<a href="https://twitter.com/annette_taddeo/status/1466459197667741700" target="blank">his own vigilante militia like we've seen in Cuba.</a>" 
 
-Since I previously served in Virgina's state guard (called the <a href="https://va.ng.mil/" target="blank">Virginia Defense Force</a>) I thought I'd share what it was like.
+Since I previously served in Virgina's state guard (called the Virginia Defense Force) I thought I'd share what it was like.
 
 ## I joined the state guard
 
-I was invited to consider joining by a retired Lt. Col. friend of mine. I had actually never heard of the state guard before that conversation.
+I was invited to consider joining by a military veteran friend of mine. I had actually never heard of the state guard before that conversation.
 
 After seeing the photos of VDF folks wading through chest-deep water and engaged in light search-and-rescue drills, joining seemed like a fun (and adventurous) way to get involved in the community. So to learn more I attended a local meeting of Fairfax County's Alpha Company, part of the Blackhorse Brigade.
 
 The folks there were warm and welcoming and Alpha's captain was instantly likeable, a military vet, and natural leader. I decided to join, and took the pledge.  
 
-The state guard provides support services to the National Guard so that it can focus on urgent priorities. And its mission is humanitarian.
-
-Unlike the National Guard, you can't be drafted into a war and you can quit, for any reason, at any time. But you are asked to serve for a given time frame (such as 3 years), which varies depending on the state.
-
 <img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto/v1663432292/vdf-alpha-company-blackhorse-sherrie-gossett_wgpeql.png" />
 <figcaption><small>Above: Top two photos: Some of my Alpha Company colleagues (my captain is at left) during a training event we did at a National Guard facility. Bottom right: We're on active duty in Richmond.</small> </figcaption>
+
+### What's the state guard mission?
+
+The state guard provides support services to the National Guard so that it can focus on urgent priorities. The VDF's mission is humanitarian: It's the all-volunteer reserve of the <a href="https://va.ng.mil/" target="blank">Virginia National Guard</a>, and is designed to supplement the VNG's in-state emergency and disaster response.
+
+Unlike the National Guard service, you can quit, for any reason, at any time. But you are asked to serve for a given time frame (such as 3 years), which varies depending on the state.
 
 ## What did you do? 
 
