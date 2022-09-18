@@ -66,7 +66,6 @@ During the height of the COVID-19 pandemic,
 
 Once activated, you have to be ready to show up within a narrow time frame with all of your gear. 
 
-
 ### Capabilities vary between states
 
 The skillsets of state guards vary from state to state. 
@@ -98,14 +97,6 @@ I learned that GI "polyprop" longjohns -- with the <a href="https://armysurplusw
 
 <img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto/v1663434886/vdf-training-3-sherrie-gossett_czzx9e.png" />
 <figcaption><small>VDF training. I'm at lower left in the first photo which was taken at the Leadership Reaction Course. </small></figcaption>
-
-## Were you ever deployed? 
-
-Yes, but only for minor events, such assisting with the governor's inauguration. (While I no longer live in Virginia, I see the guard was actively involved in the state's COVID-19 response.) 
-
-There are many volunteer organizations, especially in the Beltway area, including CERT and the Red Cross.
-* One the one hand, that makes it unlikely that a state guard unit would ever be in urgent demand there.
-* On the other hand, that is one reason to have such a volunteer force; it's better to have more volunteers than you need, than to come up short when they're needed most.
 
 ## Was that a paid position? 
 
