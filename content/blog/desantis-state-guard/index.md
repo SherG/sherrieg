@@ -78,8 +78,7 @@ For example:
    * The medical unit does of course also provide medical clinics during emergencies - e.g., on site at hurricane shelters.
 * The VDF now has a cybersecurity unit.
 
-These skillset areas tend to grow in state guards: as medical or logistics personnel join, their invite their colleagues to come on board too.
-
+Particular skillset areas tend to grow in state guards as members invite colleagues to join. 
 
 ### Supporting National Guard families
 
