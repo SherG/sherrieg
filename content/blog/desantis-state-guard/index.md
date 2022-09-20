@@ -51,7 +51,7 @@ Some volunteers trained in light search-and-rescue with aircraft and boats. (The
 
 A typical Alpha Company training weekend might be doing an all-nighter in sub-zero temps and high winds to learn how to guard an armory in shifts, and communicate effectively, with no one ever abandoning their post.
 
-<img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto/v1663646811/viriginia-defense-force-training-6_oaz5lw.png" />
+<img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto,e_sharpen/v1663647162/state-guard-training-2_fa5frw.png" />
 <figcaption><small>Lower left: Our captain speaks with an Alpha company colleague who went on to join the U.S. Air Force where she still serves. Lower right: The cheerful sergeant who led us in our Leadership Reaction Course.</small></figcaption>
 
 
