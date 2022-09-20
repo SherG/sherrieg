@@ -1,0 +1,12 @@
+---
+title: "Sketch - an excellent design tool"
+date: 2022-09-20T01:28:14-05:00
+publishdate: 2022-09-20
+draft: true
+toc: false
+
+---
+
+Today I stumbled across an iOS app design from a course I did after first getting into Sketch years ago. Reminds me of why I love this versatile app!
+
+<img src="https://res.cloudinary.com/icecloud7/image/upload/v1663647546/sherrieg/ios-app-sherrie-gossett_zbrhi3.png"/>
