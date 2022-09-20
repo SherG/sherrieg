@@ -1,5 +1,5 @@
 ---
-title: "The Swiss and the Nazis -- an intriguing account?"
+title: "How did the Swiss stand their ground against the Nazis?"
 date: 2022-09-20T01:28:14-05:00
 publishdate: 2022-09-20
 draft: false
