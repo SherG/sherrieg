@@ -15,7 +15,7 @@ The book tells the story of how the Swiss, surrounded by Axis powers (Germany, I
 
 This was a whole-of-society effort: blind persons used their heightened sense of hearing to detect aircraft before others could; boy scouts were given rifles and secret missions; women and children manned farmed and factories when able-bodied men were called up to service. 
 
-The idea that every able-bodied man in Switzerland is required to serve in the the military and keeps his service weapon at home is well-known today, as it was during World War II. But perhaps more to the point, long before the war, marksmanship competitions were a national pastime and part of mountain culture. The Germans were right to fear and dread a nation full of potential snipers. 
+The idea that every able-bodied man in Switzerland is required to serve in the the military <sup><a id="footnote-1-ref" href="#footnote-1">[1]</a></sup> and keeps his service weapon at home is well-known today, as it was during World War II. But perhaps more to the point, long before the war, marksmanship competitions were a national pastime and part of mountain culture. The Germans were right to fear and dread a nation full of potential snipers. 
 
 Even so Hitler ordered invasion plans to be drawn up against the protest of some of his officers.
 
@@ -46,3 +46,8 @@ Here's an excerpt from the book:
 <div style="padding-left: 2.5em;"><p>Because she energetically prepared for a Nazi invasion, Switzerland did not suffer the cruel fate of neutrals that were quickly overrun by the Wehrmacht. At the peak of its mobilization, the Swiss Confederation mustered an astonishing 850,000 men under arms--out of a population of only 4.2 million! That was the highest per-capita mobilization of any country in the world. By contrast, for example, Denmark had a population of 3.8 million, and in 1939 shrunk her tiny force from 36,000 to 14,000 troops. When Nazi Germany attacked in April 1940, the King of Denmark surrendered an hour later with virtually no resistance. Thereafter the workers and factories were saddled with Nazi war production. When orders came for the deportation of Jews in 1943, the Danes were able to rescue most, but not all, of Denmark's 8,000 Jews by putting them on boats to Sweden.</p></div>
 
 <div style="padding-left: 2.5em;"><p>There was never any need to rescue or hide Switzerland's Jews. The Swiss openly protected their Jewish compatriots, and armed them just as they did virtually every citizen--with both rifles and a determination to fight. Moreover, unlike the occupied European countries, Switzerland rescued many thousands of refugees fleeing from those countries--indeed, far more proportionately than any unoccupied country, including the United States.</p>
+
+<br/><br/><hr/>
+<p id="footnote-1">
+   1. My understanding is that today, Swiss men can opt--in certain circumstances--to serve in the civilian service instead of the military. <a href="#footnote-1-ref">↑</a> 
+</p>
