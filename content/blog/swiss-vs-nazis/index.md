@@ -29,7 +29,7 @@ There's also considerable detail in the book about the taking in of over 295,000
 
 Another thing that stands out is the original (and meticulous) research and information on espionage.
 
-A striking theme is the determination and unity of purpose that was fueled by a shared Swiss identity.
+The author makes the case that underlying the nation's success was a determination and unity of purpose fueled by a shared Swiss identity.
 
 Here's an excerpt from the book:
 
