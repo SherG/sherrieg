@@ -27,7 +27,9 @@ If you've ever read World War II oral histories, you know how illuminating first
 
 There's also considerable detail in the book about the taking in of over 295,000 refugees.
 
-One thing that stands out is the determination and unity of purpose that was fueled by a shared Swiss identity.
+Another thing that stands out is the original (and meticulous) research and information on espionage.
+
+A striking theme is the determination and unity of purpose that was fueled by a shared Swiss identity.
 
 Here's an excerpt from the book:
 
