@@ -9,4 +9,4 @@ toc: false
 
 Today I stumbled across an iOS app design from a course I did after first getting into Sketch years ago. Reminds me of why I've stuck with this app -- it's fast, versatile, and intuitive for new users.
 
-<img src="/blog/ios-app-sherrie-gossett.png"/>
+<img src="../ios-app-sherrie-gossett.png"/>
