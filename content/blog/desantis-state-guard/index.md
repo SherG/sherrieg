@@ -123,17 +123,15 @@ You'll come away with a better understanding (and appreciation) of how local, st
 A few quibbles:
 
 * Military jargon and acronyms made understanding even basic documents difficult. 
-* We were supposed to receive military ID cards but somehow the "system" (not our local company) could not figure out how to get this done -- ever. I wondered what would be the impact of showing up, in uniform, without state guard ID cards at a joint staging area in an emergency?
 * We got called on for traffic control; something I didn't particularly care for. (In crowded circumstances, members of the public are not always amenable to "stop" or "wait" directions.)
 
 ### Would you change anything?
 
 I question whether military uniforms are necessary or ideal for the state guard. The <a href="https://apps.dtic.mil/sti/pdfs/ADA494465.pdf" target="blank">view of the military however</a> is that State Defense Forces (SDFs), operating "under the protocol of military guidance and customs . . . are less likely to walk away from assigned missions and are more likely to integrate well with the National Guard units that are given those missions." And it's true that the state guard is the "reserve" for the National Guard.
 
-
 ## In sum
 
-I'm glad I joined the Virgina Defense Force and really enjoyed my time there. We had an interesting mix of people in our company from all types of backgrounds. Some worked for the State Department or Department of Defense. Others were logistics professionals or young adults looking for experience before joining the U.S. Army, Navy or Air Force. We had former military members as well as folks simply interested in helping out. And we had good foreign language capability in our company -- including native speakers and professional translators.
+I'm glad I joined the Virgina Defense Force and really enjoyed my time there. We had an interesting mix of people in our company from all types of backgrounds. Some worked at the State Department and Department of Defense. Others were logistics professionals or young adults looking for experience before joining the U.S. Army, Navy or Air Force. We had former military members as well as folks simply interested in helping out. And we had good foreign language capability in our company -- including native speakers and professional translators.
 
 If you're curious about joining a state guard I encourage you to attend a meeting of your local company. Simply go to your state guard's website and to get information on where and when they are meeting. Members of the public who are interested in joining can freely sit in.
 
