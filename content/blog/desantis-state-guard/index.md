@@ -116,7 +116,7 @@ Some pros:
 
 * I met very interesting people and enjoyed most of the activities. It was an adventure.
 * Everyone had a can-do attitude, was welcoming, and wanted to make a difference in the community
-* I learned a lot, including from military veterans.
+* I learned a lot including from military veterans.
 
 You'll come away with a better understanding (and appreciation) of how local, state, regional, and federal entities work together in an emergency to protect citizens -- and of course, you're participating in this process.
 
@@ -127,11 +127,13 @@ A few quibbles:
 
 ### Would you change anything?
 
-I question whether military uniforms are necessary or ideal for the state guard. The <a href="https://apps.dtic.mil/sti/pdfs/ADA494465.pdf" target="blank">view of the military however</a> is that State Defense Forces (SDFs), operating "under the protocol of military guidance and customs . . . are less likely to walk away from assigned missions and are more likely to integrate well with the National Guard units that are given those missions." And it's true that the state guard is the "reserve" for the National Guard.
+I wonder whether military uniforms are necessary or ideal for the state guard. The <a href="https://apps.dtic.mil/sti/pdfs/ADA494465.pdf" target="blank">view of the military however</a> is that State Defense Forces (SDFs), operating "under the protocol of military guidance and customs . . . are less likely to walk away from assigned missions and are more likely to integrate well with the National Guard units that are given those missions." And it's true that the state guard is the "reserve" for the National Guard.
 
 ## In sum
 
-I'm glad I joined the Virgina Defense Force and really enjoyed my time there. We had an interesting mix of people in our company from all types of backgrounds. Some worked at the State Department and Department of Defense. Others were logistics professionals or young adults looking for experience before joining the U.S. Army, Navy or Air Force. We had former military members as well as folks simply interested in helping out. And we had good foreign language capability in our company -- including native speakers and professional translators.
+I'm glad I joined the Virgina Defense Force and really enjoyed my time there. We had an interesting mix of people in our company from all types of backgrounds. 
+
+Some worked at the State Department and Department of Defense. Others were logistics professionals or young adults looking for experience before joining the U.S. Army, Navy or Air Force. We had former military members as well as folks simply interested in helping out. And we had good foreign language capability in our company -- including native speakers and professional translators.
 
 If you're curious about joining a state guard I encourage you to attend a meeting of your local company. Simply go to your state guard's website and to get information on where and when they are meeting. Members of the public who are interested in joining can freely sit in.
 
@@ -139,7 +141,7 @@ Americans are known for their generosity -- including in public service. Serving
 
 ### Related
 
-<a href="https://floridapolitics.com/archives/464246-a-ticking-time-bomb-lawmakers-plan-to-address-national-guard-troop-shortage/" target="blank">A ticking time bomb’: Florida Lawmakers plan to address National Guard troop shortage</a><br/>
+<a href="https://floridapolitics.com/archives/464246-a-ticking-time-bomb-lawmakers-plan-to-address-national-guard-troop-shortage/" target="blank">A 'ticking time bomb’: Florida Lawmakers plan to address National Guard troop shortage</a><br/>
 This article covers bipartisan concern among Florida lawmakers about insufficient numbers of National Guard troops available to assist in disasters.
 
 <a href="https://flgov.com/2022/09/09/memorandum-executive-order-22-213-activating-florida-national-guard-to-assist-the-department-of-corrections/" target="blank">9/22: Florida deploys National Guard to assist law enforcement due to "a severe shortage of correctional officers" </a>
