@@ -17,7 +17,7 @@ This was a whole-of-society effort: blind persons used their heightened sense of
 
 The idea that every able-bodied man in Switzerland is required to serve in the the military <sup><a id="footnote-1-ref" href="#footnote-1">[1]</a></sup> and keeps his service weapon at home is well-known today, as it was during World War II. But perhaps more to the point, long before the war, marksmanship competitions were a national pastime and part of mountain culture. The Germans were right to fear and dread a nation full of potential snipers. 
 
-Even so Hitler ordered invasion plans to be drawn up against the protest of some of his officers.
+Even so, Hitler ordered invasion plans to be drawn up against the protests of some of his senior officers.
 
 One of the things that makes this book unique are the oral histories: we learn the thoughts, attitudes, and daily struggles as Swiss speak candidly about what they experienced. Even small anecdotes contribute to the picture: such as the rhymes and songs mocking Hitler. 
 
