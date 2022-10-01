@@ -25,7 +25,8 @@ Unfortunately, it seemed circa 2018 that all the "doors were barred" for helping
 
 For example: 
 
-* There were serious hurdles to sending US dollars directly to Venezuelans
+* There were serious hurdles to sending US dollars directly to Venezuelans.
+* Popular money transfer apps often require a US bank account.
 * Shipping food items of any type (even canned and dehydrated), and over-the-counter medicines, is also <a href="https://crossborder.fedex.com/us/assets/prohibited-restricted/venezuela/index.shtml" target="blank">prohibited</a>. 
 * The prohibitions seemed to include clothing, toiletries and other basic necessities of life. 
   
