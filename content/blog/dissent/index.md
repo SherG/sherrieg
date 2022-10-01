@@ -1,5 +1,5 @@
 ---
-title: "Solutions arise from dissent"
+title: "Solutions can arise from dissent"
 date: 2022-07-10T21:28:14-05:00
 publishdate: 2022-07-10
 draft: false
