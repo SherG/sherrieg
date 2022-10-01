@@ -15,7 +15,7 @@ I discovered the video years ago and have watched it multiple times. I was remin
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/el3OlIaUrsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-This video, combined with other reports, such as the <em>New York Times</a>' coverage of women, devoid of options, being effectively forced into prostutition across the border in Columbia, motivated me years ago to come up with a solution whereby Americans could easily -- in a frictionless way -- help Venezuelans. 
+<br/>This video, combined with other reports, such as the <em>New York Times</e,>' coverage of women, devoid of options, being effectively forced into prostutition across the border in Columbia, motivated me years ago to come up with a solution whereby Americans could easily -- in a frictionless way -- help Venezuelans. 
 
 I knew how generous Americans are. Most -- even at the poverty level -- could easily donate $20 (or more) a month, making a huge difference in lives there. I also considered a simple Craigslist-style matching website where a database of addresses could be used for Americans to pick from and "adopt" a family, to send a basic package from Amazon to each month. For example, staples like cooking oil, beans and rice, and even nutritional supplements and over-the-counter basics like Tylenol. 
 
