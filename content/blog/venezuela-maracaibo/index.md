@@ -9,7 +9,7 @@ draft: false
 
 I highly recommend this France 24 report on the Venezuela crisis. It provides a devastating glimpse into the staggering hardship faced by Venezuelans. 
 
-The 15-minute report focuses on daily life around Lake Maracaibo, the largest lake in Latin America and, traditionally, the source of income (via fishing) for many. 
+The 15-minute reportfocuses on daily life around Lake Maracaibo, the largest lake in Latin America and, traditionally, the source of income (via fishing) for many. 
 
 I discovered the video years ago and have watched it multiple times. I was reminded of it recently when it resurfaced in my YouTube feed. 
 
@@ -30,7 +30,7 @@ For example:
 * Shipping food items of any type (even canned and dehydrated), and over-the-counter medicines, is also <a href="https://crossborder.fedex.com/us/assets/prohibited-restricted/venezuela/index.shtml" target="blank">prohibited</a>. 
 * The prohibitions seemed to include clothing, toiletries and other basic necessities of life. 
   
-As a result I shelved my idea - and accepted that while I would've enjoyed immensely creating even a small and expedited solution to the problem, there didn't seem to be a way forward. It was better (and necessary) to instead donate through any existing organizations.
+As a result I shelved my idea - and accepted that while I would've enjoyed immensely creating even a small and expedited solution to the problem, there didn't seem to be a way forward. It was better (and necessary) to instead donate through an existing organization.
 
 It's unfortunate that in such a technologically sophisticated world, with the majority of people being compassionate, empathetic, and eager to help, that so many barriers are erected to prevent many safe and efficient forms of direct peer-to-peer humanitarian relief.
 
