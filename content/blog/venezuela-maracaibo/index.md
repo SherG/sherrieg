@@ -34,5 +34,8 @@ As a result I shelved my idea - and accepted that while I would've enjoyed immen
 
 It's unfortunate that in such a technologically sophisticated world, with the majority of people being compassionate, empathetic, and eager to help, that so many barriers are erected to prevent many safe and efficient forms of direct peer-to-peer humanitarian relief.
 
-And yet we can continue to work to lift those barriers.
+And yet we can continue to work to lift those barriers.<br/>
 
+### Related 
+
+<a href="https://www.signalfox.org/covid-19-favelas" target="blank">Food for the Favelas - COVID-19 Spurs Social Entrepreneurship in Brazil</a>
