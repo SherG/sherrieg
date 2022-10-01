@@ -21,11 +21,11 @@ I knew how generous Americans are. Most -- even at the poverty level -- could ea
 
 It could start small and local (here in the US), be improved through trial-and-error, and grow from there. The idea was to have no salaries involved (100% volunteer effort) and so therefore, no administrative overhead or donors to an organization. 100% of funds would go direct between two parties: a donating American and the receiving Venezuelan.
 
-Unfortunately, it seemed all the "doors were barred" for helping out in this way. 
+Unfortunately, it seemed circa 2018 that all the "doors were barred" for helping out in this way. 
 
 For example: 
 
-* There are serious hurdles to sending US dollars directly to Venezuelans
+* There were serious hurdles to sending US dollars directly to Venezuelans
 * Shipping food items of any type (even canned and dehydrated), and over-the-counter medicines, is also <a href="https://crossborder.fedex.com/us/assets/prohibited-restricted/venezuela/index.shtml" target="blank">prohibited</a>. 
 * The prohibitions seemed to include clothing, toiletries and other basic necessities of life. 
   
