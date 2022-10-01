@@ -29,6 +29,7 @@ For example:
   
 As a result I had to shelve my idea - and accept that while I would've enjoyed immensely creating even a small and expedited solution to the problem, there didn't seem to be a way forward. It was better (and necessary) to give on on the thing I enjoyed working on and to instead donate through any existing organizations.
 
-It's unfortunate that in such a technologically sophisticated world, with the majority of people being compassionate, empathetic, and eager to help, that so many barriers are erected to prevent many safe and efficient forms of direct peer-to-peer humanitarian relief. 
+It's unfortunate that in such a technologically sophisticated world, with the majority of people being compassionate, empathetic, and eager to help, that so many barriers are erected to prevent many safe and efficient forms of direct peer-to-peer humanitarian relief that would otherwise occur.
 
+And yet we can continue to work to lift the barriers that prevent simple and obvious solutions from being deployed.
 
