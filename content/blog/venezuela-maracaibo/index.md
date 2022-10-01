@@ -27,7 +27,7 @@ For example:
 
 * There are serious hurdles to sending US dollars directly to Venezuelans
 * Shipping food items of any type (even canned and dehydrated), and over-the-counter medicines, is also <a href="https://crossborder.fedex.com/us/assets/prohibited-restricted/venezuela/index.shtml" target="blank">prohibited</a>. 
-* The prohibiions seemed to include clothing, toiletries and other basic necessities of life. 
+* The prohibitions seemed to include clothing, toiletries and other basic necessities of life. 
   
 As a result I had to shelve my idea - and accept that while I would've enjoyed immensely creating even a small and expedited solution to the problem, there didn't seem to be a way forward. It was better (and necessary) to give on on the thing I enjoyed working on and to instead donate through any existing organizations.
 
