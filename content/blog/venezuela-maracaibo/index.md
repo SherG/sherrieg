@@ -9,7 +9,7 @@ draft: false
 
 I highly recommend this France 24 report on the Venezuela crisis. It provides a devastating glimpse into the staggering hardship faced by Venezuelans. 
 
-The 15-minute reportfocuses on daily life around Lake Maracaibo, the largest lake in Latin America and, traditionally, the source of income (via fishing) for many. 
+The 15-minute report focuses on daily life around Lake Maracaibo, the largest lake in Latin America and, traditionally, the source of income (via fishing) for many. 
 
 I discovered the video years ago and have watched it multiple times. I was reminded of it recently when it resurfaced in my YouTube feed. 
 
