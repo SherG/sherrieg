@@ -30,7 +30,7 @@ For example:
 * Shipping food items of any type (even canned and dehydrated), and over-the-counter medicines, is also <a href="https://crossborder.fedex.com/us/assets/prohibited-restricted/venezuela/index.shtml" target="blank">prohibited</a>. 
 * The prohibitions seemed to include clothing, toiletries and other basic necessities of life. 
   
-As a result I had to shelve my idea - and accept that while I would've enjoyed immensely creating even a small and expedited solution to the problem, there didn't seem to be a way forward. It was better (and necessary) to give on on the thing I enjoyed working on and to instead donate through any existing organizations.
+As a result I shelved my idea - and accepted that while I would've enjoyed immensely creating even a small and expedited solution to the problem, there didn't seem to be a way forward. It was better (and necessary) to instead donate through any existing organizations.
 
 It's unfortunate that in such a technologically sophisticated world, with the majority of people being compassionate, empathetic, and eager to help, that so many barriers are erected to prevent many safe and efficient forms of direct peer-to-peer humanitarian relief.
 
