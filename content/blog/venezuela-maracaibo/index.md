@@ -25,7 +25,7 @@ Unfortunately, it seemed all the "doors were barred" for helping out in this way
 
 For example: 
 
-* It's against the law to send US dollars to Venezuela
+* There are serious hurdles to sending US dollars directly to Venezuelans
 * Shipping food items of any type (even canned and dehydrated), and over-the-counter medicines, is also <a href="https://crossborder.fedex.com/us/assets/prohibited-restricted/venezuela/index.shtml" target="blank">prohibited</a>. 
 * The prohibiions seemed to include clothing, toiletries and other basic necessities of life. 
   
