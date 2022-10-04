@@ -1,6 +1,7 @@
 
+
 ---
-title: "Excerpt: Commodity Crops & the Merchants Who Trade Them"
+title: "Excerpt: Commodity Crops & the Merchants Who Trade The"
 date: 2022-10-04T21:28:14-05:00
 publishdate: 2022-10-04
 draft: false
