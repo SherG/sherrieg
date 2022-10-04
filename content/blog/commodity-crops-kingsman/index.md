@@ -5,6 +5,7 @@ date: 2022-10-04T21:28:14-05:00
 publishdate: 2022-10-04
 draft: false
 toc: false
+
 ---
 
 As a novelist once quipped, if you want to understand how the world works, study it when it's falling apart. Learning about commodities -- and supply chains -- has been part of my reading diet since the pandemic began. 
@@ -37,11 +38,7 @@ Here's an excerpt of an interview in the book between the author, Jonathan Kings
 
 <div style="padding-left: 2.5em;"><p>Look at the amount of rapeseed grown for biodiesel in Europe and corn for ethanol in the U.S. It's hard to get out of it once you are in it. Farm votes are essential and once you have started, it becomes difficult for you to wean yourself off biofuels even as better technologies become available. But governments can nudge the sector to produce biofuels more sustainably and encourage more sustainable technology.</p></div>
 
-Unfortunately, geopolitical and energy supply disruptions seem bound to keep producing negative impacts for an extended period. We had spiking wheat futures prices, which nudged developing countries out of the market in some cases. Natural gas prices, LNG carrier prices, and electricty forward contracts reached nosebleed levels in Europe. 
 
-Since energy is the "master resource," spiking prices in Europe are creating a domino-like shutdowns of manufacturing and small businesses. 
-
-So it seems there will continue to be significant interest in understanding more about commodity markets.
 
 
 
