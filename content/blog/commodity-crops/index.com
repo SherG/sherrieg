@@ -4,7 +4,6 @@ date: 2022-10-04T01:28:14-05:00
 publishdate: 2022-10-04
 draft: false
 toc: false
-
 ---
 
 As a novelist once quipped, if you want to understand how the world works, study it when it's falling apart. Learning about commodities -- and supply chains -- has been part of my reading diet since the pandemic began. 
