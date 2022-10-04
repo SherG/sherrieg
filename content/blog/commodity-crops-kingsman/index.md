@@ -20,7 +20,7 @@ Whether you're a seasoned trader or a layman, you'll find the "what's next" insi
 
 I look forward to reading the rest of the author's books.
 
-Here's an excerpt of an interview in the book between the author, Jonathan Kingsman, and Danish trader <a href="https://www.linkedin.com/in/soren-schroder-397475176" target="blank">Søren Schrøder</a>:
+Here's an excerpt of an interview in the book between the author and Danish trader <a href="https://www.linkedin.com/in/soren-schroder-397475176" target="blank">Søren Schrøder</a>:
 
 <div style="padding-left: 2.5em;"><p><strong>What role do you see biofuels playing in this? Some argue that electric vehicles may be the solution in wealthy countries in Europe and in the U.S., but biofuels are the only way to decarbonise transport in developing countries. What is your take on that?</strong></p></div>
 
