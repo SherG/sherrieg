@@ -30,7 +30,7 @@ And then I'll run down a checklist for winter items to keep in the back of the c
 
 ## Fall colors + thankfulness
 
-The fall colors have been spectacular in New Hampshire: fiery reds, bright oranges. Breezy days have yellow leaves falling like snowflakes.
+The fall colors have been spectacular in New Hampshire: fiery reds, bright oranges. We've had breezy days; yellow leaves are swirling down in slow motion. 
 
 Next up, for pure fun: buying a pumpkin and turning it into a jack o'lantern. And maybe trying out a new squash soup recipe.
 
