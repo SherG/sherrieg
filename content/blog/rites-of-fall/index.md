@@ -18,7 +18,7 @@ Besides laying in firewood, another marker is getting your snow tires on. Mine w
 * My first pair of snows were studded Winterforce 1s (no longer made). These were amazing tires. I could zip up and down snowy mountains with no problem. 
 * Then I tried out studded Nokian Hakkapeliitta 8s. Biggest difference was the Nokians are much quieter on asphalt due to the way their studs are designed and cushioned. 
 
-My local shop told me there were shortages of Nokian tires in my size due to supply chain issues. So after doing some research online, I decided to switch back to Firestone.
+My local shop told me there were shortages of Nokian tires in my size due to supply chain issues. So after doing some research online, I decided to switch back to Firestone. (The Firestones are also cheaper, so there's that.)
 
 I ordered the new Firestones from tires-easy.com (via Amazon), got free shipping and the best deal. (I had previously ordered the Nokians direct from tires-easy.com and can say they have amazing service).
 
@@ -36,8 +36,10 @@ Next up, for pure fun: buying a pumpkin and turning it into a jack o'lantern. An
 
 With the Thanksgiving holiday coming up, I have so many things to be grateful for. This will really be a special Thanksgiving.
 
-Like you, I'm also thinking of those less fortunate. Significant spikes in heating bills will be hitting the elderly hard, for example. Here in New Hampshire we have a program called "Neighbor Helping Neighbor" where you can contribute to others' energy bills. (You can even do this when paying your electric bill.) 
+Like you, I'm also thinking of those less fortunate. Getting ready for winter can be expensive. Firewood is now $460/cord. Other forms of heat have gone up significantly as well. Snow tires with installation and studs are over $500.
 
-Temperatures can get as low as -19F (-28C) in winter here, so coats and winter clothing are in demand too. There are coat drives currently set up at some grocery stores. There are some individuals who endure homelessness in the state during winter. They manage somehow to live in their freezing vehicles.
+* Significant spikes in heating bills will be hitting the elderly hard, for example. Here in New Hampshire we have a program called "Neighbor Helping Neighbor" where you can contribute to others' energy bills. (You can even do this when paying your electric bill.) 
+* Temperatures can get as low as -19F (-28C) in winter here, so donations of coats and winter clothing are in demand too. There are coat drives currently set up at some grocery stores. 
+* There are some individuals who endure homelessness in the state during winter. They manage somehow to live in their freezing vehicles.
 
 I hope you're enjoying the seasonal changes in your neck of the woods, that you are secure and thriving, and that your community is able to meet the winter needs of all its members.
