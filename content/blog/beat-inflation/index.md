@@ -85,8 +85,10 @@ Tier 2 is likely where most people will spend their money. Here are some example
 
 <br/>It's kind of a fun exercise. Once you list your "must-have" non-perishables, you can sort the items by priority.
 
-Buying ahead can be as simple as: you need trash bags, found a great sale price, and buy 2-3 instead of 1.
+Buying ahead can be as simple as: you need trash bags, found a great sale price, and buy 2-3 boxes instead of 1.
 
 Also: think about getting some silica gel tins to keep tools and other stored items free of moisture.
 
-I hope this is helpful!
+I hope this is a bit helpful! True - the title should've been "How to <em>mitigate</em> inflation" because unless you have an <a href="https://www.bloomberg.com/news/articles/2020-04-08/taleb-advised-universa-tail-risk-fund-returned-3-600-in-march" target="blank">account at Universa</a>, you're not going to actually "beat" inflation.
+
+But sometimes small actions can make a big difference.
