@@ -11,6 +11,8 @@ Late yesterday, my firewood was delivered. Good weather means I can split my fir
 
 This is the season where we 'Yanks' get ready for winter. And I really enjoy these seasonal markers.
 
+## Winter preps
+
 Besides laying in firewood, another marker is getting your snow tires on. Mine were due for replacement, so I ordered new ones -- Firestone's studabble Winterforce 2s -- which have already been delivered. They'll be installed on Halloween. 
 
 * My first pair of snows were studded Winterforce 1s (no longer made). These were amazing tires. I could zip up and down snowy mountains with no problem. 
@@ -25,6 +27,8 @@ My other 'rite' for winter is doing some basic checks on my vehicle, like radiat
 I've already laid in a few bottles of "dry gas" (Heet). Next: picking up sub-zero (-20) rated windshield wiper fluid.
 
 And then I'll run down a checklist for winter items to keep in the back of the car, for emergencies. 
+
+## Fall colors + thankfulness
 
 The fall colors have been spectacular in New Hampshire: fiery reds, bright oranges. Breezy days have yellow leaves falling like snowflakes.
 
