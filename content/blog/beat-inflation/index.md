@@ -21,7 +21,7 @@ Here are a few examples:
 Once you put your mind to it, you'll think of all sorts of things. You could categorize these by use (e.g., automotive) and/or by cost.<br/>
 
 <img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto/v1655573296/sherrieg/hella-9003-bulb_leurct.png" /><br/>
- <figcaption><em>Above: On Amazon, these German-made headlamp bulbs are 1/6th the price of the cheapest bulbs available at my local American auto store. Amazon also sells my favorite windshield wipers for 50% off (!) the local auto store price.</em></figcaption><br/>
+ <figcaption><em>Above: On Amazon, these German-made headlamp bulbs are 1/6th the price of the cheapest bulbs available at my local American auto store. I also bought my favorite windshield wipers on Amazon for 50% less (!) than the local auto store price.</em></figcaption><br/>
 
 ### Sorting + prioritizing 
 
