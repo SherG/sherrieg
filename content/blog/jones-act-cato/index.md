@@ -7,7 +7,7 @@ draft: false
 toc: false
 ---
 
-<em>Reason</em> magazine has an <a href="https://reason.com/2022/10/26/to-protect-privileged-shippers-from-competition-the-government-fought-jones-act-waivers/" target=blank">interesting article</a> out on government actions to prevent Jones Act waivers. The article cites the Cato Institute which obtained <a href="https://www.cato.org/blog/foia-files-marads-efforts-stop-jones-act-waiver-lng" target="blank">internal government emails</a> that highlight the role cronyism plays in driving up natural gas prices.
+<em>Reason</em> magazine has an <a href="https://reason.com/2022/10/26/to-protect-privileged-shippers-from-competition-the-government-fought-jones-act-waivers/" target="blank">interesting article</a> out on government actions to prevent Jones Act waivers. The article cites the Cato Institute which obtained <a href="https://www.cato.org/blog/foia-files-marads-efforts-stop-jones-act-waiver-lng" target="blank">internal government emails</a> that highlight the role cronyism plays in driving up natural gas prices.
   
 As I mentioned in <a href="https://sherrieg.com/electricity-inflation-new-england/" target="blank">this blog post</a> about the local New Hampshire electricity hike of 112%:
 
