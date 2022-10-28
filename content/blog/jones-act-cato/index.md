@@ -19,5 +19,3 @@ This <a href="https://doomberg.substack.com/p/new-england-is-an-energy-crisis-wa
 
 <div style="padding-left: 2.5em;"><p>That means<strong> New England is in the same bidding pool as Europe and Asia</strong>. Amazingly . . . Instead of simply building pipelines to its land neighbors, New England pays for boats to sail more than 2,000 miles – burning fossil fuels and polluting the oceans as they do so – and pays a substantially higher price for the privilege. Bonkers!</p></div> 
   
-  
-  
