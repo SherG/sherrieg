@@ -18,4 +18,8 @@ This <a href="https://doomberg.substack.com/p/new-england-is-an-energy-crisis-wa
 <div style="padding-left: 2.5em;"><p>A key stipulation of the law is that foreign-owned ships cannot transport goods between two US ports – only ships built, owned, and crewed by Americans are permitted to do so. While the US has become the largest producer of natural gas and an ever-larger exporter of LNG, the country does not produce LNG carriers. Since <strong>there are no US LNG carriers</strong>, <em>New England cannot benefit from the build-out of LNG export facilities along the Gulf of Mexico, despite having significant LNG import facilities like the one in Everett, Massachusetts</em>.</p></div> 
 
 <div style="padding-left: 2.5em;"><p>That means<strong> New England is in the same bidding pool as Europe and Asia</strong>. Amazingly . . . Instead of simply building pipelines to its land neighbors, New England pays for boats to sail more than 2,000 miles – burning fossil fuels and polluting the oceans as they do so – and pays a substantially higher price for the privilege. Bonkers!</p></div> 
+<br/>
+### Related
+
+<a href="https://www.cato.org/blog/new-england-governors-seek-jones-act-relief-spike-winter-heating-bills-looms" target="blank">New England Governors Seek Jones Act Relief as Spike in Winter Heating Bills Looms</a>
   
