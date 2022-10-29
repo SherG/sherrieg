@@ -9,11 +9,11 @@ toc: false
 
 Late yesterday, my firewood was delivered. Good weather means I can split my firewood stacking up over a few days. 
 
-This is the season where we 'Yanks' get ready for winter. And I really enjoy these seasonal markers.
+This is the season where we 'Yanks' get ready for winter. I really enjoy these chores because they signal the advent of winter -- of my favorite times of the year.
 
 ## Winter preps
 
-Besides laying in firewood, another marker is getting your snow tires on. Mine were due for replacement, so I ordered new ones -- Firestone's studabble Winterforce 2s -- which have already been delivered. They'll be installed on Halloween. 
+Besides laying in firewood, another seasonal marker is getting your snow tires on. Mine were due for replacement, so I ordered new ones -- Firestone's studabble Winterforce 2s -- which have already been delivered. They'll be installed on Halloween. 
 
 * My first pair of snows were studded Winterforce 1s (no longer made). These were amazing tires. I could zip up and down snowy mountains with no problem. 
 * Then I tried out studded Nokian Hakkapeliitta 8s. Biggest difference was the Nokians are much quieter on asphalt due to the way their studs are designed and cushioned. 
@@ -36,9 +36,9 @@ Next up, for pure fun: buying a pumpkin and turning it into a jack o'lantern. An
 
 With the Thanksgiving holiday coming up, I have so many things to be grateful for. This will really be a special Thanksgiving.
 
-Like you, I'm also thinking of those less fortunate. Getting ready for winter can be expensive. Firewood is now $460/cord. Other forms of heat have gone up significantly as well. Snow tires with installation and studs are over $500.
+Like you, I'm also thinking of those less fortunate. Getting ready for winter can be expensive. Firewood is now $460/cord. Other forms of heat have gone up significantly as well. Snow tires with installation and studs are over $500 - $600.
 
-* Significant spikes in heating bills will be hitting the elderly hard, for example. Here in New Hampshire we have a program called "Neighbor Helping Neighbor" where you can contribute to others' energy bills. (You can even do this when paying your electric bill.) 
+* Significant spikes in heating bills will be hitting the elderly hard, for example. Here in New Hampshire we have a program called "<a href="https://www.nhnfund.org/" target="blank">Neighbor Helping Neighbor</a>" where you can contribute to others' energy bills. (You can even do this <a href="https://www.eversource.com/content/nh/residential/account-billing/payment-assistance/neighbor-helping-neighbor" target="blank">when paying your electric bill</a>.) 
 * Temperatures can get as low as -19F (-28C) in winter here, so donations of coats and winter clothing are in demand too. There are coat drives currently set up at some grocery stores. 
 * There are some individuals who endure homelessness in the state during winter. They manage somehow to live in their freezing vehicles.
 
