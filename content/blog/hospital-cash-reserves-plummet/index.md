@@ -1,5 +1,5 @@
 ---
-title: "Cash Reserves Plummet Across US Healthcare System"
+title: "Cash reserves plummet across US healthcare system"
 date: 2022-11-16T07:28:14-05:00
 publishdate: 2022-11-16
 draft: false
