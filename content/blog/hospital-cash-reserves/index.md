@@ -19,6 +19,8 @@ In an open letter to Gavin Newsom, Gary Herbst, CEO of Kaweah Health, said "The 
 
 "Herbst pointed to the repeated closure of elective surgeries and procedures by the state as one of the factors leading to the financial crisis, as well as rising inflation and increasing reliance on travel nurses." (<a href="https://sjvsun.com/news/visalia/layoffs-imminent-at-visalias-kaweah-health-heres-what-we-know/" target="blank">Source</a>.)
 
+And apparently, <a href="https://www.dakotanewsnow.com/2022/10/21/consultant-explains-recent-hospital-layoffs-what-could-be-south-dakotas-healthcare-future/" target="blank">1/3 of hospitals are losing money</a>.
+
 It's ironic that the lockdowns, instituted -- in part -- to prevent the U.S. healthcare infrastructure from collapsing, may wind up causing the ruin of significant parts of it.
 
 It's also ironic that more bailouts, depending on the circumstances, may spark more inflation, leading to more requests for bailouts . . . 
