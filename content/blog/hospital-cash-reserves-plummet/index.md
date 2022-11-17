@@ -21,6 +21,8 @@ In an open letter to Gavin Newsom, Gary Herbst, CEO of Kaweah Health, said "The 
 
 And apparently, <a href="https://www.dakotanewsnow.com/2022/10/21/consultant-explains-recent-hospital-layoffs-what-could-be-south-dakotas-healthcare-future/" target="blank">1/3 of hospitals are losing money</a>.
 
-It's ironic that the lockdowns, instituted -- in part -- to prevent the U.S. healthcare infrastructure from collapsing, may wind up causing the ruin of significant parts of it.
+It's ironic that the lockdowns, instituted -- in part -- to prevent the U.S. healthcare infrastructure from collapsing, may wind up contributing to the ruin of significant parts of it.
 
-It's also ironic that more bailouts, depending on the circumstances, may spark more inflation, leading to more requests for bailouts . . . 
+It's also ironic that lack of nurses leads to having to hire pricey travel nurses, which contributes to the need to layoff staff. 
+
+Another irony: more bailouts, depending on the circumstances, may spark more inflation, leading to more requests for bailouts . . . 
