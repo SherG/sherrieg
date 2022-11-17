@@ -1,6 +1,6 @@
 ---
 title: "Economic Fissures Widen in U.S. Healthcare System"
-date: 2022-11-16T21:28:14-05:00
+date: 2022-11-16T20:28:14-05:00
 publishdate: 2022-11-16
 draft: false
 toc: false
