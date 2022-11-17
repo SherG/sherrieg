@@ -25,4 +25,4 @@ It's ironic that the lockdowns, instituted -- in part -- to prevent the U.S. hea
 
 It's also ironic that lack of nurses leads to having to hire pricey travel nurses, which contributes to the need to layoff staff. 
 
-Another irony: more bailouts, depending on the circumstances, may spark more inflation, leading to more requests for bailouts . . . 
+And, more bailouts, depending on the circumstances, may spark more inflation, leading to more requests for bailouts . . . 
