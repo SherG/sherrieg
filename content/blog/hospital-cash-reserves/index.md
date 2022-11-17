@@ -1,5 +1,5 @@
 ---
-title: "Economic Fissures Widen in US Healthcare System"
+title: "Cash Reserves Plummet - US Healthcare System"
 date: 2022-11-16T19:28:14-05:00
 publishdate: 2022-11-16
 draft: false
