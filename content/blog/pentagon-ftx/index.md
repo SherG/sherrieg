@@ -12,4 +12,8 @@ Against the background of the swampadelic FTX meltdown, the Pentagon fails to pa
 
 Like SBF, the Pentagon assures us that it's just one of those things, you know, a <a href="https://www.defensenews.com/pentagon/2022/11/16/dod-fails-audit-cites-ukraine-as-teachable-moment-in-accountability/" target="blank">"teachable moment"</a>.  
 
-Maybe SBF should've offered to brand the Pentagon. Like placing a giant "FTX" neon sign on its roof in return for billions in dark money.
+Maybe SBF should've offered to brand the Pentagon. Like placing a giant pink "FTX" neon sign on its roof in return for billions in dark money.
+  
+They seem meant for each other. Time for a re-branding? 
+
+<img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto/v1668745082/pentagon-ftx_zzcrjd.png">
