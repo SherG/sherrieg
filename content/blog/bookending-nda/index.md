@@ -14,11 +14,7 @@ When completing a service agreement bound by an NDA, I think you're well-served 
 
 By "bookend" agreement I mean a contract, signed by the new employer, that binds them to not inquire about proprietary methods, proprietary software, special processes, etc., regarding your previous employers or clients. 
 
-I think this is a great idea because while the NDA-linked firm is already protected, as a contracted person, you typically have concerns of your own. 
-
-Namely, you don't want to be probed for secrets and you may want clarity on the nature of the hiring agreement and new relationship.
-
-In fact, I think it's a good idea even if you aren't bound by an NDA.
+I think this is a great idea because you don't want to be probed for secrets. In fact, I think it's a good idea even if you aren't bound by an NDA.
 
 * If you're a person of integrity then you won't want to work for an employer or client that would try to pry secrets out of you. 
 * And an employer of integrity won't want to hire a betrayer. 
