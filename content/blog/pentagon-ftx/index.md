@@ -14,6 +14,6 @@ Like SBF, the Pentagon assures us that it's just one of those things, you know, 
 
 Maybe SBF should've offered to brand the Pentagon. Like placing a giant pink "FTX" neon sign on its roof in return for billions in dark money.
   
-They seem meant for each other. Time for a re-branding? 
+Time for a re-branding? 
 
 <img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto/v1668745082/pentagon-ftx_zzcrjd.png">
