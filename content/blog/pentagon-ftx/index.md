@@ -12,6 +12,6 @@ Against the background of the swampadelic FTX miasma, the Pentagon fails to pass
 
 Like SBF, the Pentagon assures us that it's just one of those things, you know, a <a href="https://www.defensenews.com/pentagon/2022/11/16/dod-fails-audit-cites-ukraine-as-teachable-moment-in-accountability/" target="blank">"teachable moment"</a>.  
   
-What do you think? Time for a rebrand?
+Time for a rebrand?
 
 <img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto/v1668745925/pentaftx-better-together_amb4yl.png">
