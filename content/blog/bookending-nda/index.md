@@ -23,4 +23,4 @@ In fact, I think it's a good idea even if you aren't bound by an NDA.
 * If you're a person of integrity then you won't want to work for an employer or client that would try to pry secrets out of you. 
 * And an employer of integrity won't want to hire a betrayer. 
 
-Such a "bookend" agreement is therefore also a type of "proof" of intention and integrity of and for both parties.
+Such a "bookend" agreement is therefore also a type of proof of intention and integrity of and for both parties.
