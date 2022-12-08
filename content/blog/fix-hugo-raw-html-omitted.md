@@ -23,5 +23,5 @@ Thanks to a <a href="https://stackoverflow.com/questions/63198652/hugo-shortcode
     [markup.goldmark.renderer]
       unsafe = true
 ```
-
-<aside>&#x1F4A1; Fun fact: TOML stands for <a href="https://toml.io/en/" target="blank">Tom's Obvious Minimal Language</a></aside>
+<br />
+<aside>&#10003; Fun fact: TOML stands for <a href="https://toml.io/en/" target="blank">Tom's Obvious Minimal Language</a></aside>
