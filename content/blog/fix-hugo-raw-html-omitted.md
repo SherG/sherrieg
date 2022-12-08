@@ -17,4 +17,11 @@ In some cases, the wrapped text was invisible on the live site. In other cases, 
 
 Thanks to a <a href="https://stackoverflow.com/questions/63198652/hugo-shortcode-ignored-saying-raw-html-omitted/63206852#63206852" target="blank">Stackoverflow contributor</a>, I got the answer and added this fix below to my config.toml file. Sharing this here in case someone out there's searching for a solution too.
 
-<aside><small>Fun fact: TOML stands for <a href="https://toml.io/en/" target="blank">Tom's Obvious Minimal Language</a></small></aside>
+``` toml
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+```
+
+<aside>Fun fact: TOML stands for <a href="https://toml.io/en/" target="blank">Tom's Obvious Minimal Language</a></aside>
