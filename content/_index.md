@@ -9,7 +9,7 @@ aliases:
 
 Welcome to my internet notebook. `sherrieg` is short for my full name, Sherrie Gossett.
 
-My [Blog]({{< relref "blog" >}})is a casual assortment of observations, questions, interests, and projects. Here's the [RSS feed](/blog/index.xml).
+My [Blog]({{< relref "blog" >}}) is a casual assortment of observations, questions, interests, and projects. Here's the [RSS feed](/blog/index.xml).
 
 <!--more-->
 
