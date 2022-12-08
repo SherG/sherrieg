@@ -23,3 +23,11 @@ Thanks to a <a href="https://stackoverflow.com/questions/63198652/hugo-shortcode
     [markup.goldmark.renderer]
       unsafe = true
 ```
+If you have a config.yaml file, use this instead:
+
+``` yaml
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+```
