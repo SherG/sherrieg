@@ -24,4 +24,4 @@ Thanks to a <a href="https://stackoverflow.com/questions/63198652/hugo-shortcode
       unsafe = true
 ```
 
-<aside>:bulb: Fun fact: TOML stands for <a href="https://toml.io/en/" target="blank">Tom's Obvious Minimal Language</a></aside>
+<aside>&#x1F4A1; Fun fact: TOML stands for <a href="https://toml.io/en/" target="blank">Tom's Obvious Minimal Language</a></aside>
