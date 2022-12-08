@@ -9,13 +9,13 @@ aliases:
 
 Welcome to my internet notebook. `sherrieg` is short for my full name, Sherrie Gossett.
 
-My [Blog]({{< relref "blog" >}}) is a loose collection of observations, questions, interests, and projects. Here's the [RSS feed](/blog/index.xml).
+My [Blog]({{< relref "blog" >}})is a casual assortment of observations, questions, interests, and projects. Here's the [RSS feed](/blog/index.xml).
 
 <!--more-->
 
 ## Work
 
-I work with a brilliant team that buys, grows, and sells valuable digital assets in some of the world's most competitive sectors.
+I work with a brilliant team that helps entrepreneurs grow their businesses.
 
 I have a Bachelors in Applied Music and studied music history and theology at the grad level. I also believe that degrees indicate little. 
 
