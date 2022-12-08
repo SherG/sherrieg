@@ -24,4 +24,4 @@ Thanks to a <a href="https://stackoverflow.com/questions/63198652/hugo-shortcode
       unsafe = true
 ```
 <br />
-<aside>&#10003; Fun fact: TOML stands for <a href="https://toml.io/en/" target="blank">Tom's Obvious Minimal Language</a></aside>
+<aside>&#10003; Fun fact: TOML stands for <a href="https://toml.io/en/" target="blank">Tom's Obvious Minimal Language</a> and it was created by <a href="https://tom.preston-werner.com/" target="blank">Tom Preson-Werner</a>, co-founder of Github.</aside>
