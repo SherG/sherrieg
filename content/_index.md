@@ -9,21 +9,21 @@ aliases:
 
 Welcome to my internet notebook. `sherrieg` is short for my full name, Sherrie Gossett.
 
-My [Blog]({{< relref "blog" >}}) is a casual assortment of observations, questions, interests, and projects. Here's the [RSS feed](/blog/index.xml).
+My [Blog]({{< relref "blog" >}}) is a casual set of observations, questions, interests, and projects. Here's the [RSS feed](/blog/index.xml).
 
 <!--more-->
 
-## Work
+## 9-5
 
-I work with a brilliant team that helps entrepreneurs grow their businesses.
+I help entrepreneurs grow their businesses.
 
 I have a Bachelors in Applied Music and studied music history and theology at the grad level. I also believe that degrees indicate little. 
 
-## Contact
+## Email
 
 Want to get in touch? Email me at `c2hlcnJpZS5nNUBnbWFpbC5jb20=` (Decode that [here]({{< relref "base64-tool" >}})).
 
-## Around the web
+## Around town
 
 You can find me on <a href="https://signalfox.org" target="blank">SignalFox</a>, <a href="https://audiotonic.org/" target="blank">AudioTonic.org</a>, and <a href="https://www.ruralnh.org/" target="blank">RuralNH.org</a>. And I maintain this select <a href="https://sherrieg5.myportfolio.com/projects" target="blank">Portfolio page</a>
 
