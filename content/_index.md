@@ -13,7 +13,7 @@ My [Blog]({{< relref "blog" >}}) is a casual set of observations, questions, int
 
 <!--more-->
 
-## 9-5
+## Work+
 
 I help entrepreneurs grow their businesses.
 
