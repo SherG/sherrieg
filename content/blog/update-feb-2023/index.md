@@ -2,7 +2,7 @@
 title: "Arctic weather, wayward geese, and the DERP state"
 date: 2023-02-15T01:28:14-05:00
 publishdate: 2023-02-15
-draft: true
+draft: false
 toc: false
 
 ---
