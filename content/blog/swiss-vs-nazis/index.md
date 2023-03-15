@@ -13,7 +13,7 @@ I have a mini-goal to write a review for GoodReads on this -- once I get some mo
 
 The book tells the story of how the Swiss, surrounded by Axis powers (Germany, Italy) or Axis-dominated countries (France) planned their opposition to potential Nazi invasion. They weren't under any misconception that they might beat Germany; they did however intend to extract a severe price. In a worst-case scenario, they would fall back to the <em>réduit</em> and continue to fight occupiers.
 
-This was a whole-of-society effort: blind persons used their heightened sense of hearing to detect aircraft before others could; boy scouts were given rifles and secret missions; women and children manned farmed and factories when able-bodied men were called up to service. 
+This was a whole-of-society effort: blind persons used their heightened sense of hearing to detect aircraft before others could; boy scouts were given rifles and secret missions; women and children manned farms and factories when able-bodied men were called up to service. 
 
 The idea that every able-bodied man in Switzerland is required to serve in the the military <sup><a id="footnote-1-ref" href="#footnote-1">[1]</a></sup> and keeps his service weapon at home is well-known today, as it was during World War II. But perhaps more to the point, long before the war, marksmanship competitions were a national pastime and part of mountain culture. The Germans were right to fear and dread a nation full of potential snipers. 
 
