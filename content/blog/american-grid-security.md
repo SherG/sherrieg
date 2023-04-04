@@ -10,7 +10,7 @@ The takeway: Russia has been inside the U.S. Bulk Power System (BPS) for over a 
 
 Some excerpts: 
 
-* The Russian Federation has had "<strong>unimpeded access</strong> to the BPS [Bulk Power System] since at least 2012 . . ."
+* The Russian Federation has had "unimpeded access to the BPS [Bulk Power System] since at least 2012 . . ."
 * Russia's ". . . Cyberwarfare tools, training, reconnaissance, and testing puts Russia in control of the Grid as a battlespace . . ."
 * "the nation [U.S.] is past the tipping point . . ."
 * "CIP standards have no value in protecting the Grid from foreign adversaries . . ." Instead, they're a "'feel good' placebo for regulators and other overseers."
