@@ -4,9 +4,9 @@ date: 2023-04-03T00:00:00-06:00
 draft: false
 ---
 
-An excellent read: <a href="/beyond-the-first-battle.pdf">Beyond the First Battle: Overcoming a Protracted Blockade Taiwan</a>.
+This is very interesting read: <a href="/beyond-the-first-battle.pdf">Beyond the First Battle: Overcoming a Protracted Blockade Taiwan</a>.
 
-Author: <a href="https://www.uscc.gov/sites/default/files/2021-02/Lonnie_Henley_bio.pdf" target="blank">Lonnie D. Henley</a>, career intelligence officer and east Asia expert.
+The author is <a href="https://www.uscc.gov/sites/default/files/2021-02/Lonnie_Henley_bio.pdf" target="blank">Lonnie D. Henley</a>, career intelligence officer and east Asia expert.
 
 Summary: "If there is a war over Taiwan, an extended Chinese blockade is likely to determine the outcome. . . . In this author's assessment, nothing the United States armed forces are doing or planning to do is sufficient to prevail in that conflict."
 
