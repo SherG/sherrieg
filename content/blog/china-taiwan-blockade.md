@@ -30,4 +30,6 @@ The preferred option:
 
 <div style="padding-left: 2.5em;"><p>Winning the first battle is meaningless if we cannot win the war, and there is no path to U.S. victory that does not include the long blockade.</p></div>
 
+So, for the U.S. to win it would need to run and break the long blockade, repeatedly, and/or somehow, vanquish it entirely.
+
 
