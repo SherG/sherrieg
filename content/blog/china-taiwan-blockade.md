@@ -1,5 +1,5 @@
 ---
-title: "Overcoming a Chinese blockade of Taiwan: A sobering read"
+title: "Overcoming a Chinese blockade of Taiwan"
 date: 2023-04-03T00:00:00-06:00
 draft: false
 ---
