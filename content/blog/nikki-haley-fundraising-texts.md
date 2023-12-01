@@ -21,8 +21,8 @@ Will she text me again tomorrow night? We'll see.
 
 Yes, I realize it's not Nikki herself, but some entity raising campaign cash for her. 
 
-Welcome to New Hamsphire political season where our inboxes, cellphones and mailboxes get stuffed to the gills with unrequested, cheesy comms. It's a known phenomenon here: a tsunami unique to the area.
+Welcome to New Hamsphire political season where we get stuffed to the gills with unrequested, cheesy comms. It's a known phenomenon here: a tsunami like no other.
 
 I marvel over the cost of printing all those color promos on heavy cardstock. Whether they're from Democrats, Independents, or Republicans, they all go straight from my box into the trash can at the post office.
 
-They remind me of the fair-weather friend, who only contacts you when they need money or a favor.
+They remind me of that fair-weather friend, who only contacts you when they need money or a favor.
