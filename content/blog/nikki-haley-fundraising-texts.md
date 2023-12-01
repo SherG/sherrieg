@@ -15,7 +15,7 @@ Lo and behold, a new text tonight. It's Nikki - asking for money again. But spam
 
 Clever. And <a href="https://www.fcc.gov/rules-political-campaign-calls-and-texts#:~:text=As%20text%20messages%20generally%20go,and%20instead%20manually%20dials%20them." target="blank">possibly illegal</a>. 
 
-"STOP," I replied. 
+"STOP," I replied.
 
 Will she text me again tomorrow night? We'll see. 
 
@@ -25,4 +25,4 @@ Welcome to New Hamsphire political season where we get stuffed to the gills with
 
 I marvel over the cost of printing all those color promos on heavy cardstock. Whether they're from Democrats, Independents, or Republicans, they all go straight from my box into the trash can at the post office.
 
-They remind me of that fair-weather friend, who only contacts you when they need money or a favor.
+Reminds me of that fair-weather friend, who only contacts you when they need money or a favor.
