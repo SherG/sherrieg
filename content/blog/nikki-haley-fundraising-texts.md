@@ -17,7 +17,7 @@ Clever. And <a href="https://www.fcc.gov/rules-political-campaign-calls-and-text
 
 "STOP," I replied.
 
-Will she text me again tomorrow night? We'll see. 
+Will she text me again tomorrow night?
 
 Yes, I realize it's not Nikki herself, but some entity raising campaign cash for her. 
 
